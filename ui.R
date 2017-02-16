@@ -12,17 +12,12 @@ fluidPage(
       sliderInput("bins",
                   "Number of bins:",
                   min = 1,
-<<<<<<< HEAD
-                  max = 50,
+
+                  max =100,
                   value = 30)
     ),
-    actionButton("goButton", "Go!"),
-=======
-                  max = 100,
-                  value = 30)
-    ),
-    
->>>>>>> c856f3de537b44f8f3be33b99fcc36f13dfcd582
+                actionButton("goButton", "Go!"),
+
     # Show a plot of the generated distribution
     mainPanel(
       plotOutput("distPlot")
