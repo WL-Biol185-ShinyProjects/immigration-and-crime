@@ -26,7 +26,8 @@ inputPanel(
 )
 
 renderPlot({
-  filter(country == inpute$country) %>%
+  rate %>%
+  filter(country == input$country) %>%
     ggplot(aes(year, number, color = country)) + geom_line()
 })
 ```
