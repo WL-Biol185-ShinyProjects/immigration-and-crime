@@ -1,17 +1,18 @@
 library(shiny)
-
-# Define server logic required to draw a histogram
 shinyServer(function(input, output) {
   
-  output$distPlot <- renderPlot({
-    
-    # generate bins based on input$bins from ui.R
-    x    <- faithful[, 2] 
-    bins <- seq(min(x), max(x), length.out = input$bins + 1)
-    
-    # draw the histogram with the specified number of bins
-    hist(x, breaks = bins, col = 'darkgray', border = 'white')
-    
+  output$immtypePlot <- renderPlot({
+    master_immigration <- read.csv("Master_Immigration.csv")
+    master_immigration%>%
+      filter(immigrant_type == input$immigrant_type) %>%
+      ggplot(aes(year, number)) + geom_point()
   })
-  
+    
+
+output$crimetimePlot <- renderPlot({
+  crime <- read.csv("CRIME.csv")
+  crime %>%
+    filter(type == input$type) %>%
+    ggplot(aes(year, crime_rate)) + geom_line()
+})
 })
