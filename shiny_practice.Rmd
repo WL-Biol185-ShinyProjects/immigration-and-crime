@@ -1,0 +1,33 @@
+---
+title: "Shiny_practice"
+runtime: shiny
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+
+library(dplyr)
+library(ggplot2)
+rate <- read.csv("rate.csv")
+
+```
+
+```{r}
+#rate %>%
+  #ggplot(aes(country, number)) + geom_line()
+```
+
+```{r}
+inputPanel(
+  checkboxGroupInput("country", label = ("Country"), choices = unique((rate$country), selected = Algeria))
+)
+
+renderPlot({
+  filter(country == inpute$country) %>%
+    ggplot(aes(year, number, color = country)) + geom_line()
+})
+```
+
