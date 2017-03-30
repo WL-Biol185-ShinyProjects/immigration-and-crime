@@ -1,0 +1,50 @@
+---
+title: "shiny app tests"
+author: "Harrison Westgarth"
+date: "3/28/2017"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This R Markdown document is made interactive using Shiny. Unlike the more traditional workflow of creating static reports, you can now create documents that allow your readers to change the assumptions underlying your analysis and see the results immediately. 
+
+To learn more, see [Interactive Documents](http://rmarkdown.rstudio.com/authoring_shiny.html).
+
+## Inputs and Outputs
+
+You can embed Shiny inputs and outputs in your document. Outputs are automatically updated whenever inputs change.  This demonstrates how a standard R plot can be made interactive by wrapping it in the Shiny `renderPlot` function. The `selectInput` and `sliderInput` functions create the input widgets used to drive the plot.
+library(dplyr)
+library(shiny)
+inputPanel(
+  selectInput("month", label = "Month of Year", choices = unique(temps$month))
+)
+
+renderPlot({
+  temps %>%
+    filter(month == input$month) %>%
+  ggplot(aes(date, index)) + geom_point(alpha = .5) + geom_smooth()
+})
+
+```{r}
+library(dplyr)
+library(shiny)
+library(ggplot2)
+```
+```{r}
+inputPanel(
+  selectInput("Immigrant Type", label = "Type", choices = unique(Master_Immigration$immigrant_type))
+)
+renderPlot({
+  Master_Immigration %>%
+    filter(immigrant_type == input$immigrant_type) %>%
+    ggplot(aes(year, number)) + geom_point()
+})
+
+  
+```
+
+
