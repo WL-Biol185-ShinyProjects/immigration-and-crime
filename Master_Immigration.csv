@@ -316,6 +316,7 @@ Central African Republic,Africa,2012,Refugee,136
 Central African Republic,Africa,2013,Refugee,318
 Central African Republic,Africa,2014,Refugee,25
 Central African Republic,Africa,2015,Refugee,270
+<<<<<<< HEAD
 Central African Republic ,Africa,1997,Deported,NA
 Central African Republic ,Africa,1998,Deported,NA
 Central African Republic ,Africa,1999,Deported,NA
@@ -323,6 +324,15 @@ Central African Republic ,Africa,2000,Deported,NA
 Central African Republic ,Africa,2001,Deported,NA
 Central African Republic ,Africa,2002,Deported,NA
 Central African Republic ,Africa,2003,Deported,NA
+=======
+Central African Republic,Africa,1997,Deported,NA
+Central African Republic,Africa,1998,Deported,NA
+Central African Republic,Africa,1999,Deported,NA
+Central African Republic,Africa,2000,Deported,NA
+Central African Republic,Africa,2001,Deported,NA
+Central African Republic,Africa,2002,Deported,NA
+Central African Republic,Africa,2003,Deported,NA
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Chad,Africa,1997,Asylee,0
 Chad,Africa,1998,Asylee,13
 Chad,Africa,1999,Asylee,20
@@ -459,6 +469,7 @@ Cote d'Ivoire,Africa,2012,Refugee,33
 Cote d'Ivoire,Africa,2013,Refugee,20
 Cote d'Ivoire,Africa,2014,Refugee,42
 Cote d'Ivoire,Africa,2015,Refugee,28
+<<<<<<< HEAD
 Democratic Republic Congo,Africa,2004,Deported,22
 Democratic Republic Congo,Africa,2005,Deported,18
 Democratic Republic Congo,Africa,2006,Deported,23
@@ -470,6 +481,19 @@ Democratic Republic Congo,Africa,2011,Deported,15
 Democratic Republic Congo,Africa,2012,Deported,13
 Democratic Republic Congo,Africa,2013,Deported,NA
 Democratic Republic Congo,Africa,2014,Deported,4
+=======
+Democratic Republic of Congo,Africa,2004,Deported,22
+Democratic Republic of Congo,Africa,2005,Deported,18
+Democratic Republic of Congo,Africa,2006,Deported,23
+Democratic Republic of Congo,Africa,2007,Deported,17
+Democratic Republic of Congo,Africa,2008,Deported,32
+Democratic Republic of Congo,Africa,2009,Deported,17
+Democratic Republic of Congo,Africa,2010,Deported,11
+Democratic Republic of Congo,Africa,2011,Deported,15
+Democratic Republic of Congo,Africa,2012,Deported,13
+Democratic Republic of Congo,Africa,2013,Deported,NA
+Democratic Republic of Congo,Africa,2014,Deported,4
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Democratic Republic of Congo,Africa,1997,Asylee,139
 Democratic Republic of Congo,Africa,1998,Asylee,208
 Democratic Republic of Congo,Africa,1999,Asylee,215
@@ -568,6 +592,7 @@ Equatorial Guinea,Africa,2012,Refugee,0
 Equatorial Guinea,Africa,2013,Refugee,0
 Equatorial Guinea,Africa,2014,Refugee,0
 Equatorial Guinea,Africa,2015,Refugee,0
+<<<<<<< HEAD
 Eriteria,Africa,1990,Asylee,0
 Eriteria,Africa,1991,Asylee,0
 Eriteria,Africa,1992,Asylee,0
@@ -575,6 +600,15 @@ Eriteria,Africa,1993,Asylee,0
 Eriteria,Africa,1994,Asylee,5
 Eriteria,Africa,1995,Asylee,12
 Eriteria,Africa,1996,Asylee,34
+=======
+Eritrea,Africa,1990,Asylee,0
+Eritrea,Africa,1991,Asylee,0
+Eritrea,Africa,1992,Asylee,0
+Eritrea,Africa,1993,Asylee,0
+Eritrea,Africa,1994,Asylee,5
+Eritrea,Africa,1995,Asylee,12
+Eritrea,Africa,1996,Asylee,34
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Eritrea,Africa,1997,Asylee,45
 Eritrea,Africa,1998,Asylee,103
 Eritrea,Africa,1999,Asylee,169
@@ -1026,6 +1060,7 @@ Lesotho,Africa,1993,Deported,NA
 Lesotho,Africa,1994,Deported,1
 Lesotho,Africa,1995,Deported,NA
 Lesotho,Africa,1996,Deported,1
+<<<<<<< HEAD
 Lesotho ,Africa,1997,Deported,NA
 Lesotho ,Africa,1998,Deported,NA
 Lesotho ,Africa,1999,Deported,NA
@@ -1033,6 +1068,15 @@ Lesotho ,Africa,2000,Deported,NA
 Lesotho ,Africa,2001,Deported,NA
 Lesotho ,Africa,2002,Deported,NA
 Lesotho ,Africa,2003,Deported,NA
+=======
+Lesotho,Africa,1997,Deported,NA
+Lesotho,Africa,1998,Deported,NA
+Lesotho,Africa,1999,Deported,NA
+Lesotho,Africa,2000,Deported,NA
+Lesotho,Africa,2001,Deported,NA
+Lesotho,Africa,2002,Deported,NA
+Lesotho,Africa,2003,Deported,NA
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Liberia,Africa,1990,Asylee,10
 Liberia,Africa,1991,Asylee,53
 Liberia,Africa,1992,Asylee,209
@@ -1586,6 +1630,7 @@ Republic of Congo,Africa,2012,Refugee,102
 Republic of Congo,Africa,2013,Refugee,161
 Republic of Congo,Africa,2014,Refugee,30
 Republic of Congo,Africa,2015,Refugee,52
+<<<<<<< HEAD
 Republic of the Congo,Africa,1997,Deported,4
 Republic of the Congo,Africa,1998,Deported,5
 Republic of the Congo,Africa,1999,Deported,12
@@ -1593,6 +1638,15 @@ Republic of the Congo,Africa,2000,Deported,12
 Republic of the Congo,Africa,2001,Deported,13
 Republic of the Congo,Africa,2002,Deported,18
 Republic of the Congo,Africa,2003,Deported,23
+=======
+Republic of Congo,Africa,1997,Deported,4
+Republic of Congo,Africa,1998,Deported,5
+Republic of Congo,Africa,1999,Deported,12
+Republic of Congo,Africa,2000,Deported,12
+Republic of Congo,Africa,2001,Deported,13
+Republic of Congo,Africa,2002,Deported,18
+Republic of Congo,Africa,2003,Deported,23
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Rwanda,Africa,1990,Asylee,0
 Rwanda,Africa,1991,Asylee,0
 Rwanda,Africa,1992,Asylee,0
@@ -1722,6 +1776,7 @@ Seychelles,Africa,1993,Deported,NA
 Seychelles,Africa,1994,Deported,NA
 Seychelles,Africa,1995,Deported,1
 Seychelles,Africa,1996,Deported,2
+<<<<<<< HEAD
 Seychelles ,Africa,1997,Deported,NA
 Seychelles ,Africa,1998,Deported,NA
 Seychelles ,Africa,1999,Deported,NA
@@ -1729,6 +1784,15 @@ Seychelles ,Africa,2000,Deported,NA
 Seychelles ,Africa,2001,Deported,NA
 Seychelles ,Africa,2002,Deported,NA
 Seychelles ,Africa,2003,Deported,NA
+=======
+Seychelles,Africa,1997,Deported,NA
+Seychelles,Africa,1998,Deported,NA
+Seychelles,Africa,1999,Deported,NA
+Seychelles,Africa,2000,Deported,NA
+Seychelles,Africa,2001,Deported,NA
+Seychelles,Africa,2002,Deported,NA
+Seychelles,Africa,2003,Deported,NA
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Sierra Leone,Africa,1990,Asylee,0
 Sierra Leone,Africa,1991,Asylee,0
 Sierra Leone,Africa,1992,Asylee,2
@@ -2412,6 +2476,7 @@ Zimbabwe,Africa,2012,Refugee,3
 Zimbabwe,Africa,2013,Refugee,12
 Zimbabwe,Africa,2014,Refugee,0
 Zimbabwe,Africa,2015,Refugee,7
+<<<<<<< HEAD
 Mongolia,Aisa,1997,Deported,NA
 Mongolia,Aisa,1998,Deported,NA
 Mongolia,Aisa,1999,Deported,NA
@@ -2438,6 +2503,34 @@ Oman,Aisa,2000,Deported,NA
 Oman,Aisa,2001,Deported,3
 Oman,Aisa,2002,Deported,NA
 Oman,Aisa,2003,Deported,NA
+=======
+Mongolia,Asia,1997,Deported,NA
+Mongolia,Asia,1998,Deported,NA
+Mongolia,Asia,1999,Deported,NA
+Mongolia,Asia,2000,Deported,NA
+Mongolia,Asia,2001,Deported,7
+Mongolia,Asia,2002,Deported,18
+Mongolia,Asia,2003,Deported,39
+Mongolia,Asia,2004,Deported,42
+Mongolia,Asia,2005,Deported,27
+Mongolia,Asia,2006,Deported,48
+Mongolia,Asia,2007,Deported,46
+Mongolia,Asia,2008,Deported,50
+Mongolia,Asia,2009,Deported,48
+Mongolia,Asia,2010,Deported,53
+Mongolia,Asia,2011,Deported,77
+Mongolia,Asia,2012,Deported,55
+Mongolia,Asia,2013,Deported,24
+Mongolia,Asia,2014,Deported,24
+Mongolia,Asia,2015,Deported,20
+Oman,Asia,1997,Deported,NA
+Oman,Asia,1998,Deported,NA
+Oman,Asia,1999,Deported,3
+Oman,Asia,2000,Deported,NA
+Oman,Asia,2001,Deported,3
+Oman,Asia,2002,Deported,NA
+Oman,Asia,2003,Deported,NA
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Afghanistan,Asia,1990,Asylee,24
 Afghanistan,Asia,1991,Asylee,46
 Afghanistan,Asia,1992,Asylee,90
@@ -5473,6 +5566,7 @@ Trinidad and Tobago,Central America,2012,Deported,233
 Trinidad and Tobago,Central America,2013,Deported,169
 Trinidad and Tobago,Central America,2014,Deported,163
 Trinidad and Tobago,Central America,2015,Deported,126
+<<<<<<< HEAD
 Trinidad and Tobago ,Central America,1997,Deported,NA
 Trinidad and Tobago ,Central America,1998,Deported,6
 Trinidad and Tobago ,Central America,1999,Deported,310
@@ -5480,6 +5574,15 @@ Trinidad and Tobago ,Central America,2000,Deported,350
 Trinidad and Tobago ,Central America,2001,Deported,355
 Trinidad and Tobago ,Central America,2002,Deported,399
 Trinidad and Tobago ,Central America,2003,Deported,411
+=======
+Trinidad and Tobago,Central America,1997,Deported,NA
+Trinidad and Tobago,Central America,1998,Deported,6
+Trinidad and Tobago,Central America,1999,Deported,310
+Trinidad and Tobago,Central America,2000,Deported,350
+Trinidad and Tobago,Central America,2001,Deported,355
+Trinidad and Tobago,Central America,2002,Deported,399
+Trinidad and Tobago,Central America,2003,Deported,411
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Turks and Caicos Islands,Central America,1997,Deported,NA
 Turks and Caicos Islands,Central America,1998,Deported,NA
 Turks and Caicos Islands,Central America,1999,Deported,5
@@ -7374,6 +7477,7 @@ Norway,Europe,2003,Lawful,385
 Norway,Europe,2004,Lawful,457
 Norway,Europe,2005,Lawful,472
 Norway,Europe,2006,Lawful,532
+<<<<<<< HEAD
 Norway ,Europe,2007,Lawful,1604
 Norway ,Europe,2008,Lawful,386
 Norway ,Europe,2009,Lawful,429
@@ -7383,6 +7487,17 @@ Norway ,Europe,2012,Lawful,314
 Norway ,Europe,2013,Lawful,389
 Norway ,Europe,2014,Lawful,332
 Norway ,Europe,2015,Lawful,357
+=======
+Norway,Europe,2007,Lawful,1604
+Norway,Europe,2008,Lawful,386
+Norway,Europe,2009,Lawful,429
+Norway,Europe,2010,Lawful,363
+Norway,Europe,2011,Lawful,405
+Norway,Europe,2012,Lawful,314
+Norway,Europe,2013,Lawful,389
+Norway,Europe,2014,Lawful,332
+Norway,Europe,2015,Lawful,357
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Norway-Sweden,Europe,2007,Lawful,1482
 Norway-Sweden,Europe,2008,Lawful,1557
 Norway-Sweden,Europe,2009,Lawful,1726
@@ -7841,6 +7956,7 @@ Serbia and Montenegro,Europe,2012,Refugee,0
 Serbia and Montenegro,Europe,2013,Refugee,0
 Serbia and Montenegro,Europe,2014,Refugee,0
 Serbia and Montenegro,Europe,2015,Refugee,0
+<<<<<<< HEAD
 Serbia and Montenegro ,Europe,1997,Deported,50
 Serbia and Montenegro ,Europe,1998,Deported,47
 Serbia and Montenegro ,Europe,1999,Deported,36
@@ -7858,6 +7974,25 @@ Serbia and Montenegro (former),Europe,2012,Deported,23
 Serbia and Montenegro (former),Europe,2013,Deported,20
 Serbia and Montenegro (former),Europe,2014,Deported,4
 Serbia and Montenegro (former),Europe,2015,Deported,8
+=======
+Serbia and Montenegro,Europe,1997,Deported,50
+Serbia and Montenegro,Europe,1998,Deported,47
+Serbia and Montenegro,Europe,1999,Deported,36
+Serbia and Montenegro,Europe,2000,Deported,41
+Serbia and Montenegro,Europe,2001,Deported,71
+Serbia and Montenegro,Europe,2002,Deported,55
+Serbia and Montenegro,Europe,2003,Deported,73
+Serbia and Montenegro,Europe,2006,Deported,105
+Serbia and Montenegro,Europe,2007,Deported,137
+Serbia and Montenegro,Europe,2008,Deported,165
+Serbia and Montenegro,Europe,2009,Deported,101
+Serbia and Montenegro,Europe,2010,Deported,109
+Serbia and Montenegro,Europe,2011,Deported,79
+Serbia and Montenegro,Europe,2012,Deported,23
+Serbia and Montenegro,Europe,2013,Deported,20
+Serbia and Montenegro,Europe,2014,Deported,4
+Serbia and Montenegro,Europe,2015,Deported,8
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Slovak Republic,Europe,1990,Asylee,0
 Slovak Republic,Europe,1991,Asylee,0
 Slovak Republic,Europe,1992,Asylee,0
@@ -7977,6 +8112,7 @@ Soviet Union,Europe,2002,Refugee,0
 Soviet Union,Europe,2003,Refugee,0
 Soviet Union,Europe,2004,Refugee,0
 Soviet Union,Europe,2005,Refugee,0
+<<<<<<< HEAD
 Soviet Union ,Europe,1997,Deported,13
 Soviet Union ,Europe,1998,Deported,17
 Soviet Union ,Europe,1999,Deported,16
@@ -8001,6 +8137,32 @@ Soviet Union (former),Europe,2015,Deported,NA
 "Soviet Union, former",Europe,1996,Deported,45
 "Soviet Union, former",Europe,2004,Deported,17
 "Soviet Union, former",Europe,2005,Deported,22
+=======
+Soviet Union,Europe,1997,Deported,13
+Soviet Union,Europe,1998,Deported,17
+Soviet Union,Europe,1999,Deported,16
+Soviet Union,Europe,2000,Deported,15
+Soviet Union,Europe,2001,Deported,6
+Soviet Union,Europe,2002,Deported,12
+Soviet Union,Europe,2003,Deported,9
+Soviet Union,Europe,2006,Deported,8
+Soviet Union,Europe,2007,Deported,5
+Soviet Union,Europe,2008,Deported,14
+Soviet Union,Europe,2009,Deported,5
+Soviet Union,Europe,2010,Deported,4
+Soviet Union,Europe,2011,Deported,4
+Soviet Union,Europe,2012,Deported,NA
+Soviet Union,Europe,2013,Deported,4
+Soviet Union,Europe,2014,Deported,NA
+Soviet Union,Europe,2015,Deported,NA
+Soviet Union,Europe,1992,Deported,20
+Soviet Union,Europe,1993,Deported,8
+Soviet Union,Europe,1994,Deported,26
+Soviet Union,Europe,1995,Deported,38
+Soviet Union,Europe,1996,Deported,45
+Soviet Union,Europe,2004,Deported,17
+Soviet Union,Europe,2005,Deported,22
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Spain,Europe,1992,Deported,11
 Spain,Europe,1993,Deported,14
 Spain,Europe,1994,Deported,19
@@ -8132,6 +8294,7 @@ Sweden,Europe,2003,Lawful,1131
 Sweden,Europe,2004,Lawful,1554
 Sweden,Europe,2005,Lawful,1792
 Sweden,Europe,2006,Lawful,1579
+<<<<<<< HEAD
 Sweden ,Europe,2007,Lawful,388
 Sweden ,Europe,2008,Lawful,1171
 Sweden ,Europe,2009,Lawful,1297
@@ -8141,6 +8304,17 @@ Sweden ,Europe,2012,Lawful,1127
 Sweden ,Europe,2013,Lawful,1276
 Sweden ,Europe,2014,Lawful,1147
 Sweden ,Europe,2015,Lawful,1194
+=======
+Sweden,Europe,2007,Lawful,388
+Sweden,Europe,2008,Lawful,1171
+Sweden,Europe,2009,Lawful,1297
+Sweden,Europe,2010,Lawful,1299
+Sweden,Europe,2011,Lawful,1125
+Sweden,Europe,2012,Lawful,1127
+Sweden,Europe,2013,Lawful,1276
+Sweden,Europe,2014,Lawful,1147
+Sweden,Europe,2015,Lawful,1194
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Switzerland,Europe,1992,Deported,5
 Switzerland,Europe,1993,Deported,6
 Switzerland,Europe,1994,Deported,6
@@ -8402,6 +8576,7 @@ Yugoslavia,Europe,1993,Refugee,0
 Yugoslavia,Europe,1994,Refugee,0
 Yugoslavia,Europe,1995,Refugee,0
 Yugoslavia,Europe,1996,Refugee,0
+<<<<<<< HEAD
 Yuogoslavia,Europe,1820,Lawful,0
 Yuogoslavia,Europe,1830,Lawful,0
 Yuogoslavia,Europe,1840,Lawful,0
@@ -8439,6 +8614,45 @@ Yuogoslavia,Europe,2003,Lawful,8270
 Yuogoslavia,Europe,2004,Lawful,13213
 Yuogoslavia,Europe,2005,Lawful,19249
 Yuogoslavia,Europe,2006,Lawful,11066
+=======
+Yugoslavia,Europe,1820,Lawful,0
+Yugoslavia,Europe,1830,Lawful,0
+Yugoslavia,Europe,1840,Lawful,0
+Yugoslavia,Europe,1850,Lawful,0
+Yugoslavia,Europe,1860,Lawful,0
+Yugoslavia,Europe,1870,Lawful,0
+Yugoslavia,Europe,1880,Lawful,0
+Yugoslavia,Europe,1890,Lawful,0
+Yugoslavia,Europe,1900,Lawful,0
+Yugoslavia,Europe,1910,Lawful,0
+Yugoslavia,Europe,1920,Lawful,1888
+Yugoslavia,Europe,1930,Lawful,49064
+Yugoslavia,Europe,1940,Lawful,5835
+Yugoslavia,Europe,1950,Lawful,1576
+Yugoslavia,Europe,1960,Lawful,8225
+Yugoslavia,Europe,1970,Lawful,20381
+Yugoslavia,Europe,1980,Lawful,30540
+Yugoslavia,Europe,1987,Lawful,18762
+Yugoslavia,Europe,1988,Lawful,2039
+Yugoslavia,Europe,1989,Lawful,2464
+Yugoslavia,Europe,1990,Lawful,2778
+Yugoslavia,Europe,1991,Lawful,2802
+Yugoslavia,Europe,1992,Lawful,2741
+Yugoslavia,Europe,1993,Lawful,2781
+Yugoslavia,Europe,1994,Lawful,3183
+Yugoslavia,Europe,1995,Lawful,7828
+Yugoslavia,Europe,1996,Lawful,10755
+Yugoslavia,Europe,1997,Lawful,9913
+Yugoslavia,Europe,1998,Lawful,7264
+Yugoslavia,Europe,1999,Lawful,7077
+Yugoslavia,Europe,2000,Lawful,11960
+Yugoslavia,Europe,2001,Lawful,21854
+Yugoslavia,Europe,2002,Lawful,28051
+Yugoslavia,Europe,2003,Lawful,8270
+Yugoslavia,Europe,2004,Lawful,13213
+Yugoslavia,Europe,2005,Lawful,19249
+Yugoslavia,Europe,2006,Lawful,11066
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Bahrain,Middle East,2006,Asylee,0
 Bahrain,Middle East,2007,Asylee,0
 Bahrain,Middle East,2008,Asylee,0
@@ -9504,6 +9718,7 @@ Australia,Oceania,2003,Lawful,2488
 Australia,Oceania,2004,Lawful,3397
 Australia,Oceania,2005,Lawful,4090
 Australia,Oceania,2006,Lawful,3770
+<<<<<<< HEAD
 Australia ,Oceania,2007,Lawful,6639
 Australia ,Oceania,2008,Lawful,3031
 Australia ,Oceania,2009,Lawful,3098
@@ -9513,6 +9728,17 @@ Australia ,Oceania,2012,Lawful,3146
 Australia ,Oceania,2013,Lawful,3529
 Australia ,Oceania,2014,Lawful,3582
 Australia ,Oceania,2015,Lawful,3795
+=======
+Australia,Oceania,2007,Lawful,6639
+Australia,Oceania,2008,Lawful,3031
+Australia,Oceania,2009,Lawful,3098
+Australia,Oceania,2010,Lawful,3077
+Australia,Oceania,2011,Lawful,3062
+Australia,Oceania,2012,Lawful,3146
+Australia,Oceania,2013,Lawful,3529
+Australia,Oceania,2014,Lawful,3582
+Australia,Oceania,2015,Lawful,3795
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Fiji,Oceania,1990,Asylee,1
 Fiji,Oceania,1991,Asylee,4
 Fiji,Oceania,1992,Asylee,18
@@ -9780,6 +10006,7 @@ Western Samoa,Oceania,1993,Deported,10
 Western Samoa,Oceania,1994,Deported,8
 Western Samoa,Oceania,1995,Deported,13
 Western Samoa,Oceania,1996,Deported,4
+<<<<<<< HEAD
 Samoa,Oceanie,1997,Deported,15
 Samoa,Oceanie,1998,Deported,7
 Samoa,Oceanie,1999,Deported,16
@@ -9799,6 +10026,27 @@ Samoa,Oceanie,2012,Deported,5
 Samoa,Oceanie,2013,Deported,10
 Samoa,Oceanie,2014,Deported,10
 Samoa,Oceanie,2015,Deported,NA
+=======
+Samoa,Oceania,1997,Deported,15
+Samoa,Oceania,1998,Deported,7
+Samoa,Oceania,1999,Deported,16
+Samoa,Oceania,2000,Deported,13
+Samoa,Oceania,2001,Deported,10
+Samoa,Oceania,2002,Deported,24
+Samoa,Oceania,2003,Deported,19
+Samoa,Oceania,2004,Deported,27
+Samoa,Oceania,2005,Deported,21
+Samoa,Oceania,2006,Deported,7
+Samoa,Oceania,2007,Deported,23
+Samoa,Oceania,2008,Deported,20
+Samoa,Oceania,2009,Deported,19
+Samoa,Oceania,2010,Deported,14
+Samoa,Oceania,2011,Deported,9
+Samoa,Oceania,2012,Deported,5
+Samoa,Oceania,2013,Deported,10
+Samoa,Oceania,2014,Deported,10
+Samoa,Oceania,2015,Deported,NA
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Argentina,South America,1992,Deported,36
 Argentina,South America,1993,Deported,16
 Argentina,South America,1994,Deported,26
@@ -9860,6 +10108,7 @@ Argentina,South America,2003,Lawful,3193
 Argentina,South America,2004,Lawful,4672
 Argentina,South America,2005,Lawful,6945
 Argentina,South America,2006,Lawful,7239
+<<<<<<< HEAD
 Argentina ,South America,2007,Lawful,102616
 Argentina ,South America,2008,Lawful,5170
 Argentina ,South America,2009,Lawful,5672
@@ -9869,6 +10118,17 @@ Argentina ,South America,2012,Lawful,4218
 Argentina ,South America,2013,Lawful,4227
 Argentina ,South America,2014,Lawful,3757
 Argentina ,South America,2015,Lawful,3542
+=======
+Argentina,South America,2007,Lawful,102616
+Argentina,South America,2008,Lawful,5170
+Argentina,South America,2009,Lawful,5672
+Argentina,South America,2010,Lawful,4312
+Argentina,South America,2011,Lawful,4335
+Argentina,South America,2012,Lawful,4218
+Argentina,South America,2013,Lawful,4227
+Argentina,South America,2014,Lawful,3757
+Argentina,South America,2015,Lawful,3542
+>>>>>>> b13656f236dd26403ff57a9f9188f6dbca475227
 Bolivia,South America,1997,Asylee,0
 Bolivia,South America,1998,Asylee,0
 Bolivia,South America,1999,Asylee,11
