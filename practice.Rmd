@@ -1,0 +1,105 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+library(ggplot2)
+library(tidyverse)
+
+```
+
+```{r}
+ggplot(Master_Immigration, aes(immigrant_type, number)) + geom_bar()
+
+
+
+```
+
+```{r}
+CRIME %>%
+  filter(type == "Drug Related") %>%
+ggplot(aes(year, crime_rate)) + geom_line()
+```
+
+```{r}
+nrow(Master_Immigration)
+```
+
+```{r}
+Master_Immigration$region
+levels(Master_Immigration$region)
+```
+
+```{r}
+library(ggplot2)
+levels(Master_Immigration$region)
+```
+```{r}
+Master_Immigration %>%
+  filter(region == "Africa") %>%
+ggplot(aes(number)) + geom_density()
+```
+
+```{r}
+sum(Master_Immigration$number, na.rm=TRUE)
+```
+
+```{r}
+Master_Immigration %>%
+  filter(region == "Africa") %>%
+sum(Master_Immigration$number)
+```
+colSums(number)
+
+```{r}
+aggregate(number ~ region)
+```
+
+```{r}
+library(dplyr)
+Master_Immigration %>%
+  group_by(region) %>%
+  summarize(number = sum(number, na.rm = TRUE))
+
+```
+
+```{r}
+library(dplyr)
+Master_Immigration %>%
+  group_by(country) %>%
+  summarize(number = sum(number, na.rm = TRUE))
+```
+
+```{r}
+country <- filter(Master_Immigration %>%
+                    group_by(country) %>%
+                    summarize(number = sum(number, na.rm = TRUE)) )
+```
+
+```{r}
+Master_Immigration %>%
+  group_by(country, immigrant_type) %>%
+  summarize(number = sum(number, na.rm = TRUE))
+```
+```{r}
+rate <- filter(Master_Immigration) %>%
+    group_by(country, year) %>%
+     summarize(number = sum(number, na.rm = TRUE))
+
+```
+```{r}
+Master_Immigration %>%
+is.factor(number)
+```
+```{r}
+save(rate, file = "rate12.txt")
+```
+
+```{r}
+write.csv(rate, file = "rate.csv")
+```
+

@@ -1,0 +1,5738 @@
+"","country","year","number"
+"1","Afghanistan",1990,1618
+"2","Afghanistan",1991,1526
+"3","Afghanistan",1992,1544
+"4","Afghanistan",1993,1307
+"5","Afghanistan",1994,183
+"6","Afghanistan",1995,347
+"7","Afghanistan",1996,220
+"8","Afghanistan",1997,294
+"9","Afghanistan",1998,402
+"10","Afghanistan",1999,731
+"11","Afghanistan",2000,1982
+"12","Afghanistan",2001,3269
+"13","Afghanistan",2002,1880
+"14","Afghanistan",2003,1548
+"15","Afghanistan",2004,1031
+"16","Afghanistan",2005,953
+"17","Afghanistan",2006,680
+"18","Afghanistan",2007,511
+"19","Afghanistan",2008,652
+"20","Afghanistan",2009,448
+"21","Afghanistan",2010,646
+"22","Afghanistan",2011,564
+"23","Afghanistan",2012,660
+"24","Afghanistan",2013,770
+"25","Afghanistan",2014,875
+"26","Afghanistan",2015,1075
+"27","Albania",1990,104
+"28","Albania",1991,1363
+"29","Albania",1992,1131
+"30","Albania",1993,489
+"31","Albania",1994,223
+"32","Albania",1995,200
+"33","Albania",1996,462
+"34","Albania",1997,422
+"35","Albania",1998,615
+"36","Albania",1999,482
+"37","Albania",2000,520
+"38","Albania",2001,634
+"39","Albania",2002,471
+"40","Albania",2003,397
+"41","Albania",2004,384
+"42","Albania",2005,323
+"43","Albania",2006,295
+"44","Albania",2007,279
+"45","Albania",2008,362
+"46","Albania",2009,329
+"47","Albania",2010,264
+"48","Albania",2011,189
+"49","Albania",2012,132
+"50","Albania",2013,72
+"51","Albania",2014,78
+"52","Albania",2015,62
+"53","Algeria",1992,6
+"54","Algeria",1993,4
+"55","Algeria",1994,7
+"56","Algeria",1995,5
+"57","Algeria",1996,8
+"58","Algeria",1997,98
+"59","Algeria",1998,215
+"60","Algeria",1999,179
+"61","Algeria",2000,158
+"62","Algeria",2001,83
+"63","Algeria",2002,60
+"64","Algeria",2003,63
+"65","Algeria",2004,64
+"66","Algeria",2005,45
+"67","Algeria",2006,46
+"68","Algeria",2007,30
+"69","Algeria",2008,29
+"70","Algeria",2009,32
+"71","Algeria",2010,25
+"72","Algeria",2011,21
+"73","Algeria",2012,31
+"74","Algeria",2013,8
+"75","Algeria",2014,15
+"76","Algeria",2015,20
+"77","Andorra",1992,0
+"78","Andorra",1993,0
+"79","Andorra",1994,0
+"80","Andorra",1995,1
+"81","Andorra",1996,0
+"82","Andorra",1997,0
+"83","Andorra",1998,0
+"84","Andorra",1999,0
+"85","Andorra",2000,0
+"86","Andorra",2001,0
+"87","Andorra",2002,0
+"88","Andorra",2003,0
+"89","Angola",1992,0
+"90","Angola",1993,2
+"91","Angola",1994,1
+"92","Angola",1995,1
+"93","Angola",1996,1
+"94","Angola",1997,7
+"95","Angola",1998,15
+"96","Angola",1999,35
+"97","Angola",2000,67
+"98","Angola",2001,93
+"99","Angola",2002,55
+"100","Angola",2003,50
+"101","Angola",2004,38
+"102","Angola",2005,40
+"103","Angola",2006,32
+"104","Angola",2007,26
+"105","Angola",2008,21
+"106","Angola",2009,31
+"107","Angola",2010,10
+"108","Angola",2011,28
+"109","Angola",2012,16
+"110","Angola",2013,32
+"111","Angola",2014,23
+"112","Angola",2015,50
+"113","Anguilla",1997,0
+"114","Anguilla",1998,4
+"115","Anguilla",1999,0
+"116","Anguilla",2000,0
+"117","Anguilla",2001,0
+"118","Anguilla",2002,3
+"119","Anguilla",2003,0
+"120","Antigua-Barbuda",1992,15
+"121","Antigua-Barbuda",1993,16
+"122","Antigua-Barbuda",1994,16
+"123","Antigua-Barbuda",1995,19
+"124","Antigua-Barbuda",1996,15
+"125","Antigua-Barbuda",1997,26
+"126","Antigua-Barbuda",1998,38
+"127","Antigua-Barbuda",1999,41
+"128","Antigua-Barbuda",2000,33
+"129","Antigua-Barbuda",2001,34
+"130","Antigua-Barbuda",2002,40
+"131","Antigua-Barbuda",2003,41
+"132","Antigua-Barbuda",2004,36
+"133","Antigua-Barbuda",2005,34
+"134","Antigua-Barbuda",2006,40
+"135","Antigua-Barbuda",2007,45
+"136","Antigua-Barbuda",2008,28
+"137","Antigua-Barbuda",2009,43
+"138","Antigua-Barbuda",2010,24
+"139","Antigua-Barbuda",2011,19
+"140","Antigua-Barbuda",2012,39
+"141","Antigua-Barbuda",2013,21
+"142","Antigua-Barbuda",2014,13
+"143","Antigua-Barbuda",2015,16
+"144","Argentina",1820,0
+"145","Argentina",1830,0
+"146","Argentina",1840,0
+"147","Argentina",1850,0
+"148","Argentina",1860,0
+"149","Argentina",1870,0
+"150","Argentina",1880,0
+"151","Argentina",1890,0
+"152","Argentina",1900,0
+"153","Argentina",1910,0
+"154","Argentina",1920,0
+"155","Argentina",1930,0
+"156","Argentina",1940,1349
+"157","Argentina",1950,3338
+"158","Argentina",1960,19486
+"159","Argentina",1970,49721
+"160","Argentina",1980,29897
+"161","Argentina",1987,27327
+"162","Argentina",1988,2556
+"163","Argentina",1989,3766
+"164","Argentina",1990,5953
+"165","Argentina",1991,4231
+"166","Argentina",1992,4119
+"167","Argentina",1993,2988
+"168","Argentina",1994,2500
+"169","Argentina",1995,2266
+"170","Argentina",1996,2902
+"171","Argentina",1997,2123
+"172","Argentina",1998,1720
+"173","Argentina",1999,1676
+"174","Argentina",2000,2610
+"175","Argentina",2001,3676
+"176","Argentina",2002,4287
+"177","Argentina",2003,3717
+"178","Argentina",2004,5320
+"179","Argentina",2005,7519
+"180","Argentina",2006,7696
+"181","Argentina",2007,103011
+"182","Argentina",2008,5560
+"183","Argentina",2009,6120
+"184","Argentina",2010,4663
+"185","Argentina",2011,4621
+"186","Argentina",2012,4435
+"187","Argentina",2013,4374
+"188","Argentina",2014,3875
+"189","Argentina",2015,3674
+"190","Armenia",1990,0
+"191","Armenia",1991,0
+"192","Armenia",1992,2
+"193","Armenia",1993,28
+"194","Armenia",1994,77
+"195","Armenia",1995,414
+"196","Armenia",1996,344
+"197","Armenia",1997,256
+"198","Armenia",1998,346
+"199","Armenia",1999,434
+"200","Armenia",2000,1165
+"201","Armenia",2001,1480
+"202","Armenia",2002,1011
+"203","Armenia",2003,579
+"204","Armenia",2004,478
+"205","Armenia",2005,364
+"206","Armenia",2006,339
+"207","Armenia",2007,306
+"208","Armenia",2008,200
+"209","Armenia",2009,184
+"210","Armenia",2010,168
+"211","Armenia",2011,120
+"212","Armenia",2012,100
+"213","Armenia",2013,113
+"214","Armenia",2014,127
+"215","Armenia",2015,111
+"216","Aruba",1997,3
+"217","Aruba",1998,4
+"218","Aruba",1999,0
+"219","Aruba",2000,5
+"220","Aruba",2001,3
+"221","Aruba",2002,0
+"222","Aruba",2003,0
+"223","Australia",1992,4
+"224","Australia",1993,7
+"225","Australia",1994,7
+"226","Australia",1995,10
+"227","Australia",1996,13
+"228","Australia",1997,17
+"229","Australia",1998,37
+"230","Australia",1999,40
+"231","Australia",2000,2738
+"232","Australia",2001,3804
+"233","Australia",2002,3580
+"234","Australia",2003,2596
+"235","Australia",2004,3459
+"236","Australia",2005,4129
+"237","Australia",2006,3824
+"238","Australia",2007,6691
+"239","Australia",2008,3078
+"240","Australia",2009,3181
+"241","Australia",2010,3146
+"242","Australia",2011,3114
+"243","Australia",2012,3183
+"244","Australia",2013,3575
+"245","Australia",2014,3625
+"246","Australia",2015,3827
+"247","Austria",1820,0
+"248","Austria",1830,0
+"249","Austria",1840,0
+"250","Austria",1850,0
+"251","Austria",1860,0
+"252","Austria",1870,7124
+"253","Austria",1880,63009
+"254","Austria",1890,226038
+"255","Austria",1900,234081
+"256","Austria",1910,668209
+"257","Austria",1920,453649
+"258","Austria",1930,32868
+"259","Austria",1940,3563
+"260","Austria",1950,24860
+"261","Austria",1960,67106
+"262","Austria",1970,20621
+"263","Austria",1980,9478
+"264","Austria",1987,18340
+"265","Austria",1988,2493
+"266","Austria",1989,2845
+"267","Austria",1990,3774
+"268","Austria",1991,3511
+"269","Austria",1992,2897
+"270","Austria",1993,1883
+"271","Austria",1994,1318
+"272","Austria",1995,1342
+"273","Austria",1996,1192
+"274","Austria",1997,1050
+"275","Austria",1998,619
+"276","Austria",1999,745
+"277","Austria",2000,994
+"278","Austria",2001,1012
+"279","Austria",2002,2672
+"280","Austria",2003,1176
+"281","Austria",2004,2458
+"282","Austria",2005,3013
+"283","Austria",2006,1311
+"284","Austria",2007,2070
+"285","Austria",2008,1523
+"286","Austria",2009,6280
+"287","Austria",2010,3338
+"288","Austria",2011,3679
+"289","Austria",2012,2207
+"290","Austria",2013,1067
+"291","Austria",2014,1092
+"292","Austria",2015,1935
+"293","Austria-Hungary",2007,2057
+"294","Austria-Hungary",2008,2576
+"295","Austria-Hungary",2009,7555
+"296","Austria-Hungary",2010,4325
+"297","Austria-Hungary",2011,4703
+"298","Austria-Hungary",2012,3208
+"299","Austria-Hungary",2013,2061
+"300","Austria-Hungary",2014,2058
+"301","Austria-Hungary",2015,2965
+"302","Azerbaijan",1990,0
+"303","Azerbaijan",1991,0
+"304","Azerbaijan",1992,1
+"305","Azerbaijan",1993,4
+"306","Azerbaijan",1994,25
+"307","Azerbaijan",1995,79
+"308","Azerbaijan",1996,127
+"309","Azerbaijan",1997,84
+"310","Azerbaijan",1998,160
+"311","Azerbaijan",1999,358
+"312","Azerbaijan",2000,524
+"313","Azerbaijan",2001,820
+"314","Azerbaijan",2002,367
+"315","Azerbaijan",2003,480
+"316","Azerbaijan",2004,504
+"317","Azerbaijan",2005,343
+"318","Azerbaijan",2006,105
+"319","Azerbaijan",2007,94
+"320","Azerbaijan",2008,40
+"321","Azerbaijan",2009,61
+"322","Azerbaijan",2010,39
+"323","Azerbaijan",2011,34
+"324","Azerbaijan",2012,38
+"325","Azerbaijan",2013,26
+"326","Azerbaijan",2014,30
+"327","Azerbaijan",2015,33
+"328","Bahamas",1992,60
+"329","Bahamas",1993,56
+"330","Bahamas",1994,50
+"331","Bahamas",1995,59
+"332","Bahamas",1996,62
+"333","Bahamas",1997,59
+"334","Bahamas",1998,82
+"335","Bahamas",1999,88
+"336","Bahamas",2000,124
+"337","Bahamas",2001,108
+"338","Bahamas",2002,132
+"339","Bahamas",2003,157
+"340","Bahamas",2004,132
+"341","Bahamas",2005,153
+"342","Bahamas",2006,91
+"343","Bahamas",2007,97
+"344","Bahamas",2008,105
+"345","Bahamas",2009,143
+"346","Bahamas",2010,106
+"347","Bahamas",2011,134
+"348","Bahamas",2012,108
+"349","Bahamas",2013,98
+"350","Bahamas",2014,102
+"351","Bahamas",2015,73
+"352","Bahrain",1992,0
+"353","Bahrain",1993,0
+"354","Bahrain",1994,1
+"355","Bahrain",1995,0
+"356","Bahrain",1996,0
+"357","Bahrain",1997,0
+"358","Bahrain",1998,0
+"359","Bahrain",1999,0
+"360","Bahrain",2000,0
+"361","Bahrain",2001,0
+"362","Bahrain",2002,3
+"363","Bahrain",2003,3
+"364","Bahrain",2006,0
+"365","Bahrain",2007,0
+"366","Bahrain",2008,0
+"367","Bahrain",2009,0
+"368","Bahrain",2010,0
+"369","Bahrain",2011,4
+"370","Bahrain",2012,22
+"371","Bahrain",2013,4
+"372","Bahrain",2014,3
+"373","Bahrain",2015,0
+"374","Bangladesh",1990,1
+"375","Bangladesh",1991,1
+"376","Bangladesh",1992,10
+"377","Bangladesh",1993,35
+"378","Bangladesh",1994,93
+"379","Bangladesh",1995,357
+"380","Bangladesh",1996,256
+"381","Bangladesh",1997,180
+"382","Bangladesh",1998,187
+"383","Bangladesh",1999,178
+"384","Bangladesh",2000,166
+"385","Bangladesh",2001,146
+"386","Bangladesh",2002,190
+"387","Bangladesh",2003,152
+"388","Bangladesh",2004,171
+"389","Bangladesh",2005,182
+"390","Bangladesh",2006,187
+"391","Bangladesh",2007,167
+"392","Bangladesh",2008,147
+"393","Bangladesh",2009,150
+"394","Bangladesh",2010,131
+"395","Bangladesh",2011,118
+"396","Bangladesh",2012,102
+"397","Bangladesh",2013,98
+"398","Bangladesh",2014,223
+"399","Bangladesh",2015,195
+"400","Barbados",1992,20
+"401","Barbados",1993,27
+"402","Barbados",1994,27
+"403","Barbados",1995,25
+"404","Barbados",1996,35
+"405","Barbados",1997,50
+"406","Barbados",1998,51
+"407","Barbados",1999,70
+"408","Barbados",2000,58
+"409","Barbados",2001,48
+"410","Barbados",2002,54
+"411","Barbados",2003,60
+"412","Barbados",2004,75
+"413","Barbados",2005,65
+"414","Barbados",2006,46
+"415","Barbados",2007,40
+"416","Barbados",2008,44
+"417","Barbados",2009,48
+"418","Barbados",2010,44
+"419","Barbados",2011,41
+"420","Barbados",2012,50
+"421","Barbados",2013,26
+"422","Barbados",2014,16
+"423","Barbados",2015,12
+"424","Belarus",1990,0
+"425","Belarus",1991,0
+"426","Belarus",1992,0
+"427","Belarus",1993,1
+"428","Belarus",1994,2
+"429","Belarus",1995,14
+"430","Belarus",1996,10
+"431","Belarus",1997,21
+"432","Belarus",1998,26
+"433","Belarus",1999,1039
+"434","Belarus",2000,1113
+"435","Belarus",2001,1052
+"436","Belarus",2002,755
+"437","Belarus",2003,813
+"438","Belarus",2004,825
+"439","Belarus",2005,583
+"440","Belarus",2006,474
+"441","Belarus",2007,326
+"442","Belarus",2008,214
+"443","Belarus",2009,295
+"444","Belarus",2010,194
+"445","Belarus",2011,203
+"446","Belarus",2012,312
+"447","Belarus",2013,130
+"448","Belarus",2014,114
+"449","Belarus",2015,178
+"450","Belgium",1820,1
+"451","Belgium",1830,27
+"452","Belgium",1840,22
+"453","Belgium",1850,5074
+"454","Belgium",1860,4738
+"455","Belgium",1870,6734
+"456","Belgium",1880,7221
+"457","Belgium",1890,20177
+"458","Belgium",1900,18167
+"459","Belgium",1910,41635
+"460","Belgium",1920,33746
+"461","Belgium",1930,15846
+"462","Belgium",1940,4817
+"463","Belgium",1950,12189
+"464","Belgium",1960,18575
+"465","Belgium",1970,9192
+"466","Belgium",1980,5329
+"467","Belgium",1987,7066
+"468","Belgium",1988,706
+"469","Belgium",1989,705
+"470","Belgium",1990,827
+"471","Belgium",1991,701
+"472","Belgium",1992,958
+"473","Belgium",1993,781
+"474","Belgium",1994,626
+"475","Belgium",1995,705
+"476","Belgium",1996,806
+"477","Belgium",1997,639
+"478","Belgium",1998,569
+"479","Belgium",1999,534
+"480","Belgium",2000,836
+"481","Belgium",2001,1009
+"482","Belgium",2002,856
+"483","Belgium",2003,540
+"484","Belgium",2004,784
+"485","Belgium",2005,1050
+"486","Belgium",2006,905
+"487","Belgium",2007,1225
+"488","Belgium",2008,850
+"489","Belgium",2009,791
+"490","Belgium",2010,763
+"491","Belgium",2011,717
+"492","Belgium",2012,713
+"493","Belgium",2013,816
+"494","Belgium",2014,785
+"495","Belgium",2015,816
+"496","Belize",1992,97
+"497","Belize",1993,113
+"498","Belize",1994,83
+"499","Belize",1995,55
+"500","Belize",1996,88
+"501","Belize",1997,129
+"502","Belize",1998,181
+"503","Belize",1999,186
+"504","Belize",2000,943
+"505","Belize",2001,1162
+"506","Belize",2002,1160
+"507","Belize",2003,782
+"508","Belize",2004,1090
+"509","Belize",2005,1120
+"510","Belize",2006,1474
+"511","Belize",2007,54067
+"512","Belize",2008,1326
+"513","Belize",2009,1315
+"514","Belize",2010,1250
+"515","Belize",2011,1148
+"516","Belize",2012,1084
+"517","Belize",2013,1146
+"518","Belize",2014,953
+"519","Belize",2015,938
+"520","Benin",1992,1
+"521","Benin",1993,0
+"522","Benin",1994,3
+"523","Benin",1995,2
+"524","Benin",1996,1
+"525","Benin",1997,12
+"526","Benin",1998,7
+"527","Benin",1999,5
+"528","Benin",2000,5
+"529","Benin",2001,0
+"530","Benin",2002,0
+"531","Benin",2003,5
+"532","Benin",2004,3
+"533","Benin",2005,0
+"534","Benin",2006,11
+"535","Benin",2007,7
+"536","Benin",2008,14
+"537","Benin",2009,9
+"538","Benin",2010,8
+"539","Benin",2011,5
+"540","Benin",2012,8
+"541","Benin",2013,4
+"542","Benin",2014,8
+"543","Benin",2015,8
+"544","Bermuda",1997,8
+"545","Bermuda",1998,6
+"546","Bermuda",1999,7
+"547","Bermuda",2000,5
+"548","Bermuda",2001,12
+"549","Bermuda",2002,11
+"550","Bermuda",2003,13
+"551","Bermuda",2004,3
+"552","Bermuda",2005,0
+"553","Bermuda",2006,0
+"554","Bermuda",2007,0
+"555","Bermuda",2008,9
+"556","Bermuda",2009,15
+"557","Bermuda",2010,13
+"558","Bermuda",2011,14
+"559","Bermuda",2012,8
+"560","Bermuda",2013,10
+"561","Bermuda",2014,6
+"562","Bermuda",2015,11
+"563","Bhutan",1992,1
+"564","Bhutan",1993,0
+"565","Bhutan",1994,0
+"566","Bhutan",1995,0
+"567","Bhutan",1996,0
+"568","Bhutan",1997,0
+"569","Bhutan",1998,0
+"570","Bhutan",1999,4
+"571","Bhutan",2000,15
+"572","Bhutan",2001,15
+"573","Bhutan",2002,9
+"574","Bhutan",2003,6
+"575","Bhutan",2004,0
+"576","Bhutan",2005,0
+"577","Bhutan",2006,11
+"578","Bhutan",2007,13
+"579","Bhutan",2008,5324
+"580","Bhutan",2009,13460
+"581","Bhutan",2010,12363
+"582","Bhutan",2011,14999
+"583","Bhutan",2012,15070
+"584","Bhutan",2013,9134
+"585","Bhutan",2014,8434
+"586","Bhutan",2015,5779
+"587","Bolivia",1992,23
+"588","Bolivia",1993,23
+"589","Bolivia",1994,20
+"590","Bolivia",1995,25
+"591","Bolivia",1996,24
+"592","Bolivia",1997,153
+"593","Bolivia",1998,189
+"594","Bolivia",1999,206
+"595","Bolivia",2000,1842
+"596","Bolivia",2001,2045
+"597","Bolivia",2002,1897
+"598","Bolivia",2003,1627
+"599","Bolivia",2004,2060
+"600","Bolivia",2005,2470
+"601","Bolivia",2006,4352
+"602","Bolivia",2007,5760
+"603","Bolivia",2008,2634
+"604","Bolivia",2009,3077
+"605","Bolivia",2010,2441
+"606","Bolivia",2011,2327
+"607","Bolivia",2012,2092
+"608","Bolivia",2013,2133
+"609","Bolivia",2014,1747
+"610","Bolivia",2015,1621
+"611","Bosnia-Herzegovina",1990,0
+"612","Bosnia-Herzegovina",1991,0
+"613","Bosnia-Herzegovina",1992,0
+"614","Bosnia-Herzegovina",1993,1902
+"615","Bosnia-Herzegovina",1994,7252
+"616","Bosnia-Herzegovina",1995,10159
+"617","Bosnia-Herzegovina",1996,12223
+"618","Bosnia-Herzegovina",1997,21397
+"619","Bosnia-Herzegovina",1998,30926
+"620","Bosnia-Herzegovina",1999,22722
+"621","Bosnia-Herzegovina",2000,19060
+"622","Bosnia-Herzegovina",2001,14633
+"623","Bosnia-Herzegovina",2002,3500
+"624","Bosnia-Herzegovina",2003,556
+"625","Bosnia-Herzegovina",2004,283
+"626","Bosnia-Herzegovina",2005,110
+"627","Bosnia-Herzegovina",2006,75
+"628","Bosnia-Herzegovina",2007,55
+"629","Bosnia-Herzegovina",2008,54
+"630","Bosnia-Herzegovina",2009,62
+"631","Bosnia-Herzegovina",2010,68
+"632","Bosnia-Herzegovina",2011,68
+"633","Bosnia-Herzegovina",2012,61
+"634","Bosnia-Herzegovina",2013,78
+"635","Bosnia-Herzegovina",2014,55
+"636","Bosnia-Herzegovina",2015,61
+"637","Botswana",1997,0
+"638","Botswana",1998,0
+"639","Botswana",1999,0
+"640","Botswana",2000,0
+"641","Botswana",2001,0
+"642","Botswana",2002,0
+"643","Botswana",2003,0
+"644","Brazil",1992,56
+"645","Brazil",1993,41
+"646","Brazil",1994,56
+"647","Brazil",1995,35
+"648","Brazil",1996,67
+"649","Brazil",1997,333
+"650","Brazil",1998,376
+"651","Brazil",1999,673
+"652","Brazil",2000,7877
+"653","Brazil",2001,11075
+"654","Brazil",2002,11623
+"655","Brazil",2003,9933
+"656","Brazil",2004,16661
+"657","Brazil",2005,23455
+"658","Brazil",2006,22001
+"659","Brazil",2007,6579
+"660","Brazil",2008,15687
+"661","Brazil",2009,18203
+"662","Brazil",2010,15636
+"663","Brazil",2011,15031
+"664","Brazil",2012,13691
+"665","Brazil",2013,12248
+"666","Brazil",2014,11223
+"667","Brazil",2015,12272
+"668","British Virgin Islands",1997,6
+"669","British Virgin Islands",1998,0
+"670","British Virgin Islands",1999,3
+"671","British Virgin Islands",2000,3
+"672","British Virgin Islands",2001,8
+"673","British Virgin Islands",2002,4
+"674","British Virgin Islands",2003,4
+"675","Brunei",1997,0
+"676","Brunei",1998,0
+"677","Brunei",1999,0
+"678","Brunei",2000,0
+"679","Brunei",2001,0
+"680","Brunei",2002,0
+"681","Brunei",2003,0
+"682","Bulgaria",1990,358
+"683","Bulgaria",1991,607
+"684","Bulgaria",1992,176
+"685","Bulgaria",1993,112
+"686","Bulgaria",1994,51
+"687","Bulgaria",1995,76
+"688","Bulgaria",1996,62
+"689","Bulgaria",1997,100
+"690","Bulgaria",1998,153
+"691","Bulgaria",1999,111
+"692","Bulgaria",2000,4902
+"693","Bulgaria",2001,4372
+"694","Bulgaria",2002,3592
+"695","Bulgaria",2003,3803
+"696","Bulgaria",2004,4169
+"697","Bulgaria",2005,5576
+"698","Bulgaria",2006,4788
+"699","Bulgaria",2007,850
+"700","Bulgaria",2008,2930
+"701","Bulgaria",2009,3121
+"702","Bulgaria",2010,2555
+"703","Bulgaria",2011,2630
+"704","Bulgaria",2012,2393
+"705","Bulgaria",2013,2773
+"706","Bulgaria",2014,2938
+"707","Bulgaria",2015,2631
+"708","Burkina Faso",1992,1
+"709","Burkina Faso",1993,0
+"710","Burkina Faso",1994,1
+"711","Burkina Faso",1995,0
+"712","Burkina Faso",1996,0
+"713","Burkina Faso",1997,0
+"714","Burkina Faso",1998,12
+"715","Burkina Faso",1999,3
+"716","Burkina Faso",2000,0
+"717","Burkina Faso",2001,3
+"718","Burkina Faso",2002,7
+"719","Burkina Faso",2003,9
+"720","Burkina Faso",2004,10
+"721","Burkina Faso",2005,11
+"722","Burkina Faso",2006,30
+"723","Burkina Faso",2007,44
+"724","Burkina Faso",2008,35
+"725","Burkina Faso",2009,32
+"726","Burkina Faso",2010,49
+"727","Burkina Faso",2011,59
+"728","Burkina Faso",2012,67
+"729","Burkina Faso",2013,75
+"730","Burkina Faso",2014,76
+"731","Burkina Faso",2015,66
+"732","Burma",1990,10
+"733","Burma",1991,7
+"734","Burma",1992,23
+"735","Burma",1993,44
+"736","Burma",1994,87
+"737","Burma",1995,216
+"738","Burma",1996,152
+"739","Burma",1997,367
+"740","Burma",1998,453
+"741","Burma",1999,633
+"742","Burma",2000,968
+"743","Burma",2001,1844
+"744","Burma",2002,453
+"745","Burma",2003,395
+"746","Burma",2004,1247
+"747","Burma",2005,1550
+"748","Burma",2006,1720
+"749","Burma",2007,14043
+"750","Burma",2008,18302
+"751","Burma",2009,18375
+"752","Burma",2010,16864
+"753","Burma",2011,17126
+"754","Burma",2012,14265
+"755","Burma",2013,16358
+"756","Burma",2014,14636
+"757","Burma",2015,18434
+"758","Burundi",1990,0
+"759","Burundi",1991,0
+"760","Burundi",1992,0
+"761","Burundi",1993,0
+"762","Burundi",1994,19
+"763","Burundi",1995,98
+"764","Burundi",1996,91
+"765","Burundi",1997,90
+"766","Burundi",1998,70
+"767","Burundi",1999,274
+"768","Burundi",2000,197
+"769","Burundi",2001,161
+"770","Burundi",2002,124
+"771","Burundi",2003,47
+"772","Burundi",2004,299
+"773","Burundi",2005,229
+"774","Burundi",2006,495
+"775","Burundi",2007,4570
+"776","Burundi",2008,2917
+"777","Burundi",2009,783
+"778","Burundi",2010,551
+"779","Burundi",2011,130
+"780","Burundi",2012,206
+"781","Burundi",2013,218
+"782","Burundi",2014,138
+"783","Burundi",2015,1261
+"784","Cambodia",1990,2166
+"785","Cambodia",1991,38
+"786","Cambodia",1992,143
+"787","Cambodia",1993,22
+"788","Cambodia",1994,6
+"789","Cambodia",1995,1
+"790","Cambodia",1996,0
+"791","Cambodia",1997,20
+"792","Cambodia",1998,145
+"793","Cambodia",1999,162
+"794","Cambodia",2000,72
+"795","Cambodia",2001,56
+"796","Cambodia",2002,67
+"797","Cambodia",2003,92
+"798","Cambodia",2004,115
+"799","Cambodia",2005,87
+"800","Cambodia",2006,49
+"801","Cambodia",2007,55
+"802","Cambodia",2008,53
+"803","Cambodia",2009,66
+"804","Cambodia",2010,60
+"805","Cambodia",2011,94
+"806","Cambodia",2012,95
+"807","Cambodia",2013,47
+"808","Cambodia",2014,121
+"809","Cambodia",2015,15
+"810","Cameroon",1990,0
+"811","Cameroon",1991,4
+"812","Cameroon",1992,30
+"813","Cameroon",1993,30
+"814","Cameroon",1994,79
+"815","Cameroon",1995,165
+"816","Cameroon",1996,100
+"817","Cameroon",1997,112
+"818","Cameroon",1998,194
+"819","Cameroon",1999,284
+"820","Cameroon",2000,368
+"821","Cameroon",2001,339
+"822","Cameroon",2002,741
+"823","Cameroon",2003,856
+"824","Cameroon",2004,673
+"825","Cameroon",2005,451
+"826","Cameroon",2006,324
+"827","Cameroon",2007,367
+"828","Cameroon",2008,352
+"829","Cameroon",2009,282
+"830","Cameroon",2010,260
+"831","Cameroon",2011,300
+"832","Cameroon",2012,305
+"833","Cameroon",2013,176
+"834","Cameroon",2014,150
+"835","Cameroon",2015,131
+"836","Canada",1820,209
+"837","Canada",1830,2277
+"838","Canada",1840,13624
+"839","Canada",1850,41723
+"840","Canada",1860,59309
+"841","Canada",1870,153878
+"842","Canada",1880,383640
+"843","Canada",1890,393304
+"844","Canada",1900,3311
+"845","Canada",1910,179226
+"846","Canada",1920,742185
+"847","Canada",1930,924515
+"848","Canada",1940,108527
+"849","Canada",1950,171718
+"850","Canada",1960,377952
+"851","Canada",1970,413310
+"852","Canada",1980,169939
+"853","Canada",1987,156938
+"854","Canada",1988,15821
+"855","Canada",1989,18294
+"856","Canada",1990,24642
+"857","Canada",1991,19931
+"858","Canada",1992,21820
+"859","Canada",1993,24128
+"860","Canada",1994,22452
+"861","Canada",1995,18319
+"862","Canada",1996,21954
+"863","Canada",1997,16496
+"864","Canada",1998,15205
+"865","Canada",1999,13978
+"866","Canada",2000,22330
+"867","Canada",2001,31117
+"868","Canada",2002,28138
+"869","Canada",2003,17261
+"870","Canada",2004,23936
+"871","Canada",2005,31491
+"872","Canada",2006,25326
+"873","Canada",2007,435535
+"874","Canada",2008,23668
+"875","Canada",2009,23833
+"876","Canada",2010,20831
+"877","Canada",2011,20796
+"878","Canada",2012,21103
+"879","Canada",2013,21289
+"880","Canada",2014,18374
+"881","Canada",2015,19938
+"882","Cape Verde",1992,12
+"883","Cape Verde",1993,10
+"884","Cape Verde",1994,22
+"885","Cape Verde",1995,17
+"886","Cape Verde",1996,18
+"887","Cape Verde",1997,24
+"888","Cape Verde",1998,33
+"889","Cape Verde",1999,49
+"890","Cape Verde",2000,32
+"891","Cape Verde",2001,46
+"892","Cape Verde",2002,47
+"893","Cape Verde",2003,35
+"894","Cape Verde",2004,42
+"895","Cape Verde",2005,47
+"896","Cape Verde",2006,37
+"897","Cape Verde",2007,61
+"898","Cape Verde",2008,35
+"899","Cape Verde",2009,49
+"900","Cape Verde",2010,47
+"901","Cape Verde",2011,27
+"902","Cape Verde",2012,10
+"903","Cape Verde",2013,4
+"904","Cape Verde",2014,12
+"905","Cape Verde",2015,8
+"906","Cayman Islands",1997,0
+"907","Cayman Islands",1998,0
+"908","Cayman Islands",1999,0
+"909","Cayman Islands",2000,0
+"910","Cayman Islands",2001,0
+"911","Cayman Islands",2002,0
+"912","Cayman Islands",2003,0
+"913","Central African Republic",1997,0
+"914","Central African Republic",1998,3
+"915","Central African Republic",1999,0
+"916","Central African Republic",2000,0
+"917","Central African Republic",2001,5
+"918","Central African Republic",2002,23
+"919","Central African Republic",2003,23
+"920","Central African Republic",2004,31
+"921","Central African Republic",2005,17
+"922","Central African Republic",2006,28
+"923","Central African Republic",2007,21
+"924","Central African Republic",2008,68
+"925","Central African Republic",2009,74
+"926","Central African Republic",2010,58
+"927","Central African Republic",2011,188
+"928","Central African Republic",2012,145
+"929","Central African Republic",2013,328
+"930","Central African Republic",2014,40
+"931","Central African Republic",2015,284
+"932","Chad",1992,0
+"933","Chad",1993,0
+"934","Chad",1994,1
+"935","Chad",1995,0
+"936","Chad",1996,0
+"937","Chad",1997,45
+"938","Chad",1998,54
+"939","Chad",1999,45
+"940","Chad",2000,16
+"941","Chad",2001,14
+"942","Chad",2002,16
+"943","Chad",2003,24
+"944","Chad",2004,31
+"945","Chad",2005,21
+"946","Chad",2006,23
+"947","Chad",2007,44
+"948","Chad",2008,65
+"949","Chad",2009,49
+"950","Chad",2010,56
+"951","Chad",2011,37
+"952","Chad",2012,24
+"953","Chad",2013,37
+"954","Chad",2014,31
+"955","Chad",2015,29
+"956","Chile",1992,26
+"957","Chile",1993,43
+"958","Chile",1994,37
+"959","Chile",1995,53
+"960","Chile",1996,43
+"961","Chile",1997,101
+"962","Chile",1998,117
+"963","Chile",1999,149
+"964","Chile",2000,1824
+"965","Chile",2001,2085
+"966","Chile",2002,1933
+"967","Chile",2003,1469
+"968","Chile",2004,1954
+"969","Chile",2005,2584
+"970","Chile",2006,2972
+"971","Chile",2007,13783
+"972","Chile",2008,2199
+"973","Chile",2009,2445
+"974","Chile",2010,2125
+"975","Chile",2011,2009
+"976","Chile",2012,1733
+"977","Chile",2013,1850
+"978","Chile",2014,1674
+"979","Chile",2015,1708
+"980","China",1820,1
+"981","China",1830,2
+"982","China",1840,8
+"983","China",1850,35
+"984","China",1860,41397
+"985","China",1870,64301
+"986","China",1880,123201
+"987","China",1890,61711
+"988","China",1900,14799
+"989","China",1910,20605
+"990","China",1920,21278
+"991","China",1930,29907
+"992","China",1940,4928
+"993","China",1950,16709
+"994","China",1960,9657
+"995","China",1970,34764
+"996","China",1980,124326
+"997","China",1987,346747
+"998","China",1988,34300
+"999","China",1989,39284
+"1000","China",1990,41370
+"1001","China",1991,24347
+"1002","China",1992,29871
+"1003","China",1993,58152
+"1004","China",1994,59326
+"1005","China",1995,41691
+"1006","China",1996,51449
+"1007","China",1997,45325
+"1008","China",1998,42265
+"1009","China",1999,31196
+"1010","China",2000,45697
+"1011","China",2001,55989
+"1012","China",2002,62088
+"1013","China",2003,40430
+"1014","China",2004,52408
+"1015","China",2005,68403
+"1016","China",2006,86676
+"1017","China",2007,373622
+"1018","China",2008,78374
+"1019","China",2009,64632
+"1020","China",2010,71664
+"1021","China",2011,88543
+"1022","China",2012,84015
+"1023","China",2013,73371
+"1024","China",2014,77108
+"1025","China",2015,74223
+"1026","Colombia",1820,0
+"1027","Colombia",1830,0
+"1028","Colombia",1840,0
+"1029","Colombia",1850,0
+"1030","Colombia",1860,0
+"1031","Colombia",1870,0
+"1032","Colombia",1880,0
+"1033","Colombia",1890,0
+"1034","Colombia",1900,0
+"1035","Colombia",1910,0
+"1036","Colombia",1920,0
+"1037","Colombia",1930,0
+"1038","Colombia",1940,1223
+"1039","Colombia",1950,3858
+"1040","Colombia",1960,18048
+"1041","Colombia",1970,72028
+"1042","Colombia",1980,77347
+"1043","Colombia",1987,122849
+"1044","Colombia",1988,10153
+"1045","Colombia",1989,14918
+"1046","Colombia",1990,23802
+"1047","Colombia",1991,19276
+"1048","Colombia",1992,14124
+"1049","Colombia",1993,13746
+"1050","Colombia",1994,11876
+"1051","Colombia",1995,11893
+"1052","Colombia",1996,15202
+"1053","Colombia",1997,14886
+"1054","Colombia",1998,13538
+"1055","Colombia",1999,12081
+"1056","Colombia",2000,18660
+"1057","Colombia",2001,24098
+"1058","Colombia",2002,25572
+"1059","Colombia",2003,19601
+"1060","Colombia",2004,24255
+"1061","Colombia",2005,29852
+"1062","Colombia",2006,46990
+"1063","Colombia",2007,6740
+"1064","Colombia",2008,33146
+"1065","Colombia",2009,30629
+"1066","Colombia",2010,24744
+"1067","Colombia",2011,24400
+"1068","Colombia",2012,22326
+"1069","Colombia",2013,22468
+"1070","Colombia",2014,19461
+"1071","Colombia",2015,18813
+"1072","Comoros",1997,0
+"1073","Comoros",1998,0
+"1074","Comoros",1999,0
+"1075","Comoros",2000,0
+"1076","Comoros",2001,0
+"1077","Comoros",2002,0
+"1078","Comoros",2003,0
+"1079","Congo",1992,0
+"1080","Congo",1993,0
+"1081","Congo",1994,0
+"1082","Congo",1995,0
+"1083","Congo",1996,1
+"1084","Cook Island",1997,0
+"1085","Cook Island",1998,0
+"1086","Cook Island",1999,0
+"1087","Cook Island",2000,0
+"1088","Cook Island",2001,0
+"1089","Cook Island",2002,0
+"1090","Cook Island",2003,0
+"1091","Costa Rica",1992,42
+"1092","Costa Rica",1993,36
+"1093","Costa Rica",1994,28
+"1094","Costa Rica",1995,34
+"1095","Costa Rica",1996,47
+"1096","Costa Rica",1997,151
+"1097","Costa Rica",1998,162
+"1098","Costa Rica",1999,211
+"1099","Costa Rica",2000,1704
+"1100","Costa Rica",2001,2248
+"1101","Costa Rica",2002,2049
+"1102","Costa Rica",2003,1778
+"1103","Costa Rica",2004,2410
+"1104","Costa Rica",2005,3155
+"1105","Costa Rica",2006,4254
+"1106","Costa Rica",2007,1744
+"1107","Costa Rica",2008,2979
+"1108","Costa Rica",2009,3247
+"1109","Costa Rica",2010,2859
+"1110","Costa Rica",2011,2608
+"1111","Costa Rica",2012,2552
+"1112","Costa Rica",2013,2553
+"1113","Costa Rica",2014,2301
+"1114","Costa Rica",2015,2340
+"1115","Cote d'Ivoire",1992,2
+"1116","Cote d'Ivoire",1993,3
+"1117","Cote d'Ivoire",1994,4
+"1118","Cote d'Ivoire",1995,3
+"1119","Cote d'Ivoire",1996,2
+"1120","Cote d'Ivoire",1997,41
+"1121","Cote d'Ivoire",1998,61
+"1122","Cote d'Ivoire",1999,65
+"1123","Cote d'Ivoire",2000,52
+"1124","Cote d'Ivoire",2001,67
+"1125","Cote d'Ivoire",2002,62
+"1126","Cote d'Ivoire",2003,173
+"1127","Cote d'Ivoire",2004,120
+"1128","Cote d'Ivoire",2005,133
+"1129","Cote d'Ivoire",2006,137
+"1130","Cote d'Ivoire",2007,94
+"1131","Cote d'Ivoire",2008,116
+"1132","Cote d'Ivoire",2009,71
+"1133","Cote d'Ivoire",2010,71
+"1134","Cote d'Ivoire",2011,137
+"1135","Cote d'Ivoire",2012,169
+"1136","Cote d'Ivoire",2013,93
+"1137","Cote d'Ivoire",2014,75
+"1138","Cote d'Ivoire",2015,76
+"1139","Croatia",1990,0
+"1140","Croatia",1991,0
+"1141","Croatia",1992,0
+"1142","Croatia",1993,9
+"1143","Croatia",1994,57
+"1144","Croatia",1995,60
+"1145","Croatia",1996,67
+"1146","Croatia",1997,67
+"1147","Croatia",1998,48
+"1148","Croatia",1999,1707
+"1149","Croatia",2000,3041
+"1150","Croatia",2001,1040
+"1151","Croatia",2002,126
+"1152","Croatia",2003,156
+"1153","Croatia",2004,111
+"1154","Croatia",2005,53
+"1155","Croatia",2006,15
+"1156","Croatia",2007,13
+"1157","Croatia",2008,24
+"1158","Croatia",2009,23
+"1159","Croatia",2010,23
+"1160","Croatia",2011,18
+"1161","Croatia",2012,18
+"1162","Croatia",2013,9
+"1163","Croatia",2014,6
+"1164","Croatia",2015,9
+"1165","Cuba",1820,0
+"1166","Cuba",1830,0
+"1167","Cuba",1840,0
+"1168","Cuba",1850,0
+"1169","Cuba",1860,0
+"1170","Cuba",1870,0
+"1171","Cuba",1880,0
+"1172","Cuba",1890,0
+"1173","Cuba",1900,0
+"1174","Cuba",1910,0
+"1175","Cuba",1920,0
+"1176","Cuba",1930,15901
+"1177","Cuba",1940,9571
+"1178","Cuba",1950,26313
+"1179","Cuba",1960,78948
+"1180","Cuba",1970,208536
+"1181","Cuba",1980,264863
+"1182","Cuba",1987,144578
+"1183","Cuba",1988,16610
+"1184","Cuba",1989,9523
+"1185","Cuba",1990,14418
+"1186","Cuba",1991,13531
+"1187","Cuba",1992,14831
+"1188","Cuba",1993,16366
+"1189","Cuba",1994,17392
+"1190","Cuba",1995,24318
+"1191","Cuba",1996,30303
+"1192","Cuba",1997,33211
+"1193","Cuba",1998,17232
+"1194","Cuba",1999,15642
+"1195","Cuba",2000,21286
+"1196","Cuba",2001,28936
+"1197","Cuba",2002,29473
+"1198","Cuba",2003,9076
+"1199","Cuba",2004,18856
+"1200","Cuba",2005,27812
+"1201","Cuba",2006,47565
+"1202","Cuba",2007,117359
+"1203","Cuba",2008,52363
+"1204","Cuba",2009,43068
+"1205","Cuba",2010,38320
+"1206","Cuba",2011,39280
+"1207","Cuba",2012,34585
+"1208","Cuba",2013,35611
+"1209","Cuba",2014,50608
+"1210","Cuba",2015,55749
+"1211","Cyprus",1992,0
+"1212","Cyprus",1993,1
+"1213","Cyprus",1994,1
+"1214","Cyprus",1995,0
+"1215","Cyprus",1996,0
+"1216","Cyprus",1997,0
+"1217","Cyprus",1998,0
+"1218","Cyprus",1999,3
+"1219","Cyprus",2000,3
+"1220","Cyprus",2001,3
+"1221","Cyprus",2002,3
+"1222","Cyprus",2003,0
+"1223","Czechoslovakia",1990,345
+"1224","Czechoslovakia",1991,158
+"1225","Czechoslovakia",1992,25
+"1226","Czechoslovakia",1993,13
+"1227","Czechoslovakia",1994,14
+"1228","Czechoslovakia",1995,9
+"1229","Czechoslovakia",1996,12
+"1230","Czechoslovakia",1997,62
+"1231","Czechoslovakia",1998,155
+"1232","Czechoslovakia",1999,122
+"1233","Czechoslovakia",2000,136
+"1234","Czechoslovakia",2001,129
+"1235","Czechoslovakia",2002,221
+"1236","Czechoslovakia",2003,155
+"1237","Czechoslovakia",2004,185
+"1238","Czechoslovakia",2005,107
+"1239","Czechoslovakia",2006,68
+"1240","Czechoslovakia",2007,3818
+"1241","Czechoslovakia",2008,1705
+"1242","Czechoslovakia",2009,1697
+"1243","Czechoslovakia",2010,1539
+"1244","Czechoslovakia",2011,1389
+"1245","Czechoslovakia",2012,1335
+"1246","Czechoslovakia",2013,1295
+"1247","Czechoslovakia",2014,1177
+"1248","Czechoslovakia",2015,1236
+"1249","Czech Republic",1820,0
+"1250","Czech Republic",1830,0
+"1251","Czech Republic",1840,0
+"1252","Czech Republic",1850,0
+"1253","Czech Republic",1860,0
+"1254","Czech Republic",1870,0
+"1255","Czech Republic",1880,0
+"1256","Czech Republic",1890,0
+"1257","Czech Republic",1900,0
+"1258","Czech Republic",1910,0
+"1259","Czech Republic",1920,3426
+"1260","Czech Republic",1930,102194
+"1261","Czech Republic",1940,14393
+"1262","Czech Republic",1950,8347
+"1263","Czech Republic",1960,918
+"1264","Czech Republic",1970,3273
+"1265","Czech Republic",1980,6023
+"1266","Czech Republic",1987,7227
+"1267","Czech Republic",1988,744
+"1268","Czech Republic",1989,526
+"1269","Czech Republic",1990,578
+"1270","Czech Republic",1991,625
+"1271","Czech Republic",1992,874
+"1272","Czech Republic",1993,792
+"1273","Czech Republic",1994,759
+"1274","Czech Republic",1995,1057
+"1275","Czech Republic",1996,1299
+"1276","Czech Republic",1997,1172
+"1277","Czech Republic",1998,935
+"1278","Czech Republic",1999,900
+"1279","Czech Republic",2000,1412
+"1280","Czech Republic",2001,1928
+"1281","Czech Republic",2002,1878
+"1282","Czech Republic",2003,1486
+"1283","Czech Republic",2004,1905
+"1284","Czech Republic",2005,2212
+"1285","Czech Republic",2006,2878
+"1286","Czech Republic",2007,41
+"1287","Czech Republic",2008,52
+"1288","Czech Republic",2009,66
+"1289","Czech Republic",2010,78
+"1290","Czech Republic",2011,46
+"1291","Czech Republic",2012,48
+"1292","Czech Republic",2013,7
+"1293","Czech Republic",2014,39
+"1294","Czech Republic",2015,24
+"1295","Democratic Republic of Congo",1997,205
+"1296","Democratic Republic of Congo",1998,274
+"1297","Democratic Republic of Congo",1999,274
+"1298","Democratic Republic of Congo",2000,1596
+"1299","Democratic Republic of Congo",2001,412
+"1300","Democratic Republic of Congo",2002,329
+"1301","Democratic Republic of Congo",2003,336
+"1302","Democratic Republic of Congo",2004,660
+"1303","Democratic Republic of Congo",2005,494
+"1304","Democratic Republic of Congo",2006,475
+"1305","Democratic Republic of Congo",2007,901
+"1306","Democratic Republic of Congo",2008,797
+"1307","Democratic Republic of Congo",2009,1183
+"1308","Democratic Republic of Congo",2010,3215
+"1309","Democratic Republic of Congo",2011,1041
+"1310","Democratic Republic of Congo",2012,1947
+"1311","Democratic Republic of Congo",2013,2613
+"1312","Democratic Republic of Congo",2014,4589
+"1313","Democratic Republic of Congo",2015,7946
+"1314","Denmark",1820,20
+"1315","Denmark",1830,169
+"1316","Denmark",1840,1063
+"1317","Denmark",1850,539
+"1318","Denmark",1860,3749
+"1319","Denmark",1870,17094
+"1320","Denmark",1880,31771
+"1321","Denmark",1890,88132
+"1322","Denmark",1900,50231
+"1323","Denmark",1910,65285
+"1324","Denmark",1920,41983
+"1325","Denmark",1930,32430
+"1326","Denmark",1940,2559
+"1327","Denmark",1950,5393
+"1328","Denmark",1960,10984
+"1329","Denmark",1970,9201
+"1330","Denmark",1980,4439
+"1331","Denmark",1987,5370
+"1332","Denmark",1988,561
+"1333","Denmark",1989,617
+"1334","Denmark",1990,674
+"1335","Denmark",1991,629
+"1336","Denmark",1992,771
+"1337","Denmark",1993,765
+"1338","Denmark",1994,644
+"1339","Denmark",1995,593
+"1340","Denmark",1996,797
+"1341","Denmark",1997,516
+"1342","Denmark",1998,455
+"1343","Denmark",1999,399
+"1344","Denmark",2000,561
+"1345","Denmark",2001,742
+"1346","Denmark",2002,667
+"1347","Denmark",2003,451
+"1348","Denmark",2004,582
+"1349","Denmark",2005,728
+"1350","Denmark",2006,746
+"1351","Denmark",2007,1865
+"1352","Denmark",2008,568
+"1353","Denmark",2009,637
+"1354","Denmark",2010,572
+"1355","Denmark",2011,482
+"1356","Denmark",2012,507
+"1357","Denmark",2013,546
+"1358","Denmark",2014,539
+"1359","Denmark",2015,640
+"1360","Djibouti",1997,16
+"1361","Djibouti",1998,15
+"1362","Djibouti",1999,8
+"1363","Djibouti",2000,0
+"1364","Djibouti",2001,15
+"1365","Djibouti",2002,0
+"1366","Djibouti",2003,0
+"1367","Djibouti",2004,6
+"1368","Djibouti",2005,0
+"1369","Djibouti",2006,0
+"1370","Djibouti",2007,0
+"1371","Djibouti",2008,0
+"1372","Djibouti",2009,7
+"1373","Djibouti",2010,16
+"1374","Djibouti",2011,46
+"1375","Djibouti",2012,15
+"1376","Djibouti",2013,12
+"1377","Djibouti",2014,13
+"1378","Djibouti",2015,47
+"1379","Dominica",1992,31
+"1380","Dominica",1993,28
+"1381","Dominica",1994,37
+"1382","Dominica",1995,20
+"1383","Dominica",1996,22
+"1384","Dominica",1997,38
+"1385","Dominica",1998,27
+"1386","Dominica",1999,18
+"1387","Dominica",2000,13
+"1388","Dominica",2001,18
+"1389","Dominica",2002,29
+"1390","Dominica",2003,18
+"1391","Dominica",2004,47
+"1392","Dominica",2005,28
+"1393","Dominica",2006,28
+"1394","Dominica",2007,49
+"1395","Dominica",2008,35
+"1396","Dominica",2009,35
+"1397","Dominica",2010,38
+"1398","Dominica",2011,33
+"1399","Dominica",2012,22
+"1400","Dominica",2013,17
+"1401","Dominica",2014,14
+"1402","Dominica",2015,11
+"1403","Dominican Republic",1820,0
+"1404","Dominican Republic",1830,0
+"1405","Dominican Republic",1840,0
+"1406","Dominican Republic",1850,0
+"1407","Dominican Republic",1860,0
+"1408","Dominican Republic",1870,0
+"1409","Dominican Republic",1880,0
+"1410","Dominican Republic",1890,0
+"1411","Dominican Republic",1900,0
+"1412","Dominican Republic",1910,0
+"1413","Dominican Republic",1920,0
+"1414","Dominican Republic",1930,0
+"1415","Dominican Republic",1940,1150
+"1416","Dominican Republic",1950,5627
+"1417","Dominican Republic",1960,9897
+"1418","Dominican Republic",1970,93292
+"1419","Dominican Republic",1980,148135
+"1420","Dominican Republic",1987,252035
+"1421","Dominican Republic",1988,27195
+"1422","Dominican Republic",1989,26744
+"1423","Dominican Republic",1990,42136
+"1424","Dominican Republic",1991,41422
+"1425","Dominican Republic",1992,43030
+"1426","Dominican Republic",1993,46605
+"1427","Dominican Republic",1994,52325
+"1428","Dominican Republic",1995,39760
+"1429","Dominican Republic",1996,37932
+"1430","Dominican Republic",1997,27660
+"1431","Dominican Republic",1998,22785
+"1432","Dominican Republic",1999,20972
+"1433","Dominican Republic",2000,20804
+"1434","Dominican Republic",2001,25099
+"1435","Dominican Republic",2002,25900
+"1436","Dominican Republic",2003,29396
+"1437","Dominican Republic",2004,33823
+"1438","Dominican Republic",2005,30576
+"1439","Dominican Republic",2006,41104
+"1440","Dominican Republic",2007,28434
+"1441","Dominican Republic",2008,35033
+"1442","Dominican Republic",2009,52957
+"1443","Dominican Republic",2010,57261
+"1444","Dominican Republic",2011,48932
+"1445","Dominican Republic",2012,44418
+"1446","Dominican Republic",2013,43788
+"1447","Dominican Republic",2014,46619
+"1448","Dominican Republic",2015,52254
+"1449","Ecuador",1820,0
+"1450","Ecuador",1830,0
+"1451","Ecuador",1840,0
+"1452","Ecuador",1850,0
+"1453","Ecuador",1860,0
+"1454","Ecuador",1870,0
+"1455","Ecuador",1880,0
+"1456","Ecuador",1890,0
+"1457","Ecuador",1900,0
+"1458","Ecuador",1910,0
+"1459","Ecuador",1920,0
+"1460","Ecuador",1930,0
+"1461","Ecuador",1940,337
+"1462","Ecuador",1950,2417
+"1463","Ecuador",1960,9841
+"1464","Ecuador",1970,36780
+"1465","Ecuador",1980,50077
+"1466","Ecuador",1987,56315
+"1467","Ecuador",1988,4736
+"1468","Ecuador",1989,7587
+"1469","Ecuador",1990,12474
+"1470","Ecuador",1991,9962
+"1471","Ecuador",1992,7430
+"1472","Ecuador",1993,7491
+"1473","Ecuador",1994,6049
+"1474","Ecuador",1995,6576
+"1475","Ecuador",1996,8512
+"1476","Ecuador",1997,8272
+"1477","Ecuador",1998,7498
+"1478","Ecuador",1999,9695
+"1479","Ecuador",2000,8493
+"1480","Ecuador",2001,10585
+"1481","Ecuador",2002,11245
+"1482","Ecuador",2003,7634
+"1483","Ecuador",2004,9491
+"1484","Ecuador",2005,13025
+"1485","Ecuador",2006,19385
+"1486","Ecuador",2007,33633
+"1487","Ecuador",2008,13882
+"1488","Ecuador",2009,14474
+"1489","Ecuador",2010,13857
+"1490","Ecuador",2011,12789
+"1491","Ecuador",2012,11065
+"1492","Ecuador",2013,12076
+"1493","Ecuador",2014,12414
+"1494","Ecuador",2015,11367
+"1495","Egypt",1990,4
+"1496","Egypt",1991,1
+"1497","Egypt",1992,22
+"1498","Egypt",1993,47
+"1499","Egypt",1994,68
+"1500","Egypt",1995,213
+"1501","Egypt",1996,163
+"1502","Egypt",1997,179
+"1503","Egypt",1998,420
+"1504","Egypt",1999,483
+"1505","Egypt",2000,4886
+"1506","Egypt",2001,5894
+"1507","Egypt",2002,6984
+"1508","Egypt",2003,4438
+"1509","Egypt",2004,6990
+"1510","Egypt",2005,10676
+"1511","Egypt",2006,13511
+"1512","Egypt",2007,89619
+"1513","Egypt",2008,11133
+"1514","Egypt",2009,11282
+"1515","Egypt",2010,10275
+"1516","Egypt",2011,9963
+"1517","Egypt",2012,12855
+"1518","Egypt",2013,13891
+"1519","Egypt",2014,14716
+"1520","Egypt",2015,15490
+"1521","El Salvador",1820,0
+"1522","El Salvador",1830,0
+"1523","El Salvador",1840,0
+"1524","El Salvador",1850,0
+"1525","El Salvador",1860,0
+"1526","El Salvador",1870,0
+"1527","El Salvador",1880,0
+"1528","El Salvador",1890,0
+"1529","El Salvador",1900,0
+"1530","El Salvador",1910,0
+"1531","El Salvador",1920,0
+"1532","El Salvador",1930,0
+"1533","El Salvador",1940,673
+"1534","El Salvador",1950,5132
+"1535","El Salvador",1960,5895
+"1536","El Salvador",1970,14992
+"1537","El Salvador",1980,34436
+"1538","El Salvador",1987,213539
+"1539","El Salvador",1988,12043
+"1540","El Salvador",1989,57628
+"1541","El Salvador",1990,79883
+"1542","El Salvador",1991,47114
+"1543","El Salvador",1992,28151
+"1544","El Salvador",1993,28883
+"1545","El Salvador",1994,19640
+"1546","El Salvador",1995,13690
+"1547","El Salvador",1996,20402
+"1548","El Salvador",1997,21821
+"1549","El Salvador",1998,20066
+"1550","El Salvador",1999,18718
+"1551","El Salvador",2000,27019
+"1552","El Salvador",2001,34798
+"1553","El Salvador",2002,34405
+"1554","El Salvador",2003,32876
+"1555","El Salvador",2004,36684
+"1556","El Salvador",2005,29378
+"1557","El Salvador",2006,42807
+"1558","El Salvador",2007,23183
+"1559","El Salvador",2008,39301
+"1560","El Salvador",2009,40388
+"1561","El Salvador",2010,39050
+"1562","El Salvador",2011,35953
+"1563","El Salvador",2012,35002
+"1564","El Salvador",2013,39012
+"1565","El Salvador",2014,46044
+"1566","El Salvador",2015,42040
+"1567","Equatorial Guinea",1997,0
+"1568","Equatorial Guinea",1998,0
+"1569","Equatorial Guinea",1999,0
+"1570","Equatorial Guinea",2000,12
+"1571","Equatorial Guinea",2001,0
+"1572","Equatorial Guinea",2002,0
+"1573","Equatorial Guinea",2003,0
+"1574","Equatorial Guinea",2004,0
+"1575","Equatorial Guinea",2005,25
+"1576","Equatorial Guinea",2006,11
+"1577","Equatorial Guinea",2007,14
+"1578","Equatorial Guinea",2008,0
+"1579","Equatorial Guinea",2009,9
+"1580","Equatorial Guinea",2010,9
+"1581","Equatorial Guinea",2011,0
+"1582","Equatorial Guinea",2012,0
+"1583","Equatorial Guinea",2013,0
+"1584","Equatorial Guinea",2014,0
+"1585","Equatorial Guinea",2015,0
+"1586","Eritrea",1990,0
+"1587","Eritrea",1991,0
+"1588","Eritrea",1992,0
+"1589","Eritrea",1993,0
+"1590","Eritrea",1994,11
+"1591","Eritrea",1995,12
+"1592","Eritrea",1996,48
+"1593","Eritrea",1997,52
+"1594","Eritrea",1998,112
+"1595","Eritrea",1999,201
+"1596","Eritrea",2000,297
+"1597","Eritrea",2001,255
+"1598","Eritrea",2002,192
+"1599","Eritrea",2003,159
+"1600","Eritrea",2004,272
+"1601","Eritrea",2005,480
+"1602","Eritrea",2006,660
+"1603","Eritrea",2007,1126
+"1604","Eritrea",2008,442
+"1605","Eritrea",2009,1808
+"1606","Eritrea",2010,2756
+"1607","Eritrea",2011,2196
+"1608","Eritrea",2012,1477
+"1609","Eritrea",2013,1909
+"1610","Eritrea",2014,1637
+"1611","Eritrea",2015,1601
+"1612","Estonia",1990,0
+"1613","Estonia",1991,0
+"1614","Estonia",1992,7
+"1615","Estonia",1993,2
+"1616","Estonia",1994,3
+"1617","Estonia",1995,3
+"1618","Estonia",1996,1
+"1619","Estonia",1997,8
+"1620","Estonia",1998,12
+"1621","Estonia",1999,81
+"1622","Estonia",2000,102
+"1623","Estonia",2001,84
+"1624","Estonia",2002,80
+"1625","Estonia",2003,53
+"1626","Estonia",2004,51
+"1627","Estonia",2005,49
+"1628","Estonia",2006,23
+"1629","Estonia",2007,24
+"1630","Estonia",2008,25
+"1631","Estonia",2009,31
+"1632","Estonia",2010,24
+"1633","Estonia",2011,28
+"1634","Estonia",2012,16
+"1635","Estonia",2013,17
+"1636","Estonia",2014,10
+"1637","Estonia",2015,251
+"1638","Ethiopia",1990,3610
+"1639","Ethiopia",1991,4353
+"1640","Ethiopia",1992,3329
+"1641","Ethiopia",1993,3126
+"1642","Ethiopia",1994,1008
+"1643","Ethiopia",1995,1354
+"1644","Ethiopia",1996,1026
+"1645","Ethiopia",1997,693
+"1646","Ethiopia",1998,729
+"1647","Ethiopia",1999,3004
+"1648","Ethiopia",2000,6419
+"1649","Ethiopia",2001,7202
+"1650","Ethiopia",2002,7698
+"1651","Ethiopia",2003,8297
+"1652","Ethiopia",2004,10699
+"1653","Ethiopia",2005,10601
+"1654","Ethiopia",2006,15211
+"1655","Ethiopia",2007,11866
+"1656","Ethiopia",2008,12676
+"1657","Ethiopia",2009,15771
+"1658","Ethiopia",2010,15281
+"1659","Ethiopia",2011,15162
+"1660","Ethiopia",2012,16741
+"1661","Ethiopia",2013,14784
+"1662","Ethiopia",2014,14194
+"1663","Ethiopia",2015,13849
+"1664","Falkland Islands",1997,0
+"1665","Falkland Islands",1998,0
+"1666","Falkland Islands",1999,0
+"1667","Falkland Islands",2000,0
+"1668","Falkland Islands",2001,0
+"1669","Falkland Islands",2002,0
+"1670","Falkland Islands",2003,0
+"1671","Fiji",1990,1
+"1672","Fiji",1991,4
+"1673","Fiji",1992,21
+"1674","Fiji",1993,74
+"1675","Fiji",1994,38
+"1676","Fiji",1995,58
+"1677","Fiji",1996,53
+"1678","Fiji",1997,28
+"1679","Fiji",1998,32
+"1680","Fiji",1999,77
+"1681","Fiji",2000,107
+"1682","Fiji",2001,371
+"1683","Fiji",2002,207
+"1684","Fiji",2003,97
+"1685","Fiji",2004,125
+"1686","Fiji",2005,97
+"1687","Fiji",2006,65
+"1688","Fiji",2007,72
+"1689","Fiji",2008,94
+"1690","Fiji",2009,70
+"1691","Fiji",2010,71
+"1692","Fiji",2011,79
+"1693","Fiji",2012,47
+"1694","Fiji",2013,32
+"1695","Fiji",2014,41
+"1696","Fiji",2015,17
+"1697","Finland",1992,1
+"1698","Finland",1993,4
+"1699","Finland",1994,2
+"1700","Finland",1995,4
+"1701","Finland",1996,2
+"1702","Finland",1997,0
+"1703","Finland",1998,5
+"1704","Finland",1999,8
+"1705","Finland",2000,382
+"1706","Finland",2001,503
+"1707","Finland",2002,373
+"1708","Finland",2003,235
+"1709","Finland",2004,350
+"1710","Finland",2005,557
+"1711","Finland",2006,519
+"1712","Finland",2007,505
+"1713","Finland",2008,298
+"1714","Finland",2009,431
+"1715","Finland",2010,431
+"1716","Finland",2011,405
+"1717","Finland",2012,381
+"1718","Finland",2013,369
+"1719","Finland",2014,371
+"1720","Finland",2015,397
+"1721","France",1820,371
+"1722","France",1830,8497
+"1723","France",1840,45575
+"1724","France",1850,77262
+"1725","France",1860,76358
+"1726","France",1870,35986
+"1727","France",1880,72206
+"1728","France",1890,50464
+"1729","France",1900,30770
+"1730","France",1910,73379
+"1731","France",1920,61897
+"1732","France",1930,49610
+"1733","France",1940,12623
+"1734","France",1950,38809
+"1735","France",1960,51121
+"1736","France",1970,45237
+"1737","France",1980,25069
+"1738","France",1987,32353
+"1739","France",1988,3637
+"1740","France",1989,4101
+"1741","France",1990,4265
+"1742","France",1991,3978
+"1743","France",1992,4522
+"1744","France",1993,4006
+"1745","France",1994,3637
+"1746","France",1995,3231
+"1747","France",1996,3949
+"1748","France",1997,3079
+"1749","France",1998,3039
+"1750","France",1999,2741
+"1751","France",2000,4166
+"1752","France",2001,5474
+"1753","France",2002,4736
+"1754","France",2003,3077
+"1755","France",2004,4330
+"1756","France",2005,5171
+"1757","France",2006,5069
+"1758","France",2007,485
+"1759","France",2008,5399
+"1760","France",2009,5118
+"1761","France",2010,4533
+"1762","France",2011,4094
+"1763","France",2012,4308
+"1764","France",2013,4749
+"1765","France",2014,4607
+"1766","France",2015,5073
+"1767","French Guiana",1997,0
+"1768","French Guiana",1998,0
+"1769","French Guiana",1999,0
+"1770","French Guiana",2000,0
+"1771","French Guiana",2001,0
+"1772","French Guiana",2002,0
+"1773","French Guiana",2003,0
+"1774","French Polynesia",1997,19
+"1775","French Polynesia",1998,5
+"1776","French Polynesia",1999,0
+"1777","French Polynesia",2000,0
+"1778","French Polynesia",2001,3
+"1779","French Polynesia",2002,3
+"1780","French Polynesia",2003,0
+"1781","Gabon",1992,0
+"1782","Gabon",1993,0
+"1783","Gabon",1994,0
+"1784","Gabon",1995,0
+"1785","Gabon",1996,2
+"1786","Gabon",1997,0
+"1787","Gabon",1998,0
+"1788","Gabon",1999,0
+"1789","Gabon",2000,0
+"1790","Gabon",2001,0
+"1791","Gabon",2002,0
+"1792","Gabon",2003,0
+"1793","Gabon",2004,4
+"1794","Gabon",2005,0
+"1795","Gabon",2006,0
+"1796","Gabon",2007,4
+"1797","Gabon",2008,3
+"1798","Gabon",2009,7
+"1799","Gabon",2010,4
+"1800","Gabon",2011,14
+"1801","Gabon",2012,7
+"1802","Gabon",2013,0
+"1803","Gabon",2014,5
+"1804","Gabon",2015,3
+"1805","Gambia",1992,5
+"1806","Gambia",1993,3
+"1807","Gambia",1994,5
+"1808","Gambia",1995,5
+"1809","Gambia",1996,8
+"1810","Gambia",1997,104
+"1811","Gambia",1998,126
+"1812","Gambia",1999,91
+"1813","Gambia",2000,71
+"1814","Gambia",2001,76
+"1815","Gambia",2002,61
+"1816","Gambia",2003,110
+"1817","Gambia",2004,106
+"1818","Gambia",2005,90
+"1819","Gambia",2006,86
+"1820","Gambia",2007,91
+"1821","Gambia",2008,82
+"1822","Gambia",2009,86
+"1823","Gambia",2010,90
+"1824","Gambia",2011,102
+"1825","Gambia",2012,130
+"1826","Gambia",2013,80
+"1827","Gambia",2014,63
+"1828","Gambia",2015,88
+"1829","Georgia",1990,0
+"1830","Georgia",1991,0
+"1831","Georgia",1992,0
+"1832","Georgia",1993,5
+"1833","Georgia",1994,37
+"1834","Georgia",1995,81
+"1835","Georgia",1996,70
+"1836","Georgia",1997,68
+"1837","Georgia",1998,69
+"1838","Georgia",1999,178
+"1839","Georgia",2000,194
+"1840","Georgia",2001,188
+"1841","Georgia",2002,109
+"1842","Georgia",2003,162
+"1843","Georgia",2004,154
+"1844","Georgia",2005,85
+"1845","Georgia",2006,60
+"1846","Georgia",2007,73
+"1847","Georgia",2008,95
+"1848","Georgia",2009,96
+"1849","Georgia",2010,80
+"1850","Georgia",2011,74
+"1851","Georgia",2012,46
+"1852","Georgia",2013,43
+"1853","Georgia",2014,50
+"1854","Georgia",2015,45
+"1855","Germany",1820,968
+"1856","Germany",1830,6761
+"1857","Germany",1840,152454
+"1858","Germany",1850,434626
+"1859","Germany",1860,951667
+"1860","Germany",1870,787468
+"1861","Germany",1880,718182
+"1862","Germany",1890,1452970
+"1863","Germany",1900,505152
+"1864","Germany",1910,341498
+"1865","Germany",1920,143945
+"1866","Germany",1930,412202
+"1867","Germany",1940,114058
+"1868","Germany",1950,226578
+"1869","Germany",1960,477765
+"1870","Germany",1970,190796
+"1871","Germany",1980,74414
+"1872","Germany",1987,91961
+"1873","Germany",1988,9748
+"1874","Germany",1989,10419
+"1875","Germany",1990,12152
+"1876","Germany",1991,10887
+"1877","Germany",1992,12930
+"1878","Germany",1993,10052
+"1879","Germany",1994,9022
+"1880","Germany",1995,7982
+"1881","Germany",1996,8467
+"1882","Germany",1997,7063
+"1883","Germany",1998,7073
+"1884","Germany",1999,7570
+"1885","Germany",2000,12410
+"1886","Germany",2001,22131
+"1887","Germany",2002,21131
+"1888","Germany",2003,8229
+"1889","Germany",2004,10441
+"1890","Germany",2005,13033
+"1891","Germany",2006,10429
+"1892","Germany",2007,3845
+"1893","Germany",2008,8634
+"1894","Germany",2009,8816
+"1895","Germany",2010,8130
+"1896","Germany",2011,7226
+"1897","Germany",2012,6845
+"1898","Germany",2013,6964
+"1899","Germany",2014,6462
+"1900","Germany",2015,6012
+"1901","Ghana",1990,11
+"1902","Ghana",1991,0
+"1903","Ghana",1992,15
+"1904","Ghana",1993,26
+"1905","Ghana",1994,35
+"1906","Ghana",1995,50
+"1907","Ghana",1996,50
+"1908","Ghana",1997,186
+"1909","Ghana",1998,215
+"1910","Ghana",1999,213
+"1911","Ghana",2000,253
+"1912","Ghana",2001,221
+"1913","Ghana",2002,216
+"1914","Ghana",2003,274
+"1915","Ghana",2004,309
+"1916","Ghana",2005,222
+"1917","Ghana",2006,192
+"1918","Ghana",2007,239
+"1919","Ghana",2008,208
+"1920","Ghana",2009,238
+"1921","Ghana",2010,205
+"1922","Ghana",2011,193
+"1923","Ghana",2012,187
+"1924","Ghana",2013,110
+"1925","Ghana",2014,118
+"1926","Ghana",2015,75
+"1927","Greece",1899,2539
+"1928","Greece",1900,15979
+"1929","Greece",1992,27
+"1930","Greece",1993,18
+"1931","Greece",1994,2559
+"1932","Greece",1995,4827
+"1933","Greece",1996,2412
+"1934","Greece",1997,1522
+"1935","Greece",1998,1212
+"1936","Greece",1999,4094
+"1937","Greece",2000,5157
+"1938","Greece",2001,1977
+"1939","Greece",2002,1529
+"1940","Greece",2003,945
+"1941","Greece",2004,1249
+"1942","Greece",2005,1523
+"1943","Greece",2006,1579
+"1944","Greece",2007,8670
+"1945","Greece",2008,993
+"1946","Greece",2009,5814
+"1947","Greece",2010,5595
+"1948","Greece",2011,5129
+"1949","Greece",2012,4220
+"1950","Greece",2013,3721
+"1951","Greece",2014,3876
+"1952","Greece",2015,1344
+"1953","Greece",NA,687925
+"1954","Grenada",1992,6
+"1955","Grenada",1993,11
+"1956","Grenada",1994,6
+"1957","Grenada",1995,10
+"1958","Grenada",1996,11
+"1959","Grenada",1997,16
+"1960","Grenada",1998,25
+"1961","Grenada",1999,28
+"1962","Grenada",2000,31
+"1963","Grenada",2001,22
+"1964","Grenada",2002,26
+"1965","Grenada",2003,23
+"1966","Grenada",2004,28
+"1967","Grenada",2005,38
+"1968","Grenada",2006,27
+"1969","Grenada",2007,28
+"1970","Grenada",2008,28
+"1971","Grenada",2009,29
+"1972","Grenada",2010,47
+"1973","Grenada",2011,45
+"1974","Grenada",2012,28
+"1975","Grenada",2013,12
+"1976","Grenada",2014,13
+"1977","Grenada",2015,13
+"1978","Guadeloupe",1997,0
+"1979","Guadeloupe",1998,0
+"1980","Guadeloupe",1999,0
+"1981","Guadeloupe",2000,0
+"1982","Guadeloupe",2001,0
+"1983","Guadeloupe",2002,0
+"1984","Guadeloupe",2003,3
+"1985","Guatemala",1990,65
+"1986","Guatemala",1991,49
+"1987","Guatemala",1992,1503
+"1988","Guatemala",1993,1482
+"1989","Guatemala",1994,1552
+"1990","Guatemala",1995,2719
+"1991","Guatemala",1996,2869
+"1992","Guatemala",1997,3880
+"1993","Guatemala",1998,5622
+"1994","Guatemala",1999,3829
+"1995","Guatemala",2000,14309
+"1996","Guatemala",2001,17838
+"1997","Guatemala",2002,20910
+"1998","Guatemala",2003,21024
+"1999","Guatemala",2004,28588
+"2000","Guatemala",2005,31250
+"2001","Guatemala",2006,44688
+"2002","Guatemala",2007,46446
+"2003","Guatemala",2008,43696
+"2004","Guatemala",2009,41869
+"2005","Guatemala",2010,40265
+"2006","Guatemala",2011,41419
+"2007","Guatemala",2012,49069
+"2008","Guatemala",2013,57007
+"2009","Guatemala",2014,64428
+"2010","Guatemala",2015,46412
+"2011","Guinea",1992,0
+"2012","Guinea",1993,1
+"2013","Guinea",1994,6
+"2014","Guinea",1995,4
+"2015","Guinea",1996,6
+"2016","Guinea",1997,35
+"2017","Guinea",1998,110
+"2018","Guinea",1999,115
+"2019","Guinea",2000,152
+"2020","Guinea",2001,214
+"2021","Guinea",2002,239
+"2022","Guinea",2003,182
+"2023","Guinea",2004,247
+"2024","Guinea",2005,225
+"2025","Guinea",2006,173
+"2026","Guinea",2007,189
+"2027","Guinea",2008,193
+"2028","Guinea",2009,182
+"2029","Guinea",2010,152
+"2030","Guinea",2011,109
+"2031","Guinea",2012,86
+"2032","Guinea",2013,37
+"2033","Guinea",2014,38
+"2034","Guinea",2015,68
+"2035","Guinea-Bissau",1992,0
+"2036","Guinea-Bissau",1993,1
+"2037","Guinea-Bissau",1994,0
+"2038","Guinea-Bissau",1995,1
+"2039","Guinea-Bissau",1996,0
+"2040","Guinea-Bissau",1997,0
+"2041","Guinea-Bissau",1998,0
+"2042","Guinea-Bissau",1999,0
+"2043","Guinea-Bissau",2000,5
+"2044","Guinea-Bissau",2001,0
+"2045","Guinea-Bissau",2002,0
+"2046","Guinea-Bissau",2003,0
+"2047","Guinea-Bissau",2004,11
+"2048","Guinea-Bissau",2005,0
+"2049","Guinea-Bissau",2006,0
+"2050","Guinea-Bissau",2007,0
+"2051","Guinea-Bissau",2008,0
+"2052","Guinea-Bissau",2009,0
+"2053","Guinea-Bissau",2010,0
+"2054","Guinea-Bissau",2011,0
+"2055","Guinea-Bissau",2012,0
+"2056","Guinea-Bissau",2013,0
+"2057","Guyana",1992,107
+"2058","Guyana",1993,78
+"2059","Guyana",1994,75
+"2060","Guyana",1995,65
+"2061","Guyana",1996,67
+"2062","Guyana",1997,221
+"2063","Guyana",1998,252
+"2064","Guyana",1999,288
+"2065","Guyana",2000,5496
+"2066","Guyana",2001,7965
+"2067","Guyana",2002,9808
+"2068","Guyana",2003,6711
+"2069","Guyana",2004,6109
+"2070","Guyana",2005,9168
+"2071","Guyana",2006,9299
+"2072","Guyana",2007,12304
+"2073","Guyana",2008,6586
+"2074","Guyana",2009,6628
+"2075","Guyana",2010,6662
+"2076","Guyana",2011,6475
+"2077","Guyana",2012,5457
+"2078","Guyana",2013,5715
+"2079","Guyana",2014,6171
+"2080","Guyana",2015,5423
+"2081","Haiti",1820,0
+"2082","Haiti",1830,0
+"2083","Haiti",1840,0
+"2084","Haiti",1850,0
+"2085","Haiti",1860,0
+"2086","Haiti",1870,0
+"2087","Haiti",1880,0
+"2088","Haiti",1890,0
+"2089","Haiti",1900,0
+"2090","Haiti",1910,0
+"2091","Haiti",1920,0
+"2092","Haiti",1930,0
+"2093","Haiti",1940,191
+"2094","Haiti",1950,911
+"2095","Haiti",1960,4442
+"2096","Haiti",1970,34499
+"2097","Haiti",1980,56335
+"2098","Haiti",1987,138379
+"2099","Haiti",1988,34858
+"2100","Haiti",1989,13341
+"2101","Haiti",1990,19872
+"2102","Haiti",1991,47047
+"2103","Haiti",1992,11099
+"2104","Haiti",1993,12001
+"2105","Haiti",1994,18095
+"2106","Haiti",1995,16305
+"2107","Haiti",1996,19921
+"2108","Haiti",1997,16197
+"2109","Haiti",1998,14224
+"2110","Haiti",1999,17204
+"2111","Haiti",2000,23246
+"2112","Haiti",2001,24151
+"2113","Haiti",2002,20618
+"2114","Haiti",2003,14118
+"2115","Haiti",2004,16376
+"2116","Haiti",2005,17017
+"2117","Haiti",2006,24958
+"2118","Haiti",2007,30429
+"2119","Haiti",2008,27835
+"2120","Haiti",2009,25319
+"2121","Haiti",2010,23498
+"2122","Haiti",2011,23347
+"2123","Haiti",2012,23781
+"2124","Haiti",2013,21041
+"2125","Haiti",2014,15517
+"2126","Haiti",2015,17249
+"2127","Honduras",1990,5
+"2128","Honduras",1991,5
+"2129","Honduras",1992,1868
+"2130","Honduras",1993,1680
+"2131","Honduras",1994,1677
+"2132","Honduras",1995,2069
+"2133","Honduras",1996,2833
+"2134","Honduras",1997,3930
+"2135","Honduras",1998,5194
+"2136","Honduras",1999,3430
+"2137","Honduras",2000,10493
+"2138","Honduras",2001,10953
+"2139","Honduras",2002,11154
+"2140","Honduras",2003,12291
+"2141","Honduras",2004,14096
+"2142","Honduras",2005,22413
+"2143","Honduras",2006,35122
+"2144","Honduras",2007,46954
+"2145","Honduras",2008,35296
+"2146","Honduras",2009,33611
+"2147","Honduras",2010,31573
+"2148","Honduras",2011,28144
+"2149","Honduras",2012,38650
+"2150","Honduras",2013,45495
+"2151","Honduras",2014,49128
+"2152","Honduras",2015,29628
+"2153","Hong Kong",1820,0
+"2154","Hong Kong",1830,0
+"2155","Hong Kong",1840,0
+"2156","Hong Kong",1850,0
+"2157","Hong Kong",1860,0
+"2158","Hong Kong",1870,0
+"2159","Hong Kong",1880,0
+"2160","Hong Kong",1890,0
+"2161","Hong Kong",1900,0
+"2162","Hong Kong",1910,0
+"2163","Hong Kong",1920,0
+"2164","Hong Kong",1930,0
+"2165","Hong Kong",1940,0
+"2166","Hong Kong",1950,0
+"2167","Hong Kong",1960,15541
+"2168","Hong Kong",1970,75007
+"2169","Hong Kong",1980,113467
+"2170","Hong Kong",1987,98215
+"2171","Hong Kong",1988,11817
+"2172","Hong Kong",1989,15257
+"2173","Hong Kong",1990,14367
+"2174","Hong Kong",1991,15895
+"2175","Hong Kong",1992,16802
+"2176","Hong Kong",1993,14026
+"2177","Hong Kong",1994,11953
+"2178","Hong Kong",1995,10699
+"2179","Hong Kong",1996,11319
+"2180","Hong Kong",1997,7995
+"2181","Hong Kong",1998,7399
+"2182","Hong Kong",1999,6551
+"2183","Hong Kong",2000,7204
+"2184","Hong Kong",2001,10302
+"2185","Hong Kong",2002,7956
+"2186","Hong Kong",2003,5035
+"2187","Hong Kong",2004,5443
+"2188","Hong Kong",2005,5024
+"2189","Hong Kong",2006,4529
+"2190","Hong Kong",2007,70952
+"2191","Hong Kong",2008,4412
+"2192","Hong Kong",2009,3414
+"2193","Hong Kong",2010,3296
+"2194","Hong Kong",2011,3170
+"2195","Hong Kong",2012,2667
+"2196","Hong Kong",2013,2630
+"2197","Hong Kong",2014,2534
+"2198","Hong Kong",2015,2442
+"2199","Hungary",1820,0
+"2200","Hungary",1830,0
+"2201","Hungary",1840,0
+"2202","Hungary",1850,0
+"2203","Hungary",1860,0
+"2204","Hungary",1870,484
+"2205","Hungary",1880,9960
+"2206","Hungary",1890,127681
+"2207","Hungary",1900,181288
+"2208","Hungary",1910,808511
+"2209","Hungary",1920,442693
+"2210","Hungary",1930,30680
+"2211","Hungary",1940,7861
+"2212","Hungary",1950,3469
+"2213","Hungary",1960,36637
+"2214","Hungary",1970,5401
+"2215","Hungary",1980,6550
+"2216","Hungary",1987,6545
+"2217","Hungary",1988,707
+"2218","Hungary",1989,741
+"2219","Hungary",1990,1253
+"2220","Hungary",1991,956
+"2221","Hungary",1992,1056
+"2222","Hungary",1993,1049
+"2223","Hungary",1994,832
+"2224","Hungary",1995,882
+"2225","Hungary",1996,1163
+"2226","Hungary",1997,956
+"2227","Hungary",1998,863
+"2228","Hungary",1999,835
+"2229","Hungary",2000,1071
+"2230","Hungary",2001,1395
+"2231","Hungary",2002,1475
+"2232","Hungary",2003,1110
+"2233","Hungary",2004,1350
+"2234","Hungary",2005,1680
+"2235","Hungary",2006,1765
+"2236","Hungary",2007,934
+"2237","Hungary",2008,1166
+"2238","Hungary",2009,1426
+"2239","Hungary",2010,1095
+"2240","Hungary",2011,1133
+"2241","Hungary",2012,1081
+"2242","Hungary",2013,1075
+"2243","Hungary",2014,1026
+"2244","Hungary",2015,1065
+"2245","Iceland",1992,4
+"2246","Iceland",1993,3
+"2247","Iceland",1994,4
+"2248","Iceland",1995,0
+"2249","Iceland",1996,2
+"2250","Iceland",1997,0
+"2251","Iceland",1998,0
+"2252","Iceland",1999,3
+"2253","Iceland",2000,0
+"2254","Iceland",2001,0
+"2255","Iceland",2002,0
+"2256","Iceland",2003,0
+"2257","India",1820,1
+"2258","India",1830,8
+"2259","India",1840,39
+"2260","India",1850,36
+"2261","India",1860,43
+"2262","India",1870,69
+"2263","India",1880,163
+"2264","India",1890,269
+"2265","India",1900,68
+"2266","India",1910,4713
+"2267","India",1920,2082
+"2268","India",1930,1886
+"2269","India",1940,496
+"2270","India",1950,1761
+"2271","India",1960,1973
+"2272","India",1970,27189
+"2273","India",1980,164134
+"2274","India",1987,250786
+"2275","India",1988,25312
+"2276","India",1989,28599
+"2277","India",1990,28809
+"2278","India",1991,42720
+"2279","India",1992,34962
+"2280","India",1993,39046
+"2281","India",1994,33798
+"2282","India",1995,34196
+"2283","India",1996,44577
+"2284","India",1997,37269
+"2285","India",1998,35069
+"2286","India",1999,29095
+"2287","India",2000,40040
+"2288","India",2001,66892
+"2289","India",2002,68120
+"2290","India",2003,47839
+"2291","India",2004,66564
+"2292","India",2005,80073
+"2293","India",2006,59172
+"2294","India",2007,5357
+"2295","India",2008,60762
+"2296","India",2009,55553
+"2297","India",2010,67246
+"2298","India",2011,67155
+"2299","India",2012,63991
+"2300","India",2013,66015
+"2301","India",2014,74978
+"2302","India",2015,62991
+"2303","Indonesia",1992,4
+"2304","Indonesia",1993,5
+"2305","Indonesia",1994,2
+"2306","Indonesia",1995,3
+"2307","Indonesia",1996,10
+"2308","Indonesia",1997,18
+"2309","Indonesia",1998,48
+"2310","Indonesia",1999,1649
+"2311","Indonesia",2000,1143
+"2312","Indonesia",2001,845
+"2313","Indonesia",2002,687
+"2314","Indonesia",2003,447
+"2315","Indonesia",2004,473
+"2316","Indonesia",2005,476
+"2317","Indonesia",2006,829
+"2318","Indonesia",2007,1001
+"2319","Indonesia",2008,872
+"2320","Indonesia",2009,608
+"2321","Indonesia",2010,431
+"2322","Indonesia",2011,408
+"2323","Indonesia",2012,312
+"2324","Indonesia",2013,138
+"2325","Indonesia",2014,169
+"2326","Indonesia",2015,222
+"2327","Iran",1820,0
+"2328","Iran",1830,0
+"2329","Iran",1840,0
+"2330","Iran",1850,0
+"2331","Iran",1860,0
+"2332","Iran",1870,0
+"2333","Iran",1880,0
+"2334","Iran",1890,0
+"2335","Iran",1900,0
+"2336","Iran",1910,0
+"2337","Iran",1920,0
+"2338","Iran",1930,241
+"2339","Iran",1940,195
+"2340","Iran",1950,1380
+"2341","Iran",1960,3388
+"2342","Iran",1970,10339
+"2343","Iran",1980,45136
+"2344","Iran",1987,116172
+"2345","Iran",1988,9846
+"2346","Iran",1989,13027
+"2347","Iran",1990,18490
+"2348","Iran",1991,12851
+"2349","Iran",1992,9219
+"2350","Iran",1993,10461
+"2351","Iran",1994,8526
+"2352","Iran",1995,7448
+"2353","Iran",1996,9190
+"2354","Iran",1997,8073
+"2355","Iran",1998,7412
+"2356","Iran",1999,7647
+"2357","Iran",2000,12549
+"2358","Iran",2001,15505
+"2359","Iran",2002,9977
+"2360","Iran",2003,7546
+"2361","Iran",2004,7940
+"2362","Iran",2005,9354
+"2363","Iran",2006,12819
+"2364","Iran",2007,61072
+"2365","Iran",2008,15558
+"2366","Iran",2009,14533
+"2367","Iran",2010,13091
+"2368","Iran",2011,11470
+"2369","Iran",2012,11356
+"2370","Iran",2013,12879
+"2371","Iran",2014,11780
+"2372","Iran",2015,12216
+"2373","Iraq",1990,88
+"2374","Iraq",1991,868
+"2375","Iraq",1992,3519
+"2376","Iraq",1993,4706
+"2377","Iraq",1994,5198
+"2378","Iraq",1995,3686
+"2379","Iraq",1996,3448
+"2380","Iraq",1997,8467
+"2381","Iraq",1998,1599
+"2382","Iraq",1999,2166
+"2383","Iraq",2000,3554
+"2384","Iraq",2001,3119
+"2385","Iraq",2002,1036
+"2386","Iraq",2003,643
+"2387","Iraq",2004,250
+"2388","Iraq",2005,416
+"2389","Iraq",2006,403
+"2390","Iraq",2007,2026
+"2391","Iraq",2008,14445
+"2392","Iraq",2009,19415
+"2393","Iraq",2010,18351
+"2394","Iraq",2011,9676
+"2395","Iraq",2012,12503
+"2396","Iraq",2013,19926
+"2397","Iraq",2014,20366
+"2398","Iraq",2015,13345
+"2399","Ireland",1820,3614
+"2400","Ireland",1830,50724
+"2401","Ireland",1840,207381
+"2402","Ireland",1850,780719
+"2403","Ireland",1860,914119
+"2404","Ireland",1870,435778
+"2405","Ireland",1880,436871
+"2406","Ireland",1890,655482
+"2407","Ireland",1900,388416
+"2408","Ireland",1910,339065
+"2409","Ireland",1920,146181
+"2410","Ireland",1930,211234
+"2411","Ireland",1940,10973
+"2412","Ireland",1950,19789
+"2413","Ireland",1960,48362
+"2414","Ireland",1970,32966
+"2415","Ireland",1980,11490
+"2416","Ireland",1987,31969
+"2417","Ireland",1988,5121
+"2418","Ireland",1989,6983
+"2419","Ireland",1990,9740
+"2420","Ireland",1991,4608
+"2421","Ireland",1992,12054
+"2422","Ireland",1993,13402
+"2423","Ireland",1994,16534
+"2424","Ireland",1995,4867
+"2425","Ireland",1996,1626
+"2426","Ireland",1997,975
+"2427","Ireland",1998,952
+"2428","Ireland",1999,838
+"2429","Ireland",2000,1303
+"2430","Ireland",2001,1588
+"2431","Ireland",2002,1468
+"2432","Ireland",2003,1071
+"2433","Ireland",2004,1595
+"2434","Ireland",2005,2155
+"2435","Ireland",2006,2092
+"2436","Ireland",2007,1209
+"2437","Ireland",2008,1578
+"2438","Ireland",2009,1837
+"2439","Ireland",2010,1717
+"2440","Ireland",2011,1592
+"2441","Ireland",2012,1739
+"2442","Ireland",2013,1814
+"2443","Ireland",2014,1751
+"2444","Ireland",2015,1819
+"2445","Israel",1820,0
+"2446","Israel",1830,0
+"2447","Israel",1840,0
+"2448","Israel",1850,0
+"2449","Israel",1860,0
+"2450","Israel",1870,0
+"2451","Israel",1880,0
+"2452","Israel",1890,0
+"2453","Israel",1900,0
+"2454","Israel",1910,0
+"2455","Israel",1920,0
+"2456","Israel",1930,0
+"2457","Israel",1940,0
+"2458","Israel",1950,476
+"2459","Israel",1960,25476
+"2460","Israel",1970,29602
+"2461","Israel",1980,37713
+"2462","Israel",1987,44273
+"2463","Israel",1988,4444
+"2464","Israel",1989,5494
+"2465","Israel",1990,5906
+"2466","Israel",1991,5116
+"2467","Israel",1992,5980
+"2468","Israel",1993,5259
+"2469","Israel",1994,4011
+"2470","Israel",1995,3219
+"2471","Israel",1996,4069
+"2472","Israel",1997,3090
+"2473","Israel",1998,2633
+"2474","Israel",1999,2670
+"2475","Israel",2000,4048
+"2476","Israel",2001,5037
+"2477","Israel",2002,5091
+"2478","Israel",2003,3844
+"2479","Israel",2004,5453
+"2480","Israel",2005,7254
+"2481","Israel",2006,6868
+"2482","Israel",2007,8354
+"2483","Israel",2008,6953
+"2484","Israel",2009,6638
+"2485","Israel",2010,5506
+"2486","Israel",2011,4599
+"2487","Israel",2012,4836
+"2488","Israel",2013,4689
+"2489","Israel",2014,4893
+"2490","Israel",2015,5136
+"2491","Italy",1820,30
+"2492","Italy",1830,409
+"2493","Italy",1840,2253
+"2494","Italy",1850,1870
+"2495","Italy",1860,9231
+"2496","Italy",1870,11725
+"2497","Italy",1880,55759
+"2498","Italy",1890,307309
+"2499","Italy",1900,651893
+"2500","Italy",1910,2045877
+"2501","Italy",1920,1109524
+"2502","Italy",1930,455315
+"2503","Italy",1940,68028
+"2504","Italy",1950,57661
+"2505","Italy",1960,185491
+"2506","Italy",1970,214111
+"2507","Italy",1980,129368
+"2508","Italy",1987,67254
+"2509","Italy",1988,5332
+"2510","Italy",1989,11089
+"2511","Italy",1990,16246
+"2512","Italy",1991,30316
+"2513","Italy",1992,12011
+"2514","Italy",1993,3944
+"2515","Italy",1994,2710
+"2516","Italy",1995,2648
+"2517","Italy",1996,2813
+"2518","Italy",1997,2307
+"2519","Italy",1998,2065
+"2520","Italy",1999,1797
+"2521","Italy",2000,2787
+"2522","Italy",2001,3460
+"2523","Italy",2002,2937
+"2524","Italy",2003,2018
+"2525","Italy",2004,2656
+"2526","Italy",2005,3323
+"2527","Italy",2006,3550
+"2528","Italy",2007,1757
+"2529","Italy",2008,2953
+"2530","Italy",2009,3387
+"2531","Italy",2010,3157
+"2532","Italy",2011,2794
+"2533","Italy",2012,3065
+"2534","Italy",2013,3347
+"2535","Italy",2014,3737
+"2536","Italy",2015,3898
+"2537","Jamaica",1820,0
+"2538","Jamaica",1830,0
+"2539","Jamaica",1840,0
+"2540","Jamaica",1850,0
+"2541","Jamaica",1860,0
+"2542","Jamaica",1870,0
+"2543","Jamaica",1880,0
+"2544","Jamaica",1890,0
+"2545","Jamaica",1900,0
+"2546","Jamaica",1910,0
+"2547","Jamaica",1920,0
+"2548","Jamaica",1930,0
+"2549","Jamaica",1940,0
+"2550","Jamaica",1950,0
+"2551","Jamaica",1960,8869
+"2552","Jamaica",1970,74906
+"2553","Jamaica",1980,137577
+"2554","Jamaica",1987,208148
+"2555","Jamaica",1988,20474
+"2556","Jamaica",1989,23572
+"2557","Jamaica",1990,23667
+"2558","Jamaica",1991,22977
+"2559","Jamaica",1992,19217
+"2560","Jamaica",1993,17634
+"2561","Jamaica",1994,14682
+"2562","Jamaica",1995,16894
+"2563","Jamaica",1996,19623
+"2564","Jamaica",1997,19386
+"2565","Jamaica",1998,16673
+"2566","Jamaica",1999,16480
+"2567","Jamaica",2000,17530
+"2568","Jamaica",2001,17051
+"2569","Jamaica",2002,16661
+"2570","Jamaica",2003,15044
+"2571","Jamaica",2004,16122
+"2572","Jamaica",2005,19798
+"2573","Jamaica",2006,26207
+"2574","Jamaica",2007,31480
+"2575","Jamaica",2008,19724
+"2576","Jamaica",2009,23198
+"2577","Jamaica",2010,20969
+"2578","Jamaica",2011,20820
+"2579","Jamaica",2012,21667
+"2580","Jamaica",2013,20196
+"2581","Jamaica",2014,19843
+"2582","Jamaica",2015,18214
+"2583","Japan",1820,0
+"2584","Japan",1830,0
+"2585","Japan",1840,0
+"2586","Japan",1850,0
+"2587","Japan",1860,0
+"2588","Japan",1870,186
+"2589","Japan",1880,149
+"2590","Japan",1890,2270
+"2591","Japan",1900,25942
+"2592","Japan",1910,129797
+"2593","Japan",1920,83837
+"2594","Japan",1930,33462
+"2595","Japan",1940,1948
+"2596","Japan",1950,1555
+"2597","Japan",1960,46250
+"2598","Japan",1970,39988
+"2599","Japan",1980,49775
+"2600","Japan",1987,47085
+"2601","Japan",1988,5085
+"2602","Japan",1989,5454
+"2603","Japan",1990,6431
+"2604","Japan",1991,5600
+"2605","Japan",1992,11758
+"2606","Japan",1993,7706
+"2607","Japan",1994,7013
+"2608","Japan",1995,5583
+"2609","Japan",1996,6650
+"2610","Japan",1997,5733
+"2611","Japan",1998,5700
+"2612","Japan",1999,4857
+"2613","Japan",2000,7791
+"2614","Japan",2001,10536
+"2615","Japan",2002,9205
+"2616","Japan",2003,6805
+"2617","Japan",2004,8748
+"2618","Japan",2005,9975
+"2619","Japan",2006,9160
+"2620","Japan",2007,5037
+"2621","Japan",2008,7598
+"2622","Japan",2009,8305
+"2623","Japan",2010,7146
+"2624","Japan",2011,6788
+"2625","Japan",2012,6620
+"2626","Japan",2013,6430
+"2627","Japan",2014,6013
+"2628","Japan",2015,5840
+"2629","Jordan",1990,3
+"2630","Jordan",1991,6
+"2631","Jordan",1992,69
+"2632","Jordan",1993,67
+"2633","Jordan",1994,65
+"2634","Jordan",1995,80
+"2635","Jordan",1996,45
+"2636","Jordan",1997,125
+"2637","Jordan",1998,113
+"2638","Jordan",1999,118
+"2639","Jordan",2000,4601
+"2640","Jordan",2001,5242
+"2641","Jordan",2002,5032
+"2642","Jordan",2003,4276
+"2643","Jordan",2004,5412
+"2644","Jordan",2005,5681
+"2645","Jordan",2006,5719
+"2646","Jordan",2007,7453
+"2647","Jordan",2008,5876
+"2648","Jordan",2009,8083
+"2649","Jordan",2010,9478
+"2650","Jordan",2011,8337
+"2651","Jordan",2012,7160
+"2652","Jordan",2013,6057
+"2653","Jordan",2014,9137
+"2654","Jordan",2015,7964
+"2655","Kazakhstan",1990,0
+"2656","Kazakhstan",1991,0
+"2657","Kazakhstan",1992,0
+"2658","Kazakhstan",1993,3
+"2659","Kazakhstan",1994,1
+"2660","Kazakhstan",1995,17
+"2661","Kazakhstan",1996,16
+"2662","Kazakhstan",1997,23
+"2663","Kazakhstan",1998,27
+"2664","Kazakhstan",1999,439
+"2665","Kazakhstan",2000,343
+"2666","Kazakhstan",2001,315
+"2667","Kazakhstan",2002,261
+"2668","Kazakhstan",2003,150
+"2669","Kazakhstan",2004,353
+"2670","Kazakhstan",2005,109
+"2671","Kazakhstan",2006,154
+"2672","Kazakhstan",2007,87
+"2673","Kazakhstan",2008,105
+"2674","Kazakhstan",2009,112
+"2675","Kazakhstan",2010,120
+"2676","Kazakhstan",2011,138
+"2677","Kazakhstan",2012,133
+"2678","Kazakhstan",2013,99
+"2679","Kazakhstan",2014,86
+"2680","Kazakhstan",2015,118
+"2681","Kenya",1992,7
+"2682","Kenya",1993,4
+"2683","Kenya",1994,19
+"2684","Kenya",1995,5
+"2685","Kenya",1996,14
+"2686","Kenya",1997,46
+"2687","Kenya",1998,105
+"2688","Kenya",1999,147
+"2689","Kenya",2000,152
+"2690","Kenya",2001,182
+"2691","Kenya",2002,359
+"2692","Kenya",2003,343
+"2693","Kenya",2004,317
+"2694","Kenya",2005,245
+"2695","Kenya",2006,186
+"2696","Kenya",2007,307
+"2697","Kenya",2008,355
+"2698","Kenya",2009,409
+"2699","Kenya",2010,350
+"2700","Kenya",2011,246
+"2701","Kenya",2012,294
+"2702","Kenya",2013,194
+"2703","Kenya",2014,167
+"2704","Kenya",2015,150
+"2705","Kiribati",1992,0
+"2706","Kiribati",1993,0
+"2707","Kiribati",1994,1
+"2708","Kiribati",1995,0
+"2709","Kiribati",1996,0
+"2710","Kiribati",1997,0
+"2711","Kiribati",1998,0
+"2712","Kiribati",1999,0
+"2713","Kiribati",2000,0
+"2714","Kiribati",2001,0
+"2715","Kiribati",2002,0
+"2716","Kiribati",2003,0
+"2717","Korea",1820,0
+"2718","Korea",1830,0
+"2719","Korea",1840,0
+"2720","Korea",1850,0
+"2721","Korea",1860,0
+"2722","Korea",1870,0
+"2723","Korea",1880,0
+"2724","Korea",1890,0
+"2725","Korea",1900,0
+"2726","Korea",1910,0
+"2727","Korea",1920,0
+"2728","Korea",1930,0
+"2729","Korea",1940,0
+"2730","Korea",1950,107
+"2731","Korea",1960,6231
+"2732","Korea",1970,34526
+"2733","Korea",1980,267638
+"2734","Korea",1987,333746
+"2735","Korea",1988,34151
+"2736","Korea",1989,33016
+"2737","Korea",1990,30964
+"2738","Korea",1991,25430
+"2739","Korea",1992,18734
+"2740","Korea",1993,17320
+"2741","Korea",1994,15417
+"2742","Korea",1995,15053
+"2743","Korea",1996,17380
+"2744","Korea",1997,13626
+"2745","Korea",1998,13691
+"2746","Korea",1999,12301
+"2747","Korea",2000,15107
+"2748","Korea",2001,19728
+"2749","Korea",2002,19917
+"2750","Korea",2003,12076
+"2751","Korea",2004,19441
+"2752","Korea",2005,26002
+"2753","Korea",2006,24472
+"2754","Korea",2007,5516
+"2755","Korea",2008,26155
+"2756","Korea",2009,25582
+"2757","Korea",2010,22022
+"2758","Korea",2011,22748
+"2759","Korea",2012,20802
+"2760","Korea",2013,22937
+"2761","Korea",2014,20313
+"2762","Korea",2015,16976
+"2763","Kosovo",2004,0
+"2764","Kosovo",2005,0
+"2765","Kosovo",2006,0
+"2766","Kosovo",2007,0
+"2767","Kosovo",2008,0
+"2768","Kosovo",2009,19
+"2769","Kosovo",2010,45
+"2770","Kosovo",2011,46
+"2771","Kosovo",2012,53
+"2772","Kosovo",2013,39
+"2773","Kosovo",2014,74
+"2774","Kosovo",2015,67
+"2775","Kuwait",1992,3
+"2776","Kuwait",1993,1
+"2777","Kuwait",1994,3
+"2778","Kuwait",1995,3
+"2779","Kuwait",1996,7
+"2780","Kuwait",1997,16
+"2781","Kuwait",1998,22
+"2782","Kuwait",1999,33
+"2783","Kuwait",2000,27
+"2784","Kuwait",2001,18
+"2785","Kuwait",2002,25
+"2786","Kuwait",2003,23
+"2787","Kuwait",2004,32
+"2788","Kuwait",2005,16
+"2789","Kuwait",2006,6
+"2790","Kuwait",2007,31
+"2791","Kuwait",2008,10
+"2792","Kuwait",2009,21
+"2793","Kuwait",2010,48
+"2794","Kuwait",2011,12
+"2795","Kuwait",2012,8
+"2796","Kuwait",2013,17
+"2797","Kuwait",2014,17
+"2798","Kuwait",2015,10
+"2799","Kyrgyzstan",1990,0
+"2800","Kyrgyzstan",1991,0
+"2801","Kyrgyzstan",1992,0
+"2802","Kyrgyzstan",1993,0
+"2803","Kyrgyzstan",1994,0
+"2804","Kyrgyzstan",1995,6
+"2805","Kyrgyzstan",1996,5
+"2806","Kyrgyzstan",1997,12
+"2807","Kyrgyzstan",1998,4
+"2808","Kyrgyzstan",1999,154
+"2809","Kyrgyzstan",2000,164
+"2810","Kyrgyzstan",2001,133
+"2811","Kyrgyzstan",2002,92
+"2812","Kyrgyzstan",2003,68
+"2813","Kyrgyzstan",2004,122
+"2814","Kyrgyzstan",2005,56
+"2815","Kyrgyzstan",2006,24
+"2816","Kyrgyzstan",2007,43
+"2817","Kyrgyzstan",2008,61
+"2818","Kyrgyzstan",2009,87
+"2819","Kyrgyzstan",2010,90
+"2820","Kyrgyzstan",2011,187
+"2821","Kyrgyzstan",2012,191
+"2822","Kyrgyzstan",2013,106
+"2823","Kyrgyzstan",2014,60
+"2824","Kyrgyzstan",2015,74
+"2825","Laos",1990,8809
+"2826","Laos",1991,9285
+"2827","Laos",1992,7371
+"2828","Laos",1993,7046
+"2829","Laos",1994,6369
+"2830","Laos",1995,3717
+"2831","Laos",1996,2225
+"2832","Laos",1997,966
+"2833","Laos",1998,26
+"2834","Laos",1999,38
+"2835","Laos",2000,89
+"2836","Laos",2001,40
+"2837","Laos",2002,35
+"2838","Laos",2003,33
+"2839","Laos",2004,6046
+"2840","Laos",2005,8541
+"2841","Laos",2006,855
+"2842","Laos",2007,169
+"2843","Laos",2008,94
+"2844","Laos",2009,48
+"2845","Laos",2010,66
+"2846","Laos",2011,232
+"2847","Laos",2012,35
+"2848","Laos",2013,9
+"2849","Laos",2014,6
+"2850","Laos",2015,14
+"2851","Latvia",1990,0
+"2852","Latvia",1991,0
+"2853","Latvia",1992,5
+"2854","Latvia",1993,6
+"2855","Latvia",1994,16
+"2856","Latvia",1995,8
+"2857","Latvia",1996,20
+"2858","Latvia",1997,7
+"2859","Latvia",1998,6
+"2860","Latvia",1999,178
+"2861","Latvia",2000,125
+"2862","Latvia",2001,148
+"2863","Latvia",2002,80
+"2864","Latvia",2003,83
+"2865","Latvia",2004,89
+"2866","Latvia",2005,61
+"2867","Latvia",2006,44
+"2868","Latvia",2007,41
+"2869","Latvia",2008,29
+"2870","Latvia",2009,33
+"2871","Latvia",2010,33
+"2872","Latvia",2011,49
+"2873","Latvia",2012,24
+"2874","Latvia",2013,39
+"2875","Latvia",2014,125
+"2876","Latvia",2015,133
+"2877","Lebanon",1990,86
+"2878","Lebanon",1991,67
+"2879","Lebanon",1992,109
+"2880","Lebanon",1993,99
+"2881","Lebanon",1994,128
+"2882","Lebanon",1995,117
+"2883","Lebanon",1996,96
+"2884","Lebanon",1997,90
+"2885","Lebanon",1998,115
+"2886","Lebanon",1999,119
+"2887","Lebanon",2000,95
+"2888","Lebanon",2001,100
+"2889","Lebanon",2002,157
+"2890","Lebanon",2003,167
+"2891","Lebanon",2004,202
+"2892","Lebanon",2005,175
+"2893","Lebanon",2006,164
+"2894","Lebanon",2007,178
+"2895","Lebanon",2008,152
+"2896","Lebanon",2009,181
+"2897","Lebanon",2010,188
+"2898","Lebanon",2011,112
+"2899","Lebanon",2012,88
+"2900","Lebanon",2013,54
+"2901","Lebanon",2014,56
+"2902","Lebanon",2015,43
+"2903","Lesotho",1992,0
+"2904","Lesotho",1993,0
+"2905","Lesotho",1994,1
+"2906","Lesotho",1995,0
+"2907","Lesotho",1996,1
+"2908","Lesotho",1997,0
+"2909","Lesotho",1998,0
+"2910","Lesotho",1999,0
+"2911","Lesotho",2000,0
+"2912","Lesotho",2001,0
+"2913","Lesotho",2002,0
+"2914","Lesotho",2003,0
+"2915","Liberia",1990,13
+"2916","Liberia",1991,54
+"2917","Liberia",1992,855
+"2918","Liberia",1993,1220
+"2919","Liberia",1994,940
+"2920","Liberia",1995,682
+"2921","Liberia",1996,751
+"2922","Liberia",1997,756
+"2923","Liberia",1998,2041
+"2924","Liberia",1999,3204
+"2925","Liberia",2000,4567
+"2926","Liberia",2001,5708
+"2927","Liberia",2002,2662
+"2928","Liberia",2003,4409
+"2929","Liberia",2004,9053
+"2930","Liberia",2005,6356
+"2931","Liberia",2006,6211
+"2932","Liberia",2007,13070
+"2933","Liberia",2008,4559
+"2934","Liberia",2009,4178
+"2935","Liberia",2010,3251
+"2936","Liberia",2011,3301
+"2937","Liberia",2012,3561
+"2938","Liberia",2013,3204
+"2939","Liberia",2014,3752
+"2940","Liberia",2015,3624
+"2941","Libya",1990,23
+"2942","Libya",1991,6
+"2943","Libya",1992,16
+"2944","Libya",1993,23
+"2945","Libya",1994,22
+"2946","Libya",1995,25
+"2947","Libya",1996,7
+"2948","Libya",1997,10
+"2949","Libya",1998,13
+"2950","Libya",1999,12
+"2951","Libya",2000,21
+"2952","Libya",2001,5
+"2953","Libya",2002,4
+"2954","Libya",2003,0
+"2955","Libya",2004,3
+"2956","Libya",2005,0
+"2957","Libya",2006,3
+"2958","Libya",2007,0
+"2959","Libya",2008,3
+"2960","Libya",2009,0
+"2961","Libya",2010,11
+"2962","Libya",2011,66
+"2963","Libya",2012,43
+"2964","Libya",2013,30
+"2965","Libya",2014,27
+"2966","Libya",2015,35
+"2967","Liechtenstein",1992,1
+"2968","Liechtenstein",1993,0
+"2969","Liechtenstein",1994,0
+"2970","Liechtenstein",1995,0
+"2971","Liechtenstein",1996,0
+"2972","Lithuania",1990,0
+"2973","Lithuania",1991,0
+"2974","Lithuania",1992,3
+"2975","Lithuania",1993,8
+"2976","Lithuania",1994,6
+"2977","Lithuania",1995,8
+"2978","Lithuania",1996,4
+"2979","Lithuania",1997,8
+"2980","Lithuania",1998,17
+"2981","Lithuania",1999,42
+"2982","Lithuania",2000,49
+"2983","Lithuania",2001,87
+"2984","Lithuania",2002,80
+"2985","Lithuania",2003,106
+"2986","Lithuania",2004,95
+"2987","Lithuania",2005,83
+"2988","Lithuania",2006,63
+"2989","Lithuania",2007,77
+"2990","Lithuania",2008,69
+"2991","Lithuania",2009,72
+"2992","Lithuania",2010,66
+"2993","Lithuania",2011,47
+"2994","Lithuania",2012,40
+"2995","Lithuania",2013,41
+"2996","Lithuania",2014,28
+"2997","Lithuania",2015,18
+"2998","Luxembourg",1992,0
+"2999","Luxembourg",1993,1
+"3000","Luxembourg",1994,0
+"3001","Luxembourg",1995,0
+"3002","Luxembourg",1996,1
+"3003","Luxembourg",1997,0
+"3004","Luxembourg",1998,0
+"3005","Luxembourg",1999,0
+"3006","Luxembourg",2000,0
+"3007","Luxembourg",2001,0
+"3008","Luxembourg",2002,0
+"3009","Luxembourg",2003,0
+"3010","Macau",1997,0
+"3011","Macau",1998,0
+"3012","Macau",1999,0
+"3013","Macau",2000,0
+"3014","Macau",2001,0
+"3015","Macau",2002,0
+"3016","Macau",2003,0
+"3017","Macedonia",1990,0
+"3018","Macedonia",1991,0
+"3019","Macedonia",1992,0
+"3020","Macedonia",1993,0
+"3021","Macedonia",1994,0
+"3022","Macedonia",1995,12
+"3023","Macedonia",1996,11
+"3024","Macedonia",1997,38
+"3025","Macedonia",1998,29
+"3026","Macedonia",1999,21
+"3027","Macedonia",2000,22
+"3028","Macedonia",2001,52
+"3029","Macedonia",2002,62
+"3030","Macedonia",2003,42
+"3031","Macedonia",2004,37
+"3032","Macedonia",2005,33
+"3033","Macedonia",2006,46
+"3034","Macedonia",2007,34
+"3035","Macedonia",2008,63
+"3036","Macedonia",2009,53
+"3037","Macedonia",2010,49
+"3038","Macedonia",2011,36
+"3039","Macedonia",2012,30
+"3040","Macedonia",2013,27
+"3041","Macedonia",2014,31
+"3042","Macedonia",2015,56
+"3043","Madagascar",1992,0
+"3044","Madagascar",1993,1
+"3045","Madagascar",1994,0
+"3046","Madagascar",1995,1
+"3047","Madagascar",1996,1
+"3048","Madagascar",1997,0
+"3049","Madagascar",1998,0
+"3050","Madagascar",1999,0
+"3051","Madagascar",2000,0
+"3052","Madagascar",2001,0
+"3053","Madagascar",2002,0
+"3054","Madagascar",2003,0
+"3055","Madagascar",2006,0
+"3056","Madagascar",2007,0
+"3057","Madagascar",2008,0
+"3058","Madagascar",2009,0
+"3059","Madagascar",2010,11
+"3060","Madagascar",2011,5
+"3061","Madagascar",2012,5
+"3062","Madagascar",2013,0
+"3063","Madagascar",2014,11
+"3064","Madagascar",2015,4
+"3065","Malawi",1997,3
+"3066","Malawi",1998,0
+"3067","Malawi",1999,0
+"3068","Malawi",2000,3
+"3069","Malawi",2001,0
+"3070","Malawi",2002,5
+"3071","Malawi",2003,4
+"3072","Malawi",2004,7
+"3073","Malawi",2005,10
+"3074","Malaysia",1992,20
+"3075","Malaysia",1993,10
+"3076","Malaysia",1994,5
+"3077","Malaysia",1995,11
+"3078","Malaysia",1996,3
+"3079","Malaysia",1997,18
+"3080","Malaysia",1998,39
+"3081","Malaysia",1999,70
+"3082","Malaysia",2000,94
+"3083","Malaysia",2001,106
+"3084","Malaysia",2002,124
+"3085","Malaysia",2003,88
+"3086","Malaysia",2004,119
+"3087","Malaysia",2005,95
+"3088","Malaysia",2006,70
+"3089","Malaysia",2007,70
+"3090","Malaysia",2008,59
+"3091","Malaysia",2009,65
+"3092","Malaysia",2010,53
+"3093","Malaysia",2011,48
+"3094","Malaysia",2012,37
+"3095","Malaysia",2013,30
+"3096","Malaysia",2014,21
+"3097","Malaysia",2015,16
+"3098","Maldives",1992,0
+"3099","Maldives",1993,0
+"3100","Maldives",1994,1
+"3101","Maldives",1995,0
+"3102","Maldives",1996,0
+"3103","Maldives",1997,0
+"3104","Maldives",1998,0
+"3105","Maldives",1999,0
+"3106","Maldives",2000,0
+"3107","Maldives",2001,0
+"3108","Maldives",2002,0
+"3109","Maldives",2003,0
+"3110","Mali",1992,2
+"3111","Mali",1993,0
+"3112","Mali",1994,4
+"3113","Mali",1995,6
+"3114","Mali",1996,5
+"3115","Mali",1997,23
+"3116","Mali",1998,28
+"3117","Mali",1999,32
+"3118","Mali",2000,60
+"3119","Mali",2001,40
+"3120","Mali",2002,54
+"3121","Mali",2003,39
+"3122","Mali",2004,65
+"3123","Mali",2005,59
+"3124","Mali",2006,52
+"3125","Mali",2007,86
+"3126","Mali",2008,68
+"3127","Mali",2009,77
+"3128","Mali",2010,112
+"3129","Mali",2011,81
+"3130","Mali",2012,73
+"3131","Mali",2013,71
+"3132","Mali",2014,27
+"3133","Mali",2015,9
+"3134","Malta",1992,0
+"3135","Malta",1993,0
+"3136","Malta",1994,0
+"3137","Malta",1995,1
+"3138","Malta",1996,0
+"3139","Malta",1997,0
+"3140","Malta",1998,0
+"3141","Malta",1999,0
+"3142","Malta",2000,0
+"3143","Malta",2001,0
+"3144","Malta",2002,0
+"3145","Malta",2003,0
+"3146","Marshall Islands",1997,0
+"3147","Marshall Islands",1998,0
+"3148","Marshall Islands",1999,0
+"3149","Marshall Islands",2000,3
+"3150","Marshall Islands",2001,4
+"3151","Marshall Islands",2002,4
+"3152","Marshall Islands",2003,6
+"3153","Marshall Islands",2004,10
+"3154","Marshall Islands",2005,7
+"3155","Marshall Islands",2006,0
+"3156","Marshall Islands",2007,10
+"3157","Marshall Islands",2008,15
+"3158","Marshall Islands",2009,11
+"3159","Marshall Islands",2010,16
+"3160","Marshall Islands",2011,20
+"3161","Marshall Islands",2012,21
+"3162","Marshall Islands",2013,24
+"3163","Marshall Islands",2014,31
+"3164","Marshall Islands",2015,21
+"3165","Martinique",1997,0
+"3166","Martinique",1998,0
+"3167","Martinique",1999,0
+"3168","Martinique",2000,0
+"3169","Martinique",2001,7
+"3170","Martinique",2002,4
+"3171","Martinique",2003,0
+"3172","Mauritania",1990,2
+"3173","Mauritania",1991,2
+"3174","Mauritania",1992,1
+"3175","Mauritania",1993,10
+"3176","Mauritania",1994,17
+"3177","Mauritania",1995,275
+"3178","Mauritania",1996,407
+"3179","Mauritania",1997,105
+"3180","Mauritania",1998,142
+"3181","Mauritania",1999,100
+"3182","Mauritania",2000,97
+"3183","Mauritania",2001,296
+"3184","Mauritania",2002,108
+"3185","Mauritania",2003,73
+"3186","Mauritania",2004,101
+"3187","Mauritania",2005,81
+"3188","Mauritania",2006,151
+"3189","Mauritania",2007,95
+"3190","Mauritania",2008,55
+"3191","Mauritania",2009,51
+"3192","Mauritania",2010,127
+"3193","Mauritania",2011,53
+"3194","Mauritania",2012,38
+"3195","Mauritania",2013,32
+"3196","Mauritania",2014,47
+"3197","Mauritania",2015,72
+"3198","Mauritius",1997,0
+"3199","Mauritius",1998,3
+"3200","Mauritius",1999,0
+"3201","Mauritius",2000,0
+"3202","Mauritius",2001,0
+"3203","Mauritius",2002,0
+"3204","Mauritius",2003,0
+"3205","Mauritius",2004,0
+"3206","Mauritius",2005,0
+"3207","Mexico",1820,1
+"3208","Mexico",1830,4817
+"3209","Mexico",1840,6599
+"3210","Mexico",1850,3271
+"3211","Mexico",1860,3078
+"3212","Mexico",1870,2191
+"3213","Mexico",1880,5162
+"3214","Mexico",1890,1913
+"3215","Mexico",1900,971
+"3216","Mexico",1910,49642
+"3217","Mexico",1920,219004
+"3218","Mexico",1930,459287
+"3219","Mexico",1940,22319
+"3220","Mexico",1950,60589
+"3221","Mexico",1960,299811
+"3222","Mexico",1970,453937
+"3223","Mexico",1980,640294
+"3224","Mexico",1987,1655843
+"3225","Mexico",1988,95170
+"3226","Mexico",1989,405660
+"3227","Mexico",1990,680186
+"3228","Mexico",1991,947923
+"3229","Mexico",1992,240596
+"3230","Mexico",1993,152372
+"3231","Mexico",1994,139782
+"3232","Mexico",1995,119854
+"3233","Mexico",1996,199214
+"3234","Mexico",1997,232950
+"3235","Mexico",1998,270090
+"3236","Mexico",1999,296220
+"3237","Mexico",2000,322061
+"3238","Mexico",2001,345548
+"3239","Mexico",2002,326437
+"3240","Mexico",2003,252612
+"3241","Mexico",2004,349633
+"3242","Mexico",2005,327111
+"3243","Mexico",2006,356856
+"3244","Mexico",2007,229423
+"3245","Mexico",2008,435454
+"3246","Mexico",2009,440852
+"3247","Mexico",2010,411482
+"3248","Mexico",2011,429968
+"3249","Mexico",2012,447307
+"3250","Mexico",2013,444214
+"3251","Mexico",2014,400801
+"3252","Mexico",2015,399727
+"3253","Micronesia, Federated States",1992,0
+"3254","Micronesia, Federated States",1993,0
+"3255","Micronesia, Federated States",1994,3
+"3256","Micronesia, Federated States",1995,5
+"3257","Micronesia, Federated States",1996,9
+"3258","Micronesia, Federated States",1997,11
+"3259","Micronesia, Federated States",1998,8
+"3260","Micronesia, Federated States",1999,18
+"3261","Micronesia, Federated States",2000,28
+"3262","Micronesia, Federated States",2001,36
+"3263","Micronesia, Federated States",2002,32
+"3264","Micronesia, Federated States",2003,28
+"3265","Micronesia, Federated States",2004,37
+"3266","Micronesia, Federated States",2005,24
+"3267","Micronesia, Federated States",2006,30
+"3268","Micronesia, Federated States",2007,43
+"3269","Micronesia, Federated States",2008,64
+"3270","Micronesia, Federated States",2009,66
+"3271","Micronesia, Federated States",2010,64
+"3272","Micronesia, Federated States",2011,69
+"3273","Micronesia, Federated States",2012,76
+"3274","Micronesia, Federated States",2013,79
+"3275","Micronesia, Federated States",2014,63
+"3276","Micronesia, Federated States",2015,64
+"3277","Moldova",1990,0
+"3278","Moldova",1991,0
+"3279","Moldova",1992,0
+"3280","Moldova",1993,3
+"3281","Moldova",1994,8
+"3282","Moldova",1995,15
+"3283","Moldova",1996,12
+"3284","Moldova",1997,10
+"3285","Moldova",1998,3
+"3286","Moldova",1999,1035
+"3287","Moldova",2000,1072
+"3288","Moldova",2001,1194
+"3289","Moldova",2002,1039
+"3290","Moldova",2003,634
+"3291","Moldova",2004,1733
+"3292","Moldova",2005,1041
+"3293","Moldova",2006,745
+"3294","Moldova",2007,616
+"3295","Moldova",2008,581
+"3296","Moldova",2009,603
+"3297","Moldova",2010,481
+"3298","Moldova",2011,525
+"3299","Moldova",2012,485
+"3300","Moldova",2013,249
+"3301","Moldova",2014,647
+"3302","Moldova",2015,1013
+"3303","Monaco",1997,0
+"3304","Monaco",1998,0
+"3305","Monaco",1999,0
+"3306","Monaco",2000,0
+"3307","Monaco",2001,0
+"3308","Monaco",2002,0
+"3309","Monaco",2003,0
+"3310","Mongolia",1997,0
+"3311","Mongolia",1998,0
+"3312","Mongolia",1999,0
+"3313","Mongolia",2000,5
+"3314","Mongolia",2001,13
+"3315","Mongolia",2002,22
+"3316","Mongolia",2003,60
+"3317","Mongolia",2004,102
+"3318","Mongolia",2005,96
+"3319","Mongolia",2006,104
+"3320","Mongolia",2007,149
+"3321","Mongolia",2008,127
+"3322","Mongolia",2009,97
+"3323","Mongolia",2010,156
+"3324","Mongolia",2011,173
+"3325","Mongolia",2012,135
+"3326","Mongolia",2013,64
+"3327","Mongolia",2014,79
+"3328","Mongolia",2015,87
+"3329","Montenegro",1990,0
+"3330","Montenegro",1991,0
+"3331","Montenegro",1992,0
+"3332","Montenegro",1993,0
+"3333","Montenegro",1994,0
+"3334","Montenegro",1995,0
+"3335","Montenegro",1996,0
+"3336","Montenegro",2004,0
+"3337","Montenegro",2005,0
+"3338","Montenegro",2006,0
+"3339","Montenegro",2007,0
+"3340","Montenegro",2008,0
+"3341","Montenegro",2009,0
+"3342","Montenegro",2010,0
+"3343","Montenegro",2011,10
+"3344","Montenegro",2012,12
+"3345","Montenegro",2013,18
+"3346","Montenegro",2014,10
+"3347","Montenegro",2015,9
+"3348","Montserrat",1997,0
+"3349","Montserrat",1998,0
+"3350","Montserrat",1999,8
+"3351","Montserrat",2000,3
+"3352","Montserrat",2001,0
+"3353","Montserrat",2002,4
+"3354","Montserrat",2003,0
+"3355","Morocco",1992,14
+"3356","Morocco",1993,14
+"3357","Morocco",1994,11
+"3358","Morocco",1995,4
+"3359","Morocco",1996,18
+"3360","Morocco",1997,44
+"3361","Morocco",1998,41
+"3362","Morocco",1999,50
+"3363","Morocco",2000,3478
+"3364","Morocco",2001,4794
+"3365","Morocco",2002,3317
+"3366","Morocco",2003,3085
+"3367","Morocco",2004,4043
+"3368","Morocco",2005,4279
+"3369","Morocco",2006,4797
+"3370","Morocco",2007,3859
+"3371","Morocco",2008,4248
+"3372","Morocco",2009,5334
+"3373","Morocco",2010,4924
+"3374","Morocco",2011,4324
+"3375","Morocco",2012,3601
+"3376","Morocco",2013,3252
+"3377","Morocco",2014,3566
+"3378","Morocco",2015,3638
+"3379","Mozambique",1997,3
+"3380","Mozambique",1998,0
+"3381","Mozambique",1999,0
+"3382","Mozambique",2000,0
+"3383","Mozambique",2001,0
+"3384","Mozambique",2002,0
+"3385","Mozambique",2003,0
+"3386","Namibia",1992,0
+"3387","Namibia",1993,0
+"3388","Namibia",1994,1
+"3389","Namibia",1995,1
+"3390","Namibia",1996,2
+"3391","Namibia",1997,0
+"3392","Namibia",1998,0
+"3393","Namibia",1999,0
+"3394","Namibia",2000,0
+"3395","Namibia",2001,0
+"3396","Namibia",2002,0
+"3397","Namibia",2003,0
+"3398","Nepal",1992,2
+"3399","Nepal",1993,1
+"3400","Nepal",1994,0
+"3401","Nepal",1995,3
+"3402","Nepal",1996,1
+"3403","Nepal",1997,6
+"3404","Nepal",1998,25
+"3405","Nepal",1999,18
+"3406","Nepal",2000,26
+"3407","Nepal",2001,31
+"3408","Nepal",2002,90
+"3409","Nepal",2003,174
+"3410","Nepal",2004,211
+"3411","Nepal",2005,269
+"3412","Nepal",2006,241
+"3413","Nepal",2007,327
+"3414","Nepal",2008,397
+"3415","Nepal",2009,555
+"3416","Nepal",2010,465
+"3417","Nepal",2011,477
+"3418","Nepal",2012,657
+"3419","Nepal",2013,548
+"3420","Nepal",2014,84
+"3421","Nepal",2015,55
+"3422","Netherlands",1820,49
+"3423","Netherlands",1830,1078
+"3424","Netherlands",1840,1412
+"3425","Netherlands",1850,8251
+"3426","Netherlands",1860,10789
+"3427","Netherlands",1870,9102
+"3428","Netherlands",1880,16541
+"3429","Netherlands",1890,53701
+"3430","Netherlands",1900,26758
+"3431","Netherlands",1910,48262
+"3432","Netherlands",1920,43718
+"3433","Netherlands",1930,26948
+"3434","Netherlands",1940,7150
+"3435","Netherlands",1950,14860
+"3436","Netherlands",1960,52277
+"3437","Netherlands",1970,30606
+"3438","Netherlands",1980,10492
+"3439","Netherlands",1987,12238
+"3440","Netherlands",1988,1152
+"3441","Netherlands",1989,1253
+"3442","Netherlands",1990,1515
+"3443","Netherlands",1991,1303
+"3444","Netherlands",1992,1699
+"3445","Netherlands",1993,1567
+"3446","Netherlands",1994,1376
+"3447","Netherlands",1995,1308
+"3448","Netherlands",1996,1580
+"3449","Netherlands",1997,1231
+"3450","Netherlands",1998,1075
+"3451","Netherlands",1999,924
+"3452","Netherlands",2000,1526
+"3453","Netherlands",2001,1962
+"3454","Netherlands",2002,2387
+"3455","Netherlands",2003,1423
+"3456","Netherlands",2004,1801
+"3457","Netherlands",2005,2253
+"3458","Netherlands",2006,2017
+"3459","Netherlands",2007,2757
+"3460","Netherlands",2008,1516
+"3461","Netherlands",2009,1824
+"3462","Netherlands",2010,1615
+"3463","Netherlands",2011,1323
+"3464","Netherlands",2012,1336
+"3465","Netherlands",2013,1417
+"3466","Netherlands",2014,1411
+"3467","Netherlands",2015,1541
+"3468","Netherlands Antilles",1997,3
+"3469","Netherlands Antilles",1998,6
+"3470","Netherlands Antilles",1999,0
+"3471","Netherlands Antilles",2000,6
+"3472","Netherlands Antilles",2001,4
+"3473","Netherlands Antilles",2002,3
+"3474","Netherlands Antilles",2003,4
+"3475","New Caledonia",1997,0
+"3476","New Caledonia",1998,0
+"3477","New Caledonia",1999,0
+"3478","New Caledonia",2000,0
+"3479","New Caledonia",2001,0
+"3480","New Caledonia",2002,0
+"3481","New Caledonia",2003,0
+"3482","New Zealand",1992,8
+"3483","New Zealand",1993,4
+"3484","New Zealand",1994,15
+"3485","New Zealand",1995,17
+"3486","New Zealand",1996,22
+"3487","New Zealand",1997,29
+"3488","New Zealand",1998,28
+"3489","New Zealand",1999,20
+"3490","New Zealand",2000,1129
+"3491","New Zealand",2001,1408
+"3492","New Zealand",2002,1475
+"3493","New Zealand",2003,1110
+"3494","New Zealand",2004,1458
+"3495","New Zealand",2005,1492
+"3496","New Zealand",2006,1376
+"3497","New Zealand",2007,3061
+"3498","New Zealand",2008,1131
+"3499","New Zealand",2009,1162
+"3500","New Zealand",2010,1081
+"3501","New Zealand",2011,1050
+"3502","New Zealand",2012,1014
+"3503","New Zealand",2013,1043
+"3504","New Zealand",2014,959
+"3505","New Zealand",2015,994
+"3506","Nicaragua",1990,2809
+"3507","Nicaragua",1991,790
+"3508","Nicaragua",1992,652
+"3509","Nicaragua",1993,544
+"3510","Nicaragua",1994,897
+"3511","Nicaragua",1995,838
+"3512","Nicaragua",1996,802
+"3513","Nicaragua",1997,728
+"3514","Nicaragua",1998,558
+"3515","Nicaragua",1999,430
+"3516","Nicaragua",2000,18733
+"3517","Nicaragua",2001,17423
+"3518","Nicaragua",2002,9622
+"3519","Nicaragua",2003,4142
+"3520","Nicaragua",2004,4789
+"3521","Nicaragua",2005,4496
+"3522","Nicaragua",2006,6501
+"3523","Nicaragua",2007,9627
+"3524","Nicaragua",2008,5771
+"3525","Nicaragua",2009,6221
+"3526","Nicaragua",2010,5399
+"3527","Nicaragua",2011,4829
+"3528","Nicaragua",2012,4364
+"3529","Nicaragua",2013,4292
+"3530","Nicaragua",2014,4325
+"3531","Nicaragua",2015,4540
+"3532","Niger",1992,57
+"3533","Niger",1993,33
+"3534","Niger",1994,17
+"3535","Niger",1995,31
+"3536","Niger",1996,21
+"3537","Niger",1997,132
+"3538","Niger",1998,146
+"3539","Niger",1999,132
+"3540","Niger",2000,74
+"3541","Niger",2001,54
+"3542","Niger",2002,47
+"3543","Niger",2003,64
+"3544","Niger",2004,69
+"3545","Niger",2005,42
+"3546","Niger",2006,38
+"3547","Niger",2007,44
+"3548","Niger",2008,50
+"3549","Niger",2009,35
+"3550","Niger",2010,32
+"3551","Niger",2011,11
+"3552","Niger",2012,16
+"3553","Niger",2013,11
+"3554","Niger",2014,19
+"3555","Niger",2015,37
+"3556","Nigeria",1992,205
+"3557","Nigeria",1993,232
+"3558","Nigeria",1994,344
+"3559","Nigeria",1995,217
+"3560","Nigeria",1996,197
+"3561","Nigeria",1997,501
+"3562","Nigeria",1998,948
+"3563","Nigeria",1999,1210
+"3564","Nigeria",2000,547
+"3565","Nigeria",2001,526
+"3566","Nigeria",2002,518
+"3567","Nigeria",2003,661
+"3568","Nigeria",2004,622
+"3569","Nigeria",2005,522
+"3570","Nigeria",2006,456
+"3571","Nigeria",2007,483
+"3572","Nigeria",2008,547
+"3573","Nigeria",2009,465
+"3574","Nigeria",2010,400
+"3575","Nigeria",2011,392
+"3576","Nigeria",2012,367
+"3577","Nigeria",2013,412
+"3578","Nigeria",2014,461
+"3579","Nigeria",2015,587
+"3580","North Korea",2006,9
+"3581","North Korea",2007,22
+"3582","North Korea",2008,37
+"3583","North Korea",2009,25
+"3584","North Korea",2010,8
+"3585","North Korea",2011,23
+"3586","North Korea",2012,22
+"3587","North Korea",2013,17
+"3588","North Korea",2014,8
+"3589","North Korea",2015,15
+"3590","Norway",1820,0
+"3591","Norway",1830,0
+"3592","Norway",1840,0
+"3593","Norway",1850,0
+"3594","Norway",1860,0
+"3595","Norway",1870,0
+"3596","Norway",1880,95323
+"3597","Norway",1890,176586
+"3598","Norway",1900,95015
+"3599","Norway",1910,190505
+"3600","Norway",1920,66395
+"3601","Norway",1930,68531
+"3602","Norway",1940,4740
+"3603","Norway",1950,10100
+"3604","Norway",1960,22935
+"3605","Norway",1970,15484
+"3606","Norway",1980,3941
+"3607","Norway",1987,4164
+"3608","Norway",1988,446
+"3609","Norway",1989,556
+"3610","Norway",1990,552
+"3611","Norway",1991,554
+"3612","Norway",1992,794
+"3613","Norway",1993,715
+"3614","Norway",1994,519
+"3615","Norway",1995,469
+"3616","Norway",1996,554
+"3617","Norway",1997,402
+"3618","Norway",1998,337
+"3619","Norway",1999,358
+"3620","Norway",2000,523
+"3621","Norway",2001,593
+"3622","Norway",2002,466
+"3623","Norway",2003,399
+"3624","Norway",2004,476
+"3625","Norway",2005,480
+"3626","Norway",2006,547
+"3627","Norway",2007,1613
+"3628","Norway",2008,406
+"3629","Norway",2009,459
+"3630","Norway",2010,378
+"3631","Norway",2011,412
+"3632","Norway",2012,324
+"3633","Norway",2013,394
+"3634","Norway",2014,332
+"3635","Norway",2015,357
+"3636","Norway-Sweden",2007,1482
+"3637","Norway-Sweden",2008,1557
+"3638","Norway-Sweden",2009,1726
+"3639","Norway-Sweden",2010,1662
+"3640","Norway-Sweden",2011,1530
+"3641","Norway-Sweden",2012,1441
+"3642","Norway-Sweden",2013,1665
+"3643","Norway-Sweden",2014,1479
+"3644","Norway-Sweden",2015,1551
+"3645","Oman",1997,0
+"3646","Oman",1998,0
+"3647","Oman",1999,3
+"3648","Oman",2000,0
+"3649","Oman",2001,3
+"3650","Oman",2002,0
+"3651","Oman",2003,0
+"3652","Other Africa",1820,1
+"3653","Other Africa",1830,16
+"3654","Other Africa",1840,54
+"3655","Other Africa",1850,55
+"3656","Other Africa",1860,210
+"3657","Other Africa",1870,312
+"3658","Other Africa",1880,358
+"3659","Other Africa",1890,857
+"3660","Other Africa",1900,350
+"3661","Other Africa",1910,7368
+"3662","Other Africa",1920,8443
+"3663","Other Africa",1930,6286
+"3664","Other Africa",1940,1750
+"3665","Other Africa",1950,7367
+"3666","Other Africa",1960,14092
+"3667","Other Africa",1970,28954
+"3668","Other Africa",1980,80779
+"3669","Other Africa",1987,176893
+"3670","Other Africa",1988,17124
+"3671","Other Africa",1989,22485
+"3672","Other Africa",1990,32797
+"3673","Other Africa",1991,33542
+"3674","Other Africa",1992,24707
+"3675","Other Africa",1993,25532
+"3676","Other Africa",1994,24864
+"3677","Other Africa",1995,39818
+"3678","Other Africa",1996,49605
+"3679","Other Africa",1997,44668
+"3680","Other Africa",1998,37494
+"3681","Other Africa",1999,33740
+"3682","Other Africa",2000,25360
+"3683","Other Africa",2001,29781
+"3684","Other Africa",2002,35139
+"3685","Other Africa",2003,29524
+"3686","Other Africa",2004,40068
+"3687","Other Africa",2005,50589
+"3688","Other Africa",2006,73937
+"3689","Other Africa",2007,2842
+"3690","Other Africa",2008,68147
+"3691","Other Africa",2009,85215
+"3692","Other Africa",2010,64095
+"3693","Other Africa",2011,64228
+"3694","Other Africa",2012,68168
+"3695","Other Africa",2013,61455
+"3696","Other Africa",2014,59818
+"3697","Other Africa",2015,61757
+"3698","Other America",2007,10
+"3699","Other America",2008,1
+"3700","Other America",2009,1
+"3701","Other America",2010,4
+"3702","Other America",2011,0
+"3703","Other America",2012,0
+"3704","Other America",2013,1
+"3705","Other America",2014,2
+"3706","Other America",2015,1
+"3707","Other Asia",1820,3
+"3708","Other Asia",1830,0
+"3709","Other Asia",1840,1
+"3710","Other Asia",1850,11
+"3711","Other Asia",1860,15
+"3712","Other Asia",1870,72
+"3713","Other Asia",1880,243
+"3714","Other Asia",1890,1910
+"3715","Other Asia",1900,3628
+"3716","Other Asia",1910,11059
+"3717","Other Asia",1920,5973
+"3718","Other Asia",1930,12739
+"3719","Other Asia",1940,7435
+"3720","Other Asia",1950,9551
+"3721","Other Asia",1960,21572
+"3722","Other Asia",1970,63369
+"3723","Other Asia",1980,244783
+"3724","Other Asia",1987,648354
+"3725","Other Asia",1988,53717
+"3726","Other Asia",1989,74458
+"3727","Other Asia",1990,90619
+"3728","Other Asia",1991,126424
+"3729","Other Asia",1992,122350
+"3730","Other Asia",1993,97067
+"3731","Other Asia",1994,129207
+"3732","Other Asia",1995,112691
+"3733","Other Asia",1996,119857
+"3734","Other Asia",1997,104208
+"3735","Other Asia",1998,49543
+"3736","Other Asia",1999,52717
+"3737","Other Asia",2000,49348
+"3738","Other Asia",2001,56684
+"3739","Other Asia",2002,50817
+"3740","Other Asia",2003,37890
+"3741","Other Asia",2004,52352
+"3742","Other Asia",2005,70373
+"3743","Other Asia",2006,91096
+"3744","Other Asia",2007,27510
+"3745","Other Asia",2008,85715
+"3746","Other Asia",2009,112204
+"3747","Other Asia",2010,112320
+"3748","Other Asia",2011,122417
+"3749","Other Asia",2012,122000
+"3750","Other Asia",2013,107232
+"3751","Other Asia",2014,126363
+"3752","Other Asia",2015,123380
+"3753","Other Caribbean",1820,164
+"3754","Other Caribbean",1830,3834
+"3755","Other Caribbean",1840,12301
+"3756","Other Caribbean",1850,13528
+"3757","Other Caribbean",1860,10660
+"3758","Other Caribbean",1870,9046
+"3759","Other Caribbean",1880,13957
+"3760","Other Caribbean",1890,29042
+"3761","Other Caribbean",1900,33066
+"3762","Other Caribbean",1910,107548
+"3763","Other Caribbean",1920,123424
+"3764","Other Caribbean",1930,58998
+"3765","Other Caribbean",1940,4590
+"3766","Other Caribbean",1950,16874
+"3767","Other Caribbean",1960,20935
+"3768","Other Caribbean",1970,58980
+"3769","Other Caribbean",1980,134216
+"3770","Other Caribbean",1987,128911
+"3771","Other Caribbean",1988,11812
+"3772","Other Caribbean",1989,14417
+"3773","Other Caribbean",1990,17527
+"3774","Other Caribbean",1991,17672
+"3775","Other Caribbean",1992,14071
+"3776","Other Caribbean",1993,13085
+"3777","Other Caribbean",1994,11238
+"3778","Other Caribbean",1995,9934
+"3779","Other Caribbean",1996,16624
+"3780","Other Caribbean",1997,13690
+"3781","Other Caribbean",1998,9131
+"3782","Other Caribbean",1999,8444
+"3783","Other Caribbean",2000,11400
+"3784","Other Caribbean",2001,11912
+"3785","Other Caribbean",2002,10435
+"3786","Other Caribbean",2003,7732
+"3787","Other Caribbean",2004,9392
+"3788","Other Caribbean",2005,12090
+"3789","Other Caribbean",2006,16069
+"3790","Other Caribbean",2007,18873
+"3791","Other Caribbean",2008,11287
+"3792","Other Caribbean",2009,11917
+"3793","Other Caribbean",2010,10352
+"3794","Other Caribbean",2011,9615
+"3795","Other Caribbean",2012,9783
+"3796","Other Caribbean",2013,9384
+"3797","Other Caribbean",2014,8584
+"3798","Other Caribbean",2015,7377
+"3799","Other Central America",1820,2
+"3800","Other Central America",1830,105
+"3801","Other Central America",1840,44
+"3802","Other Central America",1850,368
+"3803","Other Central America",1860,449
+"3804","Other Central America",1870,95
+"3805","Other Central America",1880,157
+"3806","Other Central America",1890,404
+"3807","Other Central America",1900,549
+"3808","Other Central America",1910,8192
+"3809","Other Central America",1920,17159
+"3810","Other Central America",1930,15769
+"3811","Other Central America",1940,5188
+"3812","Other Central America",1950,16533
+"3813","Other Central America",1960,38856
+"3814","Other Central America",1970,86338
+"3815","Other Central America",1980,100204
+"3816","Other Central America",1987,254549
+"3817","Other Central America",1988,19268
+"3818","Other Central America",1989,43645
+"3819","Other Central America",1990,66642
+"3820","Other Central America",1991,63897
+"3821","Other Central America",1992,31772
+"3822","Other Central America",1993,31872
+"3823","Other Central America",1994,22587
+"3824","Other Central America",1995,20350
+"3825","Other Central America",1996,26489
+"3826","Other Central America",1997,25710
+"3827","Other Central America",1998,21039
+"3828","Other Central America",1999,27025
+"3829","Other Central America",2007,1929
+"3830","Other Central America",2008,0
+"3831","Other Central America",2009,0
+"3832","Other Central America",2010,0
+"3833","Other Central America",2011,0
+"3834","Other Central America",2012,0
+"3835","Other Central America",2013,0
+"3836","Other Central America",2014,0
+"3837","Other Central America",2015,0
+"3838","Other Europe",1820,0
+"3839","Other Europe",1830,3
+"3840","Other Europe",1840,40
+"3841","Other Europe",1850,79
+"3842","Other Europe",1860,5
+"3843","Other Europe",1870,8
+"3844","Other Europe",1880,1001
+"3845","Other Europe",1890,682
+"3846","Other Europe",1900,282
+"3847","Other Europe",1910,39945
+"3848","Other Europe",1920,31400
+"3849","Other Europe",1930,42619
+"3850","Other Europe",1940,11949
+"3851","Other Europe",1950,8486
+"3852","Other Europe",1960,16350
+"3853","Other Europe",1970,11604
+"3854","Other Europe",1980,9287
+"3855","Other Europe",1987,8234
+"3856","Other Europe",1988,785
+"3857","Other Europe",1989,741
+"3858","Other Europe",1990,910
+"3859","Other Europe",1991,1183
+"3860","Other Europe",1992,1961
+"3861","Other Europe",1993,2907
+"3862","Other Europe",1994,0
+"3863","Other Europe",1995,0
+"3864","Other Europe",1996,0
+"3865","Other Europe",1997,0
+"3866","Other Europe",1998,9970
+"3867","Other Europe",1999,6811
+"3868","Other Europe",2000,3337
+"3869","Other Europe",2001,6976
+"3870","Other Europe",2002,6723
+"3871","Other Europe",2003,6377
+"3872","Other Europe",2004,7286
+"3873","Other Europe",2005,9486
+"3874","Other Europe",2006,10994
+"3875","Other Europe",2007,6364
+"3876","Other Europe",2008,25700
+"3877","Other Europe",2009,27329
+"3878","Other Europe",2010,22608
+"3879","Other Europe",2011,20316
+"3880","Other Europe",2012,16865
+"3881","Other Europe",2013,17839
+"3882","Other Europe",2014,17684
+"3883","Other Europe",2015,19083
+"3884","Other North America",1992,0
+"3885","Other North America",1993,1
+"3886","Other North America",1994,2
+"3887","Other North America",1995,0
+"3888","Other North America",1996,0
+"3889","Other Oceania",1820,1
+"3890","Other Oceania",1830,2
+"3891","Other Oceania",1840,9
+"3892","Other Oceania",1850,29
+"3893","Other Oceania",1860,158
+"3894","Other Oceania",1870,214
+"3895","Other Oceania",1880,10914
+"3896","Other Oceania",1890,12574
+"3897","Other Oceania",1900,3965
+"3898","Other Oceania",1910,13024
+"3899","Other Oceania",1920,13427
+"3900","Other Oceania",1930,8726
+"3901","Other Oceania",1940,2483
+"3902","Other Oceania",1950,14551
+"3903","Other Oceania",1960,12976
+"3904","Other Oceania",1970,25122
+"3905","Other Oceania",1980,41242
+"3906","Other Oceania",1987,45205
+"3907","Other Oceania",1988,4324
+"3908","Other Oceania",1989,4956
+"3909","Other Oceania",1990,6804
+"3910","Other Oceania",1991,7061
+"3911","Other Oceania",1992,5994
+"3912","Other Oceania",1993,6144
+"3913","Other Oceania",1994,5647
+"3914","Other Oceania",1995,5472
+"3915","Other Oceania",1996,6008
+"3916","Other Oceania",1997,4855
+"3917","Other Oceania",1998,4403
+"3918","Other Oceania",1999,4299
+"3919","Other Oceania",2000,2154
+"3920","Other Oceania",2001,2140
+"3921","Other Oceania",2002,1711
+"3922","Other Oceania",2003,1558
+"3923","Other Oceania",2004,2137
+"3924","Other Oceania",2005,1885
+"3925","Other Oceania",2006,2887
+"3926","Other Oceania",2007,1234
+"3927","Other Oceania",2008,1803
+"3928","Other Oceania",2009,1917
+"3929","Other Oceania",2010,1823
+"3930","Other Oceania",2011,1757
+"3931","Other Oceania",2012,1447
+"3932","Other Oceania",2013,1505
+"3933","Other Oceania",2014,1457
+"3934","Other Oceania",2015,1454
+"3935","Other South America",1820,11
+"3936","Other South America",1830,531
+"3937","Other South America",1840,856
+"3938","Other South America",1850,3579
+"3939","Other South America",1860,1224
+"3940","Other South America",1870,1397
+"3941","Other South America",1880,1128
+"3942","Other South America",1890,2304
+"3943","Other South America",1900,1075
+"3944","Other South America",1910,17280
+"3945","Other South America",1920,41899
+"3946","Other South America",1930,42215
+"3947","Other South America",1940,4894
+"3948","Other South America",1950,12218
+"3949","Other South America",1960,44253
+"3950","Other South America",1970,99411
+"3951","Other South America",1980,138420
+"3952","Other South America",1987,255356
+"3953","Other South America",1988,24201
+"3954","Other South America",1989,33541
+"3955","Other South America",1990,44611
+"3956","Other South America",1991,46843
+"3957","Other South America",1992,31435
+"3958","Other South America",1993,31108
+"3959","Other South America",1994,28435
+"3960","Other South America",1995,26730
+"3961","Other South America",1996,36686
+"3962","Other South America",1997,29987
+"3963","Other South America",1998,24777
+"3964","Other South America",1999,20862
+"3965","Other South America",2000,12
+"3966","Other South America",2001,7
+"3967","Other South America",2002,5
+"3968","Other South America",2003,4
+"3969","Other South America",2004,5
+"3970","Other South America",2005,12
+"3971","Other South America",2006,13
+"3972","Other South America",2007,10696
+"3973","Other South America",2008,9
+"3974","Other South America",2009,10
+"3975","Other South America",2010,1
+"3976","Other South America",2011,2
+"3977","Other South America",2012,0
+"3978","Other South America",2013,1
+"3979","Other South America",2014,2
+"3980","Other South America",2015,3
+"3981","Pakistan",1990,11
+"3982","Pakistan",1991,11
+"3983","Pakistan",1992,128
+"3984","Pakistan",1993,214
+"3985","Pakistan",1994,248
+"3986","Pakistan",1995,555
+"3987","Pakistan",1996,494
+"3988","Pakistan",1997,542
+"3989","Pakistan",1998,665
+"3990","Pakistan",1999,771
+"3991","Pakistan",2000,675
+"3992","Pakistan",2001,757
+"3993","Pakistan",2002,1309
+"3994","Pakistan",2003,1019
+"3995","Pakistan",2004,848
+"3996","Pakistan",2005,791
+"3997","Pakistan",2006,680
+"3998","Pakistan",2007,707
+"3999","Pakistan",2008,650
+"4000","Pakistan",2009,622
+"4001","Pakistan",2010,591
+"4002","Pakistan",2011,538
+"4003","Pakistan",2012,681
+"4004","Pakistan",2013,562
+"4005","Pakistan",2014,378
+"4006","Pakistan",2015,338
+"4007","Palau",1992,6
+"4008","Palau",1993,2
+"4009","Palau",1994,4
+"4010","Palau",1995,1
+"4011","Palau",1996,3
+"4012","Palau",1997,11
+"4013","Palau",1998,10
+"4014","Palau",1999,0
+"4015","Palau",2000,9
+"4016","Palau",2001,9
+"4017","Palau",2002,6
+"4018","Palau",2003,7
+"4019","Palau",2004,7
+"4020","Palau",2005,6
+"4021","Palau",2006,11
+"4022","Palau",2007,6
+"4023","Palau",2008,10
+"4024","Palau",2009,14
+"4025","Palau",2010,11
+"4026","Palau",2011,13
+"4027","Palau",2012,15
+"4028","Palau",2013,16
+"4029","Palau",2014,15
+"4030","Palau",2015,10
+"4031","Panama",1990,251
+"4032","Panama",1991,3
+"4033","Panama",1992,108
+"4034","Panama",1993,111
+"4035","Panama",1994,99
+"4036","Panama",1995,83
+"4037","Panama",1996,93
+"4038","Panama",1997,140
+"4039","Panama",1998,144
+"4040","Panama",1999,165
+"4041","Panama",2000,2047
+"4042","Panama",2001,2086
+"4043","Panama",2002,1920
+"4044","Panama",2003,1352
+"4045","Panama",2004,1609
+"4046","Panama",2005,2056
+"4047","Panama",2006,2728
+"4048","Panama",2007,3772
+"4049","Panama",2008,1928
+"4050","Panama",2009,2045
+"4051","Panama",2010,1815
+"4052","Panama",2011,1596
+"4053","Panama",2012,1482
+"4054","Panama",2013,1402
+"4055","Panama",2014,1250
+"4056","Panama",2015,1232
+"4057","Papua New Guinea",1997,0
+"4058","Papua New Guinea",1998,0
+"4059","Papua New Guinea",1999,0
+"4060","Papua New Guinea",2000,0
+"4061","Papua New Guinea",2001,0
+"4062","Papua New Guinea",2002,0
+"4063","Papua New Guinea",2003,0
+"4064","Paraguay",1992,2
+"4065","Paraguay",1993,3
+"4066","Paraguay",1994,3
+"4067","Paraguay",1995,0
+"4068","Paraguay",1996,3
+"4069","Paraguay",1997,10
+"4070","Paraguay",1998,7
+"4071","Paraguay",1999,21
+"4072","Paraguay",2000,408
+"4073","Paraguay",2001,476
+"4074","Paraguay",2002,432
+"4075","Paraguay",2003,252
+"4076","Paraguay",2004,386
+"4077","Paraguay",2005,580
+"4078","Paraguay",2006,784
+"4079","Paraguay",2007,5337
+"4080","Paraguay",2008,529
+"4081","Paraguay",2009,598
+"4082","Paraguay",2010,489
+"4083","Paraguay",2011,526
+"4084","Paraguay",2012,473
+"4085","Paraguay",2013,459
+"4086","Paraguay",2014,381
+"4087","Paraguay",2015,373
+"4088","Peru",1990,27
+"4089","Peru",1991,20
+"4090","Peru",1992,239
+"4091","Peru",1993,401
+"4092","Peru",1994,605
+"4093","Peru",1995,847
+"4094","Peru",1996,640
+"4095","Peru",1997,696
+"4096","Peru",1998,815
+"4097","Peru",1999,1109
+"4098","Peru",2000,10220
+"4099","Peru",2001,11716
+"4100","Peru",2002,12671
+"4101","Peru",2003,10025
+"4102","Peru",2004,12600
+"4103","Peru",2005,16520
+"4104","Peru",2006,22697
+"4105","Peru",2007,1770
+"4106","Peru",2008,16191
+"4107","Peru",2009,18006
+"4108","Peru",2010,15192
+"4109","Peru",2011,14851
+"4110","Peru",2012,13213
+"4111","Peru",2013,13028
+"4112","Peru",2014,11410
+"4113","Peru",2015,10754
+"4114","Philippines",1820,0
+"4115","Philippines",1830,0
+"4116","Philippines",1840,0
+"4117","Philippines",1850,0
+"4118","Philippines",1860,0
+"4119","Philippines",1870,0
+"4120","Philippines",1880,0
+"4121","Philippines",1890,0
+"4122","Philippines",1900,0
+"4123","Philippines",1910,0
+"4124","Philippines",1920,0
+"4125","Philippines",1930,0
+"4126","Philippines",1940,528
+"4127","Philippines",1950,4691
+"4128","Philippines",1960,19307
+"4129","Philippines",1970,98376
+"4130","Philippines",1980,354987
+"4131","Philippines",1987,548764
+"4132","Philippines",1988,61017
+"4133","Philippines",1989,66119
+"4134","Philippines",1990,71283
+"4135","Philippines",1991,68751
+"4136","Philippines",1992,63626
+"4137","Philippines",1993,63578
+"4138","Philippines",1994,53055
+"4139","Philippines",1995,49886
+"4140","Philippines",1996,54774
+"4141","Philippines",1997,48272
+"4142","Philippines",1998,33703
+"4143","Philippines",1999,30169
+"4144","Philippines",2000,40978
+"4145","Philippines",2001,51109
+"4146","Philippines",2002,49237
+"4147","Philippines",2003,43911
+"4148","Philippines",2004,55611
+"4149","Philippines",2005,58423
+"4150","Philippines",2006,71800
+"4151","Philippines",2007,21995
+"4152","Philippines",2008,53096
+"4153","Philippines",2009,58870
+"4154","Philippines",2010,57158
+"4155","Philippines",2011,55949
+"4156","Philippines",2012,55935
+"4157","Philippines",2013,53319
+"4158","Philippines",2014,48962
+"4159","Philippines",2015,54528
+"4160","Poland",1820,5
+"4161","Poland",1830,16
+"4162","Poland",1840,369
+"4163","Poland",1850,105
+"4164","Poland",1860,1164
+"4165","Poland",1870,2027
+"4166","Poland",1880,12970
+"4167","Poland",1890,51806
+"4168","Poland",1900,96720
+"4169","Poland",1910,0
+"4170","Poland",1920,4813
+"4171","Poland",1930,227734
+"4172","Poland",1940,17026
+"4173","Poland",1950,7571
+"4174","Poland",1960,9985
+"4175","Poland",1970,53539
+"4176","Poland",1980,37234
+"4177","Poland",1987,83252
+"4178","Poland",1988,7298
+"4179","Poland",1989,13279
+"4180","Poland",1990,19894
+"4181","Poland",1991,17402
+"4182","Poland",1992,24725
+"4183","Poland",1993,27463
+"4184","Poland",1994,27683
+"4185","Poland",1995,13663
+"4186","Poland",1996,15573
+"4187","Poland",1997,11880
+"4188","Poland",1998,8375
+"4189","Poland",1999,8727
+"4190","Poland",2000,10085
+"4191","Poland",2001,12663
+"4192","Poland",2002,13632
+"4193","Poland",2003,11266
+"4194","Poland",2004,14477
+"4195","Poland",2005,15286
+"4196","Poland",2006,17155
+"4197","Poland",2007,1626
+"4198","Poland",2008,8394
+"4199","Poland",2009,8979
+"4200","Poland",2010,7941
+"4201","Poland",2011,7060
+"4202","Poland",2012,6437
+"4203","Poland",2013,6296
+"4204","Poland",2014,5627
+"4205","Poland",2015,5094
+"4206","Portugal",1820,35
+"4207","Portugal",1830,145
+"4208","Portugal",1840,829
+"4209","Portugal",1850,550
+"4210","Portugal",1860,1055
+"4211","Portugal",1870,2658
+"4212","Portugal",1880,14082
+"4213","Portugal",1890,16978
+"4214","Portugal",1900,27508
+"4215","Portugal",1910,69149
+"4216","Portugal",1920,89732
+"4217","Portugal",1930,29994
+"4218","Portugal",1940,3329
+"4219","Portugal",1950,7423
+"4220","Portugal",1960,19588
+"4221","Portugal",1970,76065
+"4222","Portugal",1980,101710
+"4223","Portugal",1987,40431
+"4224","Portugal",1988,3290
+"4225","Portugal",1989,3861
+"4226","Portugal",1990,4066
+"4227","Portugal",1991,4576
+"4228","Portugal",1992,2814
+"4229","Portugal",1993,2117
+"4230","Portugal",1994,2207
+"4231","Portugal",1995,2645
+"4232","Portugal",1996,3063
+"4233","Portugal",1997,1759
+"4234","Portugal",1998,1619
+"4235","Portugal",1999,1204
+"4236","Portugal",2000,1501
+"4237","Portugal",2001,1718
+"4238","Portugal",2002,1420
+"4239","Portugal",2003,904
+"4240","Portugal",2004,1182
+"4241","Portugal",2005,1207
+"4242","Portugal",2006,1585
+"4243","Portugal",2007,9841
+"4244","Portugal",2008,939
+"4245","Portugal",2009,1172
+"4246","Portugal",2010,943
+"4247","Portugal",2011,1026
+"4248","Portugal",2012,973
+"4249","Portugal",2013,998
+"4250","Portugal",2014,983
+"4251","Portugal",2015,909
+"4252","Puerto Rico",1997,21
+"4253","Puerto Rico",1998,20
+"4254","Puerto Rico",1999,0
+"4255","Puerto Rico",2000,0
+"4256","Puerto Rico",2001,0
+"4257","Puerto Rico",2002,0
+"4258","Puerto Rico",2003,0
+"4259","Qatar",1992,0
+"4260","Qatar",1993,0
+"4261","Qatar",1994,0
+"4262","Qatar",1995,0
+"4263","Qatar",1996,1
+"4264","Qatar",1997,0
+"4265","Qatar",1998,0
+"4266","Qatar",1999,0
+"4267","Qatar",2000,0
+"4268","Qatar",2001,0
+"4269","Qatar",2002,0
+"4270","Qatar",2003,0
+"4271","Republic of Congo",1997,9
+"4272","Republic of Congo",1998,116
+"4273","Republic of Congo",1999,305
+"4274","Republic of Congo",2000,282
+"4275","Republic of Congo",2001,261
+"4276","Republic of Congo",2002,275
+"4277","Republic of Congo",2003,181
+"4278","Republic of Congo",2004,188
+"4279","Republic of Congo",2005,128
+"4280","Republic of Congo",2006,150
+"4281","Republic of Congo",2007,295
+"4282","Republic of Congo",2008,272
+"4283","Republic of Congo",2009,356
+"4284","Republic of Congo",2010,241
+"4285","Republic of Congo",2011,136
+"4286","Republic of Congo",2012,191
+"4287","Republic of Congo",2013,236
+"4288","Republic of Congo",2014,93
+"4289","Republic of Congo",2015,117
+"4290","Romania",1820,0
+"4291","Romania",1830,0
+"4292","Romania",1840,0
+"4293","Romania",1850,0
+"4294","Romania",1860,0
+"4295","Romania",1870,0
+"4296","Romania",1880,11
+"4297","Romania",1890,6348
+"4298","Romania",1900,12750
+"4299","Romania",1910,53008
+"4300","Romania",1920,13311
+"4301","Romania",1930,67646
+"4302","Romania",1940,3871
+"4303","Romania",1950,1076
+"4304","Romania",1960,1039
+"4305","Romania",1970,2531
+"4306","Romania",1980,12393
+"4307","Romania",1987,30857
+"4308","Romania",1988,2915
+"4309","Romania",1989,3535
+"4310","Romania",1990,7350
+"4311","Romania",1991,11288
+"4312","Romania",1992,6572
+"4313","Romania",1993,4998
+"4314","Romania",1994,3202
+"4315","Romania",1995,4788
+"4316","Romania",1996,5567
+"4317","Romania",1997,5424
+"4318","Romania",1998,4977
+"4319","Romania",1999,5535
+"4320","Romania",2000,6615
+"4321","Romania",2001,6389
+"4322","Romania",2002,4748
+"4323","Romania",2003,3535
+"4324","Romania",2004,4277
+"4325","Romania",2005,6581
+"4326","Romania",2006,6957
+"4327","Romania",2007,1280
+"4328","Romania",2008,4789
+"4329","Romania",2009,4716
+"4330","Romania",2010,3906
+"4331","Romania",2011,3897
+"4332","Romania",2012,3682
+"4333","Romania",2013,3677
+"4334","Romania",2014,3167
+"4335","Romania",2015,3308
+"4336","Russia",1990,0
+"4337","Russia",1991,0
+"4338","Russia",1992,63
+"4339","Russia",1993,236
+"4340","Russia",1994,582
+"4341","Russia",1995,598
+"4342","Russia",1996,498
+"4343","Russia",1997,459
+"4344","Russia",1998,527
+"4345","Russia",1999,5034
+"4346","Russia",2000,47625
+"4347","Russia",2001,59924
+"4348","Russia",2002,58003
+"4349","Russia",2003,35357
+"4350","Russia",2004,43859
+"4351","Russia",2005,66802
+"4352","Russia",2006,66163
+"4353","Russia",2007,7488
+"4354","Russia",2008,16215
+"4355","Russia",2009,11485
+"4356","Russia",2010,8455
+"4357","Russia",2011,9421
+"4358","Russia",2012,11029
+"4359","Russia",2013,10748
+"4360","Russia",2014,9703
+"4361","Russia",2015,9401
+"4362","Rwanda",1990,0
+"4363","Rwanda",1991,0
+"4364","Rwanda",1992,1
+"4365","Rwanda",1993,15
+"4366","Rwanda",1994,43
+"4367","Rwanda",1995,148
+"4368","Rwanda",1996,70
+"4369","Rwanda",1997,203
+"4370","Rwanda",1998,173
+"4371","Rwanda",1999,267
+"4372","Rwanda",2000,447
+"4373","Rwanda",2001,152
+"4374","Rwanda",2002,89
+"4375","Rwanda",2003,83
+"4376","Rwanda",2004,217
+"4377","Rwanda",2005,249
+"4378","Rwanda",2006,179
+"4379","Rwanda",2007,278
+"4380","Rwanda",2008,190
+"4381","Rwanda",2009,180
+"4382","Rwanda",2010,331
+"4383","Rwanda",2011,152
+"4384","Rwanda",2012,247
+"4385","Rwanda",2013,201
+"4386","Rwanda",2014,266
+"4387","Rwanda",2015,488
+"4388","Saint Kitts-Nevis",1992,11
+"4389","Saint Kitts-Nevis",1993,11
+"4390","Saint Kitts-Nevis",1994,8
+"4391","Saint Kitts-Nevis",1995,11
+"4392","Saint Kitts-Nevis",1996,11
+"4393","Saint Kitts-Nevis",1997,21
+"4394","Saint Kitts-Nevis",1998,27
+"4395","Saint Kitts-Nevis",1999,15
+"4396","Saint Kitts-Nevis",2000,19
+"4397","Saint Kitts-Nevis",2001,20
+"4398","Saint Kitts-Nevis",2002,27
+"4399","Saint Kitts-Nevis",2003,24
+"4400","Saint Kitts-Nevis",2004,26
+"4401","Saint Kitts-Nevis",2005,24
+"4402","Saint Kitts-Nevis",2006,25
+"4403","Saint Kitts-Nevis",2007,14
+"4404","Saint Kitts-Nevis",2008,14
+"4405","Saint Kitts-Nevis",2009,12
+"4406","Saint Kitts-Nevis",2010,15
+"4407","Saint Kitts-Nevis",2011,20
+"4408","Saint Kitts-Nevis",2012,37
+"4409","Saint Kitts-Nevis",2013,14
+"4410","Saint Kitts-Nevis",2014,17
+"4411","Saint Kitts-Nevis",2015,15
+"4412","Saint Lucia",1992,7
+"4413","Saint Lucia",1993,13
+"4414","Saint Lucia",1994,7
+"4415","Saint Lucia",1995,9
+"4416","Saint Lucia",1996,12
+"4417","Saint Lucia",1997,24
+"4418","Saint Lucia",1998,22
+"4419","Saint Lucia",1999,27
+"4420","Saint Lucia",2000,30
+"4421","Saint Lucia",2001,23
+"4422","Saint Lucia",2002,30
+"4423","Saint Lucia",2003,34
+"4424","Saint Lucia",2004,50
+"4425","Saint Lucia",2005,50
+"4426","Saint Lucia",2006,35
+"4427","Saint Lucia",2007,46
+"4428","Saint Lucia",2008,30
+"4429","Saint Lucia",2009,37
+"4430","Saint Lucia",2010,35
+"4431","Saint Lucia",2011,23
+"4432","Saint Lucia",2012,23
+"4433","Saint Lucia",2013,26
+"4434","Saint Lucia",2014,15
+"4435","Saint Lucia",2015,12
+"4436","Saint Vincent and the Grenadines",1992,13
+"4437","Saint Vincent and the Grenadines",1993,6
+"4438","Saint Vincent and the Grenadines",1994,9
+"4439","Saint Vincent and the Grenadines",1995,14
+"4440","Saint Vincent and the Grenadines",1996,10
+"4441","Saint Vincent and the Grenadines",1997,251
+"4442","Saint Vincent and the Grenadines",1998,265
+"4443","Saint Vincent and the Grenadines",1999,29
+"4444","Saint Vincent and the Grenadines",2000,21
+"4445","Saint Vincent and the Grenadines",2001,35
+"4446","Saint Vincent and the Grenadines",2002,39
+"4447","Saint Vincent and the Grenadines",2003,23
+"4448","Saint Vincent and the Grenadines",2004,44
+"4449","Saint Vincent and the Grenadines",2005,44
+"4450","Saint Vincent and the Grenadines",2006,21
+"4451","Saint Vincent and the Grenadines",2007,26
+"4452","Saint Vincent and the Grenadines",2008,23
+"4453","Saint Vincent and the Grenadines",2009,32
+"4454","Saint Vincent and the Grenadines",2010,26
+"4455","Saint Vincent and the Grenadines",2011,20
+"4456","Saint Vincent and the Grenadines",2012,28
+"4457","Saint Vincent and the Grenadines",2013,22
+"4458","Saint Vincent and the Grenadines",2014,21
+"4459","Saint Vincent and the Grenadines",2015,11
+"4460","Samoa",1997,15
+"4461","Samoa",1998,7
+"4462","Samoa",1999,16
+"4463","Samoa",2000,13
+"4464","Samoa",2001,10
+"4465","Samoa",2002,24
+"4466","Samoa",2003,19
+"4467","Samoa",2004,27
+"4468","Samoa",2005,21
+"4469","Samoa",2006,7
+"4470","Samoa",2007,23
+"4471","Samoa",2008,20
+"4472","Samoa",2009,19
+"4473","Samoa",2010,14
+"4474","Samoa",2011,9
+"4475","Samoa",2012,5
+"4476","Samoa",2013,10
+"4477","Samoa",2014,10
+"4478","Samoa",2015,0
+"4479","Sao Tome and Principe",1992,0
+"4480","Sao Tome and Principe",1993,1
+"4481","Sao Tome and Principe",1994,0
+"4482","Sao Tome and Principe",1995,0
+"4483","Sao Tome and Principe",1996,0
+"4484","Sao Tome and Principe",1997,0
+"4485","Sao Tome and Principe",1998,0
+"4486","Sao Tome and Principe",1999,0
+"4487","Sao Tome and Principe",2000,0
+"4488","Sao Tome and Principe",2001,0
+"4489","Sao Tome and Principe",2002,0
+"4490","Sao Tome and Principe",2003,0
+"4491","Saudi Arabia",1992,5
+"4492","Saudi Arabia",1993,3
+"4493","Saudi Arabia",1994,1
+"4494","Saudi Arabia",1995,2
+"4495","Saudi Arabia",1996,0
+"4496","Saudi Arabia",1997,0
+"4497","Saudi Arabia",1998,14
+"4498","Saudi Arabia",1999,14
+"4499","Saudi Arabia",2000,13
+"4500","Saudi Arabia",2001,26
+"4501","Saudi Arabia",2002,49
+"4502","Saudi Arabia",2003,46
+"4503","Saudi Arabia",2004,27
+"4504","Saudi Arabia",2005,25
+"4505","Saudi Arabia",2006,30
+"4506","Saudi Arabia",2007,31
+"4507","Saudi Arabia",2008,40
+"4508","Saudi Arabia",2009,25
+"4509","Saudi Arabia",2010,54
+"4510","Saudi Arabia",2011,26
+"4511","Saudi Arabia",2012,53
+"4512","Saudi Arabia",2013,95
+"4513","Saudi Arabia",2014,122
+"4514","Saudi Arabia",2015,131
+"4515","Senegal",1992,1
+"4516","Senegal",1993,5
+"4517","Senegal",1994,2
+"4518","Senegal",1995,10
+"4519","Senegal",1996,10
+"4520","Senegal",1997,49
+"4521","Senegal",1998,64
+"4522","Senegal",1999,67
+"4523","Senegal",2000,61
+"4524","Senegal",2001,81
+"4525","Senegal",2002,110
+"4526","Senegal",2003,99
+"4527","Senegal",2004,139
+"4528","Senegal",2005,101
+"4529","Senegal",2006,131
+"4530","Senegal",2007,90
+"4531","Senegal",2008,96
+"4532","Senegal",2009,111
+"4533","Senegal",2010,75
+"4534","Senegal",2011,66
+"4535","Senegal",2012,50
+"4536","Senegal",2013,48
+"4537","Senegal",2014,58
+"4538","Senegal",2015,61
+"4539","Serbia",2004,0
+"4540","Serbia",2005,0
+"4541","Serbia",2006,0
+"4542","Serbia",2007,0
+"4543","Serbia",2008,0
+"4544","Serbia",2009,0
+"4545","Serbia",2010,0
+"4546","Serbia",2011,11
+"4547","Serbia",2012,18
+"4548","Serbia",2013,0
+"4549","Serbia",2014,11
+"4550","Serbia",2015,11
+"4551","Serbia and Montenegro",1997,568
+"4552","Serbia and Montenegro",1998,502
+"4553","Serbia and Montenegro",1999,15034
+"4554","Serbia and Montenegro",2000,1086
+"4555","Serbia and Montenegro",2001,582
+"4556","Serbia and Montenegro",2002,2035
+"4557","Serbia and Montenegro",2003,1998
+"4558","Serbia and Montenegro",2004,325
+"4559","Serbia and Montenegro",2005,213
+"4560","Serbia and Montenegro",2006,146
+"4561","Serbia and Montenegro",2007,202
+"4562","Serbia and Montenegro",2008,217
+"4563","Serbia and Montenegro",2009,138
+"4564","Serbia and Montenegro",2010,127
+"4565","Serbia and Montenegro",2011,95
+"4566","Serbia and Montenegro",2012,57
+"4567","Serbia and Montenegro",2013,40
+"4568","Serbia and Montenegro",2014,15
+"4569","Serbia and Montenegro",2015,17
+"4570","Seychelles",1992,0
+"4571","Seychelles",1993,0
+"4572","Seychelles",1994,0
+"4573","Seychelles",1995,1
+"4574","Seychelles",1996,2
+"4575","Seychelles",1997,0
+"4576","Seychelles",1998,0
+"4577","Seychelles",1999,0
+"4578","Seychelles",2000,0
+"4579","Seychelles",2001,0
+"4580","Seychelles",2002,0
+"4581","Seychelles",2003,0
+"4582","Sierra Leone",1990,0
+"4583","Sierra Leone",1991,0
+"4584","Sierra Leone",1992,9
+"4585","Sierra Leone",1993,29
+"4586","Sierra Leone",1994,54
+"4587","Sierra Leone",1995,88
+"4588","Sierra Leone",1996,75
+"4589","Sierra Leone",1997,106
+"4590","Sierra Leone",1998,355
+"4591","Sierra Leone",1999,895
+"4592","Sierra Leone",2000,1368
+"4593","Sierra Leone",2001,2339
+"4594","Sierra Leone",2002,388
+"4595","Sierra Leone",2003,1475
+"4596","Sierra Leone",2004,1211
+"4597","Sierra Leone",2005,933
+"4598","Sierra Leone",2006,497
+"4599","Sierra Leone",2007,237
+"4600","Sierra Leone",2008,146
+"4601","Sierra Leone",2009,103
+"4602","Sierra Leone",2010,112
+"4603","Sierra Leone",2011,86
+"4604","Sierra Leone",2012,49
+"4605","Sierra Leone",2013,28
+"4606","Sierra Leone",2014,45
+"4607","Sierra Leone",2015,25
+"4608","Singapore",1992,5
+"4609","Singapore",1993,5
+"4610","Singapore",1994,5
+"4611","Singapore",1995,2
+"4612","Singapore",1996,3
+"4613","Singapore",1997,4
+"4614","Singapore",1998,12
+"4615","Singapore",1999,14
+"4616","Singapore",2000,22
+"4617","Singapore",2001,38
+"4618","Singapore",2002,30
+"4619","Singapore",2003,21
+"4620","Singapore",2004,33
+"4621","Singapore",2005,30
+"4622","Singapore",2006,16
+"4623","Singapore",2007,16
+"4624","Singapore",2008,21
+"4625","Singapore",2009,23
+"4626","Singapore",2010,17
+"4627","Singapore",2011,14
+"4628","Singapore",2012,0
+"4629","Singapore",2013,7
+"4630","Singapore",2014,10
+"4631","Singapore",2015,5
+"4632","Slovakia",2004,47
+"4633","Slovakia",2005,37
+"4634","Slovakia",2006,35
+"4635","Slovakia",2007,44
+"4636","Slovakia",2008,35
+"4637","Slovakia",2009,42
+"4638","Slovakia",2010,67
+"4639","Slovakia",2011,37
+"4640","Slovakia",2012,26
+"4641","Slovakia",2013,24
+"4642","Slovakia",2014,16
+"4643","Slovakia",2015,9
+"4644","Slovak Republic",1990,0
+"4645","Slovak Republic",1991,0
+"4646","Slovak Republic",1992,0
+"4647","Slovak Republic",1993,0
+"4648","Slovak Republic",1994,2
+"4649","Slovak Republic",1995,5
+"4650","Slovak Republic",1996,1
+"4651","Slovak Republic",1997,12
+"4652","Slovak Republic",1998,10
+"4653","Slovak Republic",1999,16
+"4654","Slovak Republic",2000,20
+"4655","Slovak Republic",2001,20
+"4656","Slovak Republic",2002,38
+"4657","Slovak Republic",2003,36
+"4658","Slovenia",1990,0
+"4659","Slovenia",1991,0
+"4660","Slovenia",1992,0
+"4661","Slovenia",1993,1
+"4662","Slovenia",1994,6
+"4663","Slovenia",1995,0
+"4664","Slovenia",1996,1
+"4665","Slovenia",1997,0
+"4666","Slovenia",1998,3
+"4667","Slovenia",1999,7
+"4668","Slovenia",2000,5
+"4669","Slovenia",2001,8
+"4670","Slovenia",2002,0
+"4671","Slovenia",2003,7
+"4672","Slovenia",2004,14
+"4673","Slovenia",2005,8
+"4674","Slovenia",2006,3
+"4675","Slovenia",2007,9
+"4676","Slovenia",2008,4
+"4677","Slovenia",2009,7
+"4678","Slovenia",2010,10
+"4679","Slovenia",2011,7
+"4680","Slovenia",2012,4
+"4681","Slovenia",2013,3
+"4682","Slovenia",2014,5
+"4683","Slovenia",2015,3
+"4684","Somalia",1990,229
+"4685","Somalia",1991,309
+"4686","Somalia",1992,1692
+"4687","Somalia",1993,2874
+"4688","Somalia",1994,3707
+"4689","Somalia",1995,2792
+"4690","Somalia",1996,6965
+"4691","Somalia",1997,5696
+"4692","Somalia",1998,4281
+"4693","Somalia",1999,6659
+"4694","Somalia",2000,8044
+"4695","Somalia",2001,6229
+"4696","Somalia",2002,704
+"4697","Somalia",2003,2147
+"4698","Somalia",2004,13490
+"4699","Somalia",2005,10519
+"4700","Somalia",2006,10453
+"4701","Somalia",2007,7063
+"4702","Somalia",2008,2616
+"4703","Somalia",2009,4310
+"4704","Somalia",2010,4985
+"4705","Somalia",2011,3221
+"4706","Somalia",2012,5002
+"4707","Somalia",2013,7690
+"4708","Somalia",2014,9091
+"4709","Somalia",2015,8973
+"4710","South Africa",1990,34
+"4711","South Africa",1991,19
+"4712","South Africa",1992,19
+"4713","South Africa",1993,19
+"4714","South Africa",1994,19
+"4715","South Africa",1995,13
+"4716","South Africa",1996,27
+"4717","South Africa",1997,31
+"4718","South Africa",1998,36
+"4719","South Africa",1999,53
+"4720","South Africa",2000,2858
+"4721","South Africa",2001,4080
+"4722","South Africa",2002,3745
+"4723","South Africa",2003,2154
+"4724","South Africa",2004,3411
+"4725","South Africa",2005,4510
+"4726","South Africa",2006,3247
+"4727","South Africa",2007,4360
+"4728","South Africa",2008,2701
+"4729","South Africa",2009,3231
+"4730","South Africa",2010,2769
+"4731","South Africa",2011,2812
+"4732","South Africa",2012,3012
+"4733","South Africa",2013,2734
+"4734","South Africa",2014,2934
+"4735","South Africa",2015,3359
+"4736","South Korea",1992,28
+"4737","South Korea",1993,29
+"4738","South Korea",1994,30
+"4739","South Korea",1995,24
+"4740","South Korea",1996,57
+"4741","South Korea",1997,123
+"4742","South Korea",1998,184
+"4743","South Korea",1999,239
+"4744","South Korea",2000,259
+"4745","South Korea",2001,265
+"4746","South Korea",2002,306
+"4747","South Korea",2003,299
+"4748","South Korea",2004,434
+"4749","South Korea",2005,401
+"4750","South Korea",2006,451
+"4751","South Korea",2007,417
+"4752","South Korea",2008,419
+"4753","South Korea",2009,394
+"4754","South Korea",2010,356
+"4755","South Korea",2011,424
+"4756","South Korea",2012,343
+"4757","South Korea",2013,255
+"4758","South Korea",2014,213
+"4759","South Korea",2015,145
+"4760","South Sudan",2004,0
+"4761","South Sudan",2005,0
+"4762","South Sudan",2006,0
+"4763","South Sudan",2007,0
+"4764","South Sudan",2008,0
+"4765","South Sudan",2009,0
+"4766","South Sudan",2010,0
+"4767","South Sudan",2011,0
+"4768","South Sudan",2012,0
+"4769","South Sudan",2013,55
+"4770","South Sudan",2014,66
+"4771","South Sudan",2015,79
+"4772","Soviet Union",1820,14
+"4773","Soviet Union",1830,75
+"4774","Soviet Union",1840,277
+"4775","Soviet Union",1850,551
+"4776","Soviet Union",1860,457
+"4777","Soviet Union",1870,2512
+"4778","Soviet Union",1880,39284
+"4779","Soviet Union",1890,213282
+"4780","Soviet Union",1900,505290
+"4781","Soviet Union",1910,1597306
+"4782","Soviet Union",1920,921201
+"4783","Soviet Union",1930,61742
+"4784","Soviet Union",1940,1370
+"4785","Soviet Union",1950,571
+"4786","Soviet Union",1960,671
+"4787","Soviet Union",1970,2465
+"4788","Soviet Union",1980,38961
+"4789","Soviet Union",1987,57677
+"4790","Soviet Union",1988,1408
+"4791","Soviet Union",1989,4570
+"4792","Soviet Union",1990,65759
+"4793","Soviet Union",1991,70360
+"4794","Soviet Union",1992,98829
+"4795","Soviet Union",1993,109507
+"4796","Soviet Union",1994,109173
+"4797","Soviet Union",1995,91443
+"4798","Soviet Union",1996,92916
+"4799","Soviet Union",1997,75382
+"4800","Soviet Union",1998,52413
+"4801","Soviet Union",1999,32965
+"4802","Soviet Union",2000,301
+"4803","Soviet Union",2001,144
+"4804","Soviet Union",2002,15
+"4805","Soviet Union",2003,9
+"4806","Soviet Union",2004,17
+"4807","Soviet Union",2005,22
+"4808","Soviet Union",2006,8
+"4809","Soviet Union",2007,5
+"4810","Soviet Union",2008,14
+"4811","Soviet Union",2009,5
+"4812","Soviet Union",2010,4
+"4813","Soviet Union",2011,4
+"4814","Soviet Union",2012,0
+"4815","Soviet Union",2013,4
+"4816","Soviet Union",2014,0
+"4817","Soviet Union",2015,0
+"4818","Spain",1820,139
+"4819","Spain",1830,2477
+"4820","Spain",1840,2125
+"4821","Spain",1850,2209
+"4822","Spain",1860,9298
+"4823","Spain",1870,6697
+"4824","Spain",1880,5266
+"4825","Spain",1890,4419
+"4826","Spain",1900,8731
+"4827","Spain",1910,27935
+"4828","Spain",1920,68611
+"4829","Spain",1930,28958
+"4830","Spain",1940,3258
+"4831","Spain",1950,2898
+"4832","Spain",1960,7894
+"4833","Spain",1970,44659
+"4834","Spain",1980,39141
+"4835","Spain",1987,20433
+"4836","Spain",1988,1972
+"4837","Spain",1989,2179
+"4838","Spain",1990,2744
+"4839","Spain",1991,2663
+"4840","Spain",1992,2052
+"4841","Spain",1993,1805
+"4842","Spain",1994,1775
+"4843","Spain",1995,1691
+"4844","Spain",1996,2005
+"4845","Spain",1997,1658
+"4846","Spain",1998,1246
+"4847","Spain",1999,1123
+"4848","Spain",2000,1448
+"4849","Spain",2001,1936
+"4850","Spain",2002,1666
+"4851","Spain",2003,1192
+"4852","Spain",2004,1562
+"4853","Spain",2005,2068
+"4854","Spain",2006,2446
+"4855","Spain",2007,11771
+"4856","Spain",2008,2064
+"4857","Spain",2009,2274
+"4858","Spain",2010,2177
+"4859","Spain",2011,2441
+"4860","Spain",2012,2409
+"4861","Spain",2013,3063
+"4862","Spain",2014,3444
+"4863","Spain",2015,3807
+"4864","Sri Lanka",1990,10
+"4865","Sri Lanka",1991,4
+"4866","Sri Lanka",1992,55
+"4867","Sri Lanka",1993,19
+"4868","Sri Lanka",1994,64
+"4869","Sri Lanka",1995,76
+"4870","Sri Lanka",1996,36
+"4871","Sri Lanka",1997,94
+"4872","Sri Lanka",1998,115
+"4873","Sri Lanka",1999,119
+"4874","Sri Lanka",2000,192
+"4875","Sri Lanka",2001,179
+"4876","Sri Lanka",2002,136
+"4877","Sri Lanka",2003,83
+"4878","Sri Lanka",2004,112
+"4879","Sri Lanka",2005,100
+"4880","Sri Lanka",2006,103
+"4881","Sri Lanka",2007,94
+"4882","Sri Lanka",2008,152
+"4883","Sri Lanka",2009,259
+"4884","Sri Lanka",2010,580
+"4885","Sri Lanka",2011,355
+"4886","Sri Lanka",2012,189
+"4887","Sri Lanka",2013,178
+"4888","Sri Lanka",2014,115
+"4889","Sri Lanka",2015,138
+"4890","Sudan",1990,15
+"4891","Sudan",1991,55
+"4892","Sudan",1992,190
+"4893","Sudan",1993,379
+"4894","Sudan",1994,1472
+"4895","Sudan",1995,2105
+"4896","Sudan",1996,926
+"4897","Sudan",1997,562
+"4898","Sudan",1998,1666
+"4899","Sudan",1999,2845
+"4900","Sudan",2000,4346
+"4901","Sudan",2001,6486
+"4902","Sudan",2002,1364
+"4903","Sudan",2003,2275
+"4904","Sudan",2004,3612
+"4905","Sudan",2005,2278
+"4906","Sudan",2006,1917
+"4907","Sudan",2007,802
+"4908","Sudan",2008,476
+"4909","Sudan",2009,775
+"4910","Sudan",2010,655
+"4911","Sudan",2011,450
+"4912","Sudan",2012,1228
+"4913","Sudan",2013,2259
+"4914","Sudan",2014,1385
+"4915","Sudan",2015,1689
+"4916","Suriname",1992,2
+"4917","Suriname",1993,4
+"4918","Suriname",1994,2
+"4919","Suriname",1995,0
+"4920","Suriname",1996,2
+"4921","Suriname",1997,8
+"4922","Suriname",1998,20
+"4923","Suriname",1999,14
+"4924","Suriname",2000,286
+"4925","Suriname",2001,254
+"4926","Suriname",2002,229
+"4927","Suriname",2003,184
+"4928","Suriname",2004,194
+"4929","Suriname",2005,311
+"4930","Suriname",2006,362
+"4931","Suriname",2007,17068
+"4932","Suriname",2008,239
+"4933","Suriname",2009,231
+"4934","Suriname",2010,213
+"4935","Suriname",2011,180
+"4936","Suriname",2012,221
+"4937","Suriname",2013,183
+"4938","Suriname",2014,165
+"4939","Suriname",2015,121
+"4940","Swaziland",1997,0
+"4941","Swaziland",1998,0
+"4942","Swaziland",1999,0
+"4943","Swaziland",2000,0
+"4944","Swaziland",2001,0
+"4945","Swaziland",2002,0
+"4946","Swaziland",2003,0
+"4947","Sweden",1820,0
+"4948","Sweden",1830,0
+"4949","Sweden",1840,0
+"4950","Sweden",1850,0
+"4951","Sweden",1860,0
+"4952","Sweden",1870,0
+"4953","Sweden",1880,115922
+"4954","Sweden",1890,391776
+"4955","Sweden",1900,226266
+"4956","Sweden",1910,249534
+"4957","Sweden",1920,95074
+"4958","Sweden",1930,97249
+"4959","Sweden",1940,3960
+"4960","Sweden",1950,10665
+"4961","Sweden",1960,21697
+"4962","Sweden",1970,17116
+"4963","Sweden",1980,6531
+"4964","Sweden",1987,11018
+"4965","Sweden",1988,1223
+"4966","Sweden",1989,1253
+"4967","Sweden",1990,1378
+"4968","Sweden",1991,1242
+"4969","Sweden",1992,1513
+"4970","Sweden",1993,1550
+"4971","Sweden",1994,1296
+"4972","Sweden",1995,1150
+"4973","Sweden",1996,1475
+"4974","Sweden",1997,1145
+"4975","Sweden",1998,1035
+"4976","Sweden",1999,942
+"4977","Sweden",2000,1487
+"4978","Sweden",2001,1989
+"4979","Sweden",2002,1655
+"4980","Sweden",2003,1164
+"4981","Sweden",2004,1583
+"4982","Sweden",2005,1826
+"4983","Sweden",2006,1604
+"4984","Sweden",2007,423
+"4985","Sweden",2008,1209
+"4986","Sweden",2009,1361
+"4987","Sweden",2010,1347
+"4988","Sweden",2011,1154
+"4989","Sweden",2012,1160
+"4990","Sweden",2013,1299
+"4991","Sweden",2014,1162
+"4992","Sweden",2015,1211
+"4993","Switzerland",1820,31
+"4994","Switzerland",1830,3226
+"4995","Switzerland",1840,4821
+"4996","Switzerland",1850,4644
+"4997","Switzerland",1860,25011
+"4998","Switzerland",1870,23286
+"4999","Switzerland",1880,28293
+"5000","Switzerland",1890,81988
+"5001","Switzerland",1900,31179
+"5002","Switzerland",1910,34922
+"5003","Switzerland",1920,23091
+"5004","Switzerland",1930,29676
+"5005","Switzerland",1940,5512
+"5006","Switzerland",1950,10547
+"5007","Switzerland",1960,17675
+"5008","Switzerland",1970,18453
+"5009","Switzerland",1980,8235
+"5010","Switzerland",1987,8849
+"5011","Switzerland",1988,920
+"5012","Switzerland",1989,1072
+"5013","Switzerland",1990,1288
+"5014","Switzerland",1991,1003
+"5015","Switzerland",1992,1308
+"5016","Switzerland",1993,1269
+"5017","Switzerland",1994,1189
+"5018","Switzerland",1995,1134
+"5019","Switzerland",1996,1350
+"5020","Switzerland",1997,1313
+"5021","Switzerland",1998,1103
+"5022","Switzerland",1999,896
+"5023","Switzerland",2000,1355
+"5024","Switzerland",2001,1798
+"5025","Switzerland",2002,1516
+"5026","Switzerland",2003,879
+"5027","Switzerland",2004,1206
+"5028","Switzerland",2005,1482
+"5029","Switzerland",2006,1214
+"5030","Switzerland",2007,1826
+"5031","Switzerland",2008,956
+"5032","Switzerland",2009,1037
+"5033","Switzerland",2010,881
+"5034","Switzerland",2011,873
+"5035","Switzerland",2012,929
+"5036","Switzerland",2013,1048
+"5037","Switzerland",2014,897
+"5038","Switzerland",2015,1011
+"5039","Syria",1990,63
+"5040","Syria",1991,9
+"5041","Syria",1992,25
+"5042","Syria",1993,648
+"5043","Syria",1994,1041
+"5044","Syria",1995,687
+"5045","Syria",1996,313
+"5046","Syria",1997,50
+"5047","Syria",1998,77
+"5048","Syria",1999,56
+"5049","Syria",2000,2327
+"5050","Syria",2001,3606
+"5051","Syria",2002,3452
+"5052","Syria",2003,2114
+"5053","Syria",2004,2647
+"5054","Syria",2005,3435
+"5055","Syria",2006,3189
+"5056","Syria",2007,68857
+"5057","Syria",2008,3403
+"5058","Syria",2009,4842
+"5059","Syria",2010,7515
+"5060","Syria",2011,8094
+"5061","Syria",2012,7048
+"5062","Syria",2013,4815
+"5063","Syria",2014,5638
+"5064","Syria",2015,8018
+"5065","Taiwan",1992,12
+"5066","Taiwan",1993,8
+"5067","Taiwan",1994,13
+"5068","Taiwan",1995,9
+"5069","Taiwan",1996,8
+"5070","Taiwan",1997,26
+"5071","Taiwan",1998,25
+"5072","Taiwan",1999,39
+"5073","Taiwan",2000,9492
+"5074","Taiwan",2001,12500
+"5075","Taiwan",2002,9989
+"5076","Taiwan",2003,7234
+"5077","Taiwan",2004,9415
+"5078","Taiwan",2005,9457
+"5079","Taiwan",2006,8632
+"5080","Taiwan",2007,2676
+"5081","Taiwan",2008,9318
+"5082","Taiwan",2009,8190
+"5083","Taiwan",2010,6847
+"5084","Taiwan",2011,6275
+"5085","Taiwan",2012,5342
+"5086","Taiwan",2013,5382
+"5087","Taiwan",2014,4755
+"5088","Taiwan",2015,4845
+"5089","Tajikistan",1990,0
+"5090","Tajikistan",1991,0
+"5091","Tajikistan",1992,0
+"5092","Tajikistan",1993,1
+"5093","Tajikistan",1994,7
+"5094","Tajikistan",1995,10
+"5095","Tajikistan",1996,11
+"5096","Tajikistan",1997,6
+"5097","Tajikistan",1998,15
+"5098","Tajikistan",1999,26
+"5099","Tajikistan",2000,42
+"5100","Tajikistan",2001,9
+"5101","Tajikistan",2002,9
+"5102","Tajikistan",2003,19
+"5103","Tajikistan",2004,13
+"5104","Tajikistan",2005,10
+"5105","Tajikistan",2006,0
+"5106","Tajikistan",2007,3
+"5107","Tajikistan",2008,20
+"5108","Tajikistan",2009,27
+"5109","Tajikistan",2010,39
+"5110","Tajikistan",2011,69
+"5111","Tajikistan",2012,40
+"5112","Tajikistan",2013,34
+"5113","Tajikistan",2014,26
+"5114","Tajikistan",2015,20
+"5115","Tanzania",1992,2
+"5116","Tanzania",1993,0
+"5117","Tanzania",1994,2
+"5118","Tanzania",1995,0
+"5119","Tanzania",1996,3
+"5120","Tanzania",1997,7
+"5121","Tanzania",1998,16
+"5122","Tanzania",1999,11
+"5123","Tanzania",2000,16
+"5124","Tanzania",2001,29
+"5125","Tanzania",2002,30
+"5126","Tanzania",2003,33
+"5127","Tanzania",2004,38
+"5128","Tanzania",2005,37
+"5129","Tanzania",2006,24
+"5130","Tanzania",2007,29
+"5131","Tanzania",2008,49
+"5132","Tanzania",2009,48
+"5133","Tanzania",2010,38
+"5134","Tanzania",2011,37
+"5135","Tanzania",2012,27
+"5136","Tanzania",2013,28
+"5137","Tanzania",2014,37
+"5138","Tanzania",2015,22
+"5139","Thailand",1992,21
+"5140","Thailand",1993,18
+"5141","Thailand",1994,16
+"5142","Thailand",1995,15
+"5143","Thailand",1996,32
+"5144","Thailand",1997,49
+"5145","Thailand",1998,61
+"5146","Thailand",1999,64
+"5147","Thailand",2000,79
+"5148","Thailand",2001,74
+"5149","Thailand",2002,73
+"5150","Thailand",2003,87
+"5151","Thailand",2004,96
+"5152","Thailand",2005,75
+"5153","Thailand",2006,73
+"5154","Thailand",2007,91
+"5155","Thailand",2008,102
+"5156","Thailand",2009,105
+"5157","Thailand",2010,115
+"5158","Thailand",2011,87
+"5159","Thailand",2012,70
+"5160","Thailand",2013,60
+"5161","Thailand",2014,51
+"5162","Thailand",2015,53
+"5163","Togo",1992,0
+"5164","Togo",1993,1
+"5165","Togo",1994,7
+"5166","Togo",1995,4
+"5167","Togo",1996,4
+"5168","Togo",1997,75
+"5169","Togo",1998,71
+"5170","Togo",1999,162
+"5171","Togo",2000,582
+"5172","Togo",2001,371
+"5173","Togo",2002,225
+"5174","Togo",2003,384
+"5175","Togo",2004,425
+"5176","Togo",2005,298
+"5177","Togo",2006,128
+"5178","Togo",2007,123
+"5179","Togo",2008,273
+"5180","Togo",2009,77
+"5181","Togo",2010,42
+"5182","Togo",2011,38
+"5183","Togo",2012,62
+"5184","Togo",2013,48
+"5185","Togo",2014,51
+"5186","Togo",2015,25
+"5187","Tonga",1992,11
+"5188","Tonga",1993,13
+"5189","Tonga",1994,9
+"5190","Tonga",1995,7
+"5191","Tonga",1996,11
+"5192","Tonga",1997,25
+"5193","Tonga",1998,34
+"5194","Tonga",1999,44
+"5195","Tonga",2000,60
+"5196","Tonga",2001,51
+"5197","Tonga",2002,38
+"5198","Tonga",2003,44
+"5199","Tonga",2004,50
+"5200","Tonga",2005,41
+"5201","Tonga",2006,32
+"5202","Tonga",2007,32
+"5203","Tonga",2008,38
+"5204","Tonga",2009,31
+"5205","Tonga",2010,34
+"5206","Tonga",2011,45
+"5207","Tonga",2012,33
+"5208","Tonga",2013,21
+"5209","Tonga",2014,29
+"5210","Tonga",2015,19
+"5211","Trinidad and Tobago",1992,107
+"5212","Trinidad and Tobago",1993,123
+"5213","Trinidad and Tobago",1994,101
+"5214","Trinidad and Tobago",1995,118
+"5215","Trinidad and Tobago",1996,156
+"5216","Trinidad and Tobago",1997,0
+"5217","Trinidad and Tobago",1998,6
+"5218","Trinidad and Tobago",1999,310
+"5219","Trinidad and Tobago",2000,350
+"5220","Trinidad and Tobago",2001,355
+"5221","Trinidad and Tobago",2002,399
+"5222","Trinidad and Tobago",2003,411
+"5223","Trinidad and Tobago",2004,457
+"5224","Trinidad and Tobago",2005,455
+"5225","Trinidad and Tobago",2006,398
+"5226","Trinidad and Tobago",2007,363
+"5227","Trinidad and Tobago",2008,478
+"5228","Trinidad and Tobago",2009,484
+"5229","Trinidad and Tobago",2010,380
+"5230","Trinidad and Tobago",2011,326
+"5231","Trinidad and Tobago",2012,233
+"5232","Trinidad and Tobago",2013,169
+"5233","Trinidad and Tobago",2014,163
+"5234","Trinidad and Tobago",2015,126
+"5235","Tunisia",1992,0
+"5236","Tunisia",1993,2
+"5237","Tunisia",1994,1
+"5238","Tunisia",1995,3
+"5239","Tunisia",1996,2
+"5240","Tunisia",1997,5
+"5241","Tunisia",1998,14
+"5242","Tunisia",1999,13
+"5243","Tunisia",2000,8
+"5244","Tunisia",2001,23
+"5245","Tunisia",2002,53
+"5246","Tunisia",2003,49
+"5247","Tunisia",2004,39
+"5248","Tunisia",2005,39
+"5249","Tunisia",2006,33
+"5250","Tunisia",2007,23
+"5251","Tunisia",2008,38
+"5252","Tunisia",2009,15
+"5253","Tunisia",2010,30
+"5254","Tunisia",2011,14
+"5255","Tunisia",2012,17
+"5256","Tunisia",2013,12
+"5257","Tunisia",2014,10
+"5258","Tunisia",2015,16
+"5259","Turkey",1820,1
+"5260","Turkey",1830,20
+"5261","Turkey",1840,7
+"5262","Turkey",1850,59
+"5263","Turkey",1860,83
+"5264","Turkey",1870,131
+"5265","Turkey",1880,404
+"5266","Turkey",1890,3782
+"5267","Turkey",1900,30425
+"5268","Turkey",1910,157369
+"5269","Turkey",1920,134066
+"5270","Turkey",1930,33824
+"5271","Turkey",1940,1065
+"5272","Turkey",1950,798
+"5273","Turkey",1960,3519
+"5274","Turkey",1970,10142
+"5275","Turkey",1980,13399
+"5276","Turkey",1987,23233
+"5277","Turkey",1988,2200
+"5278","Turkey",1989,2538
+"5279","Turkey",1990,3205
+"5280","Turkey",1991,3466
+"5281","Turkey",1992,3219
+"5282","Turkey",1993,3500
+"5283","Turkey",1994,3908
+"5284","Turkey",1995,4819
+"5285","Turkey",1996,5585
+"5286","Turkey",1997,4661
+"5287","Turkey",1998,4089
+"5288","Turkey",1999,2575
+"5289","Turkey",2000,2821
+"5290","Turkey",2001,3608
+"5291","Turkey",2002,4112
+"5292","Turkey",2003,3482
+"5293","Turkey",2004,4664
+"5294","Turkey",2005,6649
+"5295","Turkey",2006,6600
+"5296","Turkey",2007,9224
+"5297","Turkey",2008,5170
+"5298","Turkey",2009,8117
+"5299","Turkey",2010,7660
+"5300","Turkey",2011,9197
+"5301","Turkey",2012,7514
+"5302","Turkey",2013,7302
+"5303","Turkey",2014,7308
+"5304","Turkey",2015,8831
+"5305","Turkmenistan",1990,0
+"5306","Turkmenistan",1991,0
+"5307","Turkmenistan",1992,0
+"5308","Turkmenistan",1993,0
+"5309","Turkmenistan",1994,1
+"5310","Turkmenistan",1995,0
+"5311","Turkmenistan",1996,3
+"5312","Turkmenistan",1997,16
+"5313","Turkmenistan",1998,13
+"5314","Turkmenistan",1999,16
+"5315","Turkmenistan",2000,10
+"5316","Turkmenistan",2001,24
+"5317","Turkmenistan",2002,16
+"5318","Turkmenistan",2003,17
+"5319","Turkmenistan",2004,27
+"5320","Turkmenistan",2005,24
+"5321","Turkmenistan",2006,26
+"5322","Turkmenistan",2007,15
+"5323","Turkmenistan",2008,13
+"5324","Turkmenistan",2009,7
+"5325","Turkmenistan",2010,11
+"5326","Turkmenistan",2011,17
+"5327","Turkmenistan",2012,9
+"5328","Turkmenistan",2013,6
+"5329","Turkmenistan",2014,5
+"5330","Turkmenistan",2015,10
+"5331","Turks and Caicos Islands",1997,0
+"5332","Turks and Caicos Islands",1998,0
+"5333","Turks and Caicos Islands",1999,5
+"5334","Turks and Caicos Islands",2000,3
+"5335","Turks and Caicos Islands",2001,4
+"5336","Turks and Caicos Islands",2002,0
+"5337","Turks and Caicos Islands",2003,7
+"5338","Turks and Caicos Islands",2004,0
+"5339","Turks and Caicos Islands",2005,3
+"5340","Turks and Caicos Islands",2006,0
+"5341","Turks and Caicos Islands",2007,3
+"5342","Turks and Caicos Islands",2008,10
+"5343","Turks and Caicos Islands",2009,11
+"5344","Turks and Caicos Islands",2010,11
+"5345","Turks and Caicos Islands",2011,12
+"5346","Turks and Caicos Islands",2012,10
+"5347","Turks and Caicos Islands",2013,9
+"5348","Turks and Caicos Islands",2014,6
+"5349","Turks and Caicos Islands",2015,0
+"5350","Tuvalu",1997,0
+"5351","Tuvalu",1998,0
+"5352","Tuvalu",1999,0
+"5353","Tuvalu",2000,0
+"5354","Tuvalu",2001,0
+"5355","Tuvalu",2002,0
+"5356","Tuvalu",2003,0
+"5357","Uganda",1990,27
+"5358","Uganda",1991,125
+"5359","Uganda",1992,93
+"5360","Uganda",1993,26
+"5361","Uganda",1994,3
+"5362","Uganda",1995,11
+"5363","Uganda",1996,10
+"5364","Uganda",1997,31
+"5365","Uganda",1998,78
+"5366","Uganda",1999,78
+"5367","Uganda",2000,149
+"5368","Uganda",2001,146
+"5369","Uganda",2002,172
+"5370","Uganda",2003,95
+"5371","Uganda",2004,97
+"5372","Uganda",2005,81
+"5373","Uganda",2006,77
+"5374","Uganda",2007,147
+"5375","Uganda",2008,125
+"5376","Uganda",2009,95
+"5377","Uganda",2010,146
+"5378","Uganda",2011,127
+"5379","Uganda",2012,115
+"5380","Uganda",2013,84
+"5381","Uganda",2014,87
+"5382","Uganda",2015,153
+"5383","Ukraine",1990,0
+"5384","Ukraine",1991,0
+"5385","Ukraine",1992,8
+"5386","Ukraine",1993,56
+"5387","Ukraine",1994,192
+"5388","Ukraine",1995,226
+"5389","Ukraine",1996,222
+"5390","Ukraine",1997,234
+"5391","Ukraine",1998,177
+"5392","Ukraine",1999,8803
+"5393","Ukraine",2000,7500
+"5394","Ukraine",2001,7398
+"5395","Ukraine",2002,5476
+"5396","Ukraine",2003,5297
+"5397","Ukraine",2004,3776
+"5398","Ukraine",2005,3118
+"5399","Ukraine",2006,2697
+"5400","Ukraine",2007,1831
+"5401","Ukraine",2008,1268
+"5402","Ukraine",2009,866
+"5403","Ukraine",2010,688
+"5404","Ukraine",2011,769
+"5405","Ukraine",2012,693
+"5406","Ukraine",2013,459
+"5407","Ukraine",2014,676
+"5408","Ukraine",2015,1685
+"5409","United Arab Emirates",1997,0
+"5410","United Arab Emirates",1998,3
+"5411","United Arab Emirates",1999,3
+"5412","United Arab Emirates",2000,6
+"5413","United Arab Emirates",2001,3
+"5414","United Arab Emirates",2002,16
+"5415","United Arab Emirates",2003,9
+"5416","United Arab Emirates",2004,0
+"5417","United Arab Emirates",2005,0
+"5418","United Arab Emirates",2006,10
+"5419","United Arab Emirates",2007,5
+"5420","United Arab Emirates",2008,5
+"5421","United Arab Emirates",2009,0
+"5422","United Arab Emirates",2010,4
+"5423","United Arab Emirates",2011,4
+"5424","United Arab Emirates",2012,0
+"5425","United Arab Emirates",2013,0
+"5426","United Arab Emirates",2014,0
+"5427","United Arab Emirates",2015,0
+"5428","United Kingdom",1820,2410
+"5429","United Kingdom",1830,25079
+"5430","United Kingdom",1840,75810
+"5431","United Kingdom",1850,267044
+"5432","United Kingdom",1860,423974
+"5433","United Kingdom",1870,606896
+"5434","United Kingdom",1880,548043
+"5435","United Kingdom",1890,807357
+"5436","United Kingdom",1900,271538
+"5437","United Kingdom",1910,525950
+"5438","United Kingdom",1920,341408
+"5439","United Kingdom",1930,339570
+"5440","United Kingdom",1940,31572
+"5441","United Kingdom",1950,139306
+"5442","United Kingdom",1960,202824
+"5443","United Kingdom",1970,213822
+"5444","United Kingdom",1980,137374
+"5445","United Kingdom",1987,159173
+"5446","United Kingdom",1988,14667
+"5447","United Kingdom",1989,16961
+"5448","United Kingdom",1990,19054
+"5449","United Kingdom",1991,16768
+"5450","United Kingdom",1992,22099
+"5451","United Kingdom",1993,20659
+"5452","United Kingdom",1994,17919
+"5453","United Kingdom",1995,14426
+"5454","United Kingdom",1996,15818
+"5455","United Kingdom",1997,12296
+"5456","United Kingdom",1998,10542
+"5457","United Kingdom",1999,9040
+"5458","United Kingdom",2000,14846
+"5459","United Kingdom",2001,20480
+"5460","United Kingdom",2002,18429
+"5461","United Kingdom",2003,11598
+"5462","United Kingdom",2004,17170
+"5463","United Kingdom",2005,22387
+"5464","United Kingdom",2006,20369
+"5465","United Kingdom",2007,1263
+"5466","United Kingdom",2008,16668
+"5467","United Kingdom",2009,18136
+"5468","United Kingdom",2010,15282
+"5469","United Kingdom",2011,13770
+"5470","United Kingdom",2012,14261
+"5471","United Kingdom",2013,15544
+"5472","United Kingdom",2014,14607
+"5473","United Kingdom",2015,14802
+"5474","United States",1997,0
+"5475","United States",1998,0
+"5476","United States",1999,0
+"5477","United States",2000,0
+"5478","United States",2001,0
+"5479","United States",2002,0
+"5480","United States",2003,0
+"5481","Uruguay",1992,11
+"5482","Uruguay",1993,17
+"5483","Uruguay",1994,17
+"5484","Uruguay",1995,7
+"5485","Uruguay",1996,11
+"5486","Uruguay",1997,16
+"5487","Uruguay",1998,30
+"5488","Uruguay",1999,35
+"5489","Uruguay",2000,443
+"5490","Uruguay",2001,564
+"5491","Uruguay",2002,581
+"5492","Uruguay",2003,622
+"5493","Uruguay",2004,896
+"5494","Uruguay",2005,1267
+"5495","Uruguay",2006,1781
+"5496","Uruguay",2007,356
+"5497","Uruguay",2008,1553
+"5498","Uruguay",2009,1897
+"5499","Uruguay",2010,1455
+"5500","Uruguay",2011,1693
+"5501","Uruguay",2012,1459
+"5502","Uruguay",2013,1393
+"5503","Uruguay",2014,1150
+"5504","Uruguay",2015,1057
+"5505","Uzbekistan",1990,0
+"5506","Uzbekistan",1991,0
+"5507","Uzbekistan",1992,0
+"5508","Uzbekistan",1993,3
+"5509","Uzbekistan",1994,22
+"5510","Uzbekistan",1995,62
+"5511","Uzbekistan",1996,44
+"5512","Uzbekistan",1997,37
+"5513","Uzbekistan",1998,55
+"5514","Uzbekistan",1999,853
+"5515","Uzbekistan",2000,771
+"5516","Uzbekistan",2001,837
+"5517","Uzbekistan",2002,573
+"5518","Uzbekistan",2003,289
+"5519","Uzbekistan",2004,611
+"5520","Uzbekistan",2005,402
+"5521","Uzbekistan",2006,663
+"5522","Uzbekistan",2007,345
+"5523","Uzbekistan",2008,295
+"5524","Uzbekistan",2009,340
+"5525","Uzbekistan",2010,344
+"5526","Uzbekistan",2011,269
+"5527","Uzbekistan",2012,249
+"5528","Uzbekistan",2013,145
+"5529","Uzbekistan",2014,113
+"5530","Uzbekistan",2015,72
+"5531","Vanuatu",1997,0
+"5532","Vanuatu",1998,0
+"5533","Vanuatu",1999,0
+"5534","Vanuatu",2000,0
+"5535","Vanuatu",2001,0
+"5536","Vanuatu",2002,0
+"5537","Vanuatu",2003,0
+"5538","Venezuela",1992,67
+"5539","Venezuela",1993,41
+"5540","Venezuela",1994,62
+"5541","Venezuela",1995,45
+"5542","Venezuela",1996,75
+"5543","Venezuela",1997,243
+"5544","Venezuela",1998,258
+"5545","Venezuela",1999,235
+"5546","Venezuela",2000,5321
+"5547","Venezuela",2001,5908
+"5548","Venezuela",2002,5875
+"5549","Venezuela",2003,4785
+"5550","Venezuela",2004,7968
+"5551","Venezuela",2005,12229
+"5552","Venezuela",2006,13282
+"5553","Venezuela",2007,2656
+"5554","Venezuela",2008,11854
+"5555","Venezuela",2009,12284
+"5556","Venezuela",2010,10355
+"5557","Venezuela",2011,10435
+"5558","Venezuela",2012,10694
+"5559","Venezuela",2013,10319
+"5560","Venezuela",2014,8512
+"5561","Venezuela",2015,9255
+"5562","Vietnam",1820,0
+"5563","Vietnam",1830,0
+"5564","Vietnam",1840,0
+"5565","Vietnam",1850,0
+"5566","Vietnam",1860,0
+"5567","Vietnam",1870,0
+"5568","Vietnam",1880,0
+"5569","Vietnam",1890,0
+"5570","Vietnam",1900,0
+"5571","Vietnam",1910,0
+"5572","Vietnam",1920,0
+"5573","Vietnam",1930,0
+"5574","Vietnam",1940,0
+"5575","Vietnam",1950,0
+"5576","Vietnam",1960,335
+"5577","Vietnam",1970,4340
+"5578","Vietnam",1980,172820
+"5579","Vietnam",1987,280782
+"5580","Vietnam",1988,12856
+"5581","Vietnam",1989,13174
+"5582","Vietnam",1990,42133
+"5583","Vietnam",1991,42804
+"5584","Vietnam",1992,57862
+"5585","Vietnam",1993,63116
+"5586","Vietnam",1994,66638
+"5587","Vietnam",1995,70009
+"5588","Vietnam",1996,56053
+"5589","Vietnam",1997,43799
+"5590","Vietnam",1998,26844
+"5591","Vietnam",1999,28812
+"5592","Vietnam",2000,28024
+"5593","Vietnam",2001,37283
+"5594","Vietnam",2002,35387
+"5595","Vietnam",2003,22607
+"5596","Vietnam",2004,31088
+"5597","Vietnam",2005,32877
+"5598","Vietnam",2006,32800
+"5599","Vietnam",2007,6266
+"5600","Vietnam",2008,30970
+"5601","Vietnam",2009,29970
+"5602","Vietnam",2010,30998
+"5603","Vietnam",2011,33636
+"5604","Vietnam",2012,27696
+"5605","Vietnam",2013,26722
+"5606","Vietnam",2014,30253
+"5607","Vietnam",2015,30869
+"5608","Western Samoa",1992,8
+"5609","Western Samoa",1993,10
+"5610","Western Samoa",1994,8
+"5611","Western Samoa",1995,13
+"5612","Western Samoa",1996,4
+"5613","Yemen",1992,1
+"5614","Yemen",1993,2
+"5615","Yemen",1994,5
+"5616","Yemen",1995,1
+"5617","Yemen",1996,8
+"5618","Yemen",1997,45
+"5619","Yemen",1998,43
+"5620","Yemen",1999,53
+"5621","Yemen",2000,81
+"5622","Yemen",2001,58
+"5623","Yemen",2002,80
+"5624","Yemen",2003,57
+"5625","Yemen",2004,65
+"5626","Yemen",2005,76
+"5627","Yemen",2006,65
+"5628","Yemen",2007,96
+"5629","Yemen",2008,62
+"5630","Yemen",2009,125
+"5631","Yemen",2010,98
+"5632","Yemen",2011,73
+"5633","Yemen",2012,68
+"5634","Yemen",2013,73
+"5635","Yemen",2014,30
+"5636","Yemen",2015,41
+"5637","Yugoslavia",1820,0
+"5638","Yugoslavia",1830,0
+"5639","Yugoslavia",1840,0
+"5640","Yugoslavia",1850,0
+"5641","Yugoslavia",1860,0
+"5642","Yugoslavia",1870,0
+"5643","Yugoslavia",1880,0
+"5644","Yugoslavia",1890,0
+"5645","Yugoslavia",1900,0
+"5646","Yugoslavia",1910,0
+"5647","Yugoslavia",1920,1888
+"5648","Yugoslavia",1930,49064
+"5649","Yugoslavia",1940,5835
+"5650","Yugoslavia",1950,1576
+"5651","Yugoslavia",1960,8225
+"5652","Yugoslavia",1970,20381
+"5653","Yugoslavia",1980,30540
+"5654","Yugoslavia",1987,18762
+"5655","Yugoslavia",1988,2039
+"5656","Yugoslavia",1989,2464
+"5657","Yugoslavia",1990,2798
+"5658","Yugoslavia",1991,2805
+"5659","Yugoslavia",1992,2839
+"5660","Yugoslavia",1993,3316
+"5661","Yugoslavia",1994,4123
+"5662","Yugoslavia",1995,9258
+"5663","Yugoslavia",1996,13255
+"5664","Yugoslavia",1997,9913
+"5665","Yugoslavia",1998,7264
+"5666","Yugoslavia",1999,7077
+"5667","Yugoslavia",2000,11960
+"5668","Yugoslavia",2001,21854
+"5669","Yugoslavia",2002,28051
+"5670","Yugoslavia",2003,8270
+"5671","Yugoslavia",2004,13213
+"5672","Yugoslavia",2005,19249
+"5673","Yugoslavia",2006,11066
+"5674","Yugoslavia",2007,16113
+"5675","Yugoslavia",2008,5812
+"5676","Yugoslavia",2009,5992
+"5677","Yugoslavia",2010,4772
+"5678","Yugoslavia",2011,4611
+"5679","Yugoslavia",2012,4488
+"5680","Yugoslavia",2013,4445
+"5681","Yugoslavia",2014,4321
+"5682","Yugoslavia",2015,4721
+"5683","Zaire",1990,84
+"5684","Zaire",1991,80
+"5685","Zaire",1992,99
+"5686","Zaire",1993,248
+"5687","Zaire",1994,186
+"5688","Zaire",1995,302
+"5689","Zaire",1996,180
+"5690","Zambia",1992,0
+"5691","Zambia",1993,0
+"5692","Zambia",1994,1
+"5693","Zambia",1995,1
+"5694","Zambia",1996,2
+"5695","Zambia",1997,0
+"5696","Zambia",1998,3
+"5697","Zambia",1999,0
+"5698","Zambia",2000,6
+"5699","Zambia",2001,18
+"5700","Zambia",2002,26
+"5701","Zambia",2003,23
+"5702","Zambia",2004,35
+"5703","Zambia",2005,29
+"5704","Zambia",2006,20
+"5705","Zambia",2007,34
+"5706","Zambia",2008,29
+"5707","Zambia",2009,16
+"5708","Zambia",2010,29
+"5709","Zambia",2011,19
+"5710","Zambia",2012,20
+"5711","Zambia",2013,11
+"5712","Zambia",2014,40
+"5713","Zambia",2015,72
+"5714","Zimbabwe",1992,3
+"5715","Zimbabwe",1993,0
+"5716","Zimbabwe",1994,0
+"5717","Zimbabwe",1995,1
+"5718","Zimbabwe",1996,5
+"5719","Zimbabwe",1997,0
+"5720","Zimbabwe",1998,10
+"5721","Zimbabwe",1999,9
+"5722","Zimbabwe",2000,16
+"5723","Zimbabwe",2001,65
+"5724","Zimbabwe",2002,119
+"5725","Zimbabwe",2003,209
+"5726","Zimbabwe",2004,262
+"5727","Zimbabwe",2005,238
+"5728","Zimbabwe",2006,180
+"5729","Zimbabwe",2007,188
+"5730","Zimbabwe",2008,240
+"5731","Zimbabwe",2009,190
+"5732","Zimbabwe",2010,101
+"5733","Zimbabwe",2011,121
+"5734","Zimbabwe",2012,71
+"5735","Zimbabwe",2013,64
+"5736","Zimbabwe",2014,25
+"5737","Zimbabwe",2015,51
