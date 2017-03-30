@@ -2074,13 +2074,13 @@ Sudan,Africa,2012,Refugee,1077
 Sudan,Africa,2013,Refugee,2160
 Sudan,Africa,2014,Refugee,1315
 Sudan,Africa,2015,Refugee,1578
-Swaziland  ,Africa,1997,Deported,NA
-Swaziland  ,Africa,1998,Deported,NA
-Swaziland  ,Africa,1999,Deported,NA
-Swaziland  ,Africa,2000,Deported,NA
-Swaziland  ,Africa,2001,Deported,NA
-Swaziland  ,Africa,2002,Deported,NA
-Swaziland  ,Africa,2003,Deported,NA
+Swaziland,Africa,1997,Deported,NA
+Swaziland,Africa,1998,Deported,NA
+Swaziland,Africa,1999,Deported,NA
+Swaziland,Africa,2000,Deported,NA
+Swaziland,Africa,2001,Deported,NA
+Swaziland,Africa,2002,Deported,NA
+Swaziland,Africa,2003,Deported,NA
 Tanzania,Africa,1997,Asylee,0
 Tanzania,Africa,1998,Asylee,9
 Tanzania,Africa,1999,Asylee,4
@@ -6640,22 +6640,22 @@ Greece,Europe,2003,Lawful,900
 Greece,Europe,2004,Lawful,1213
 Greece,Europe,2005,Lawful,1473
 Greece,Europe,2006,Lawful,1544
-Greece,Europe,1821-30,Lawful,20
-Greece,Europe,1831-40,Lawful,49
-Greece,Europe,1841-50,Lawful,16
-Greece,Europe,1851-60,Lawful,31
-Greece,Europe,1861-70,Lawful,72
-Greece,Europe,1871-80,Lawful,210
-Greece,Europe,1881-90,Lawful,2308
-Greece,Europe,1901-10,Lawful,167519
-Greece,Europe,1911-20,Lawful,184201
-Greece,Europe,1921-30,Lawful,51084
-Greece,Europe,1931-40,Lawful,9119
-Greece,Europe,1941-50,Lawful,8973
-Greece,Europe,1951-60,Lawful,47608
-Greece,Europe,1961-70,Lawful,85969
-Greece,Europe,1971-80,Lawful,92369
-Greece,Europe,1981-90,Lawful,38377
+Greece,Europe,1830,Lawful,20
+Greece,Europe,1840,Lawful,49
+Greece,Europe,1850,Lawful,16
+Greece,Europe,1860,Lawful,31
+Greece,Europe,1870,Lawful,72
+Greece,Europe,1880,Lawful,210
+Greece,Europe,1890,Lawful,2308
+Greece,Europe,1910,Lawful,167519
+Greece,Europe,1920,Lawful,184201
+Greece,Europe,1930,Lawful,51084
+Greece,Europe,1940,Lawful,9119
+Greece,Europe,1950,Lawful,8973
+Greece,Europe,1960,Lawful,47608
+Greece,Europe,1970,Lawful,85969
+Greece,Europe,1980,Lawful,92369
+Greece,Europe,1990,Lawful,38377
 Hungary,Europe,1990,Asylee,20
 Hungary,Europe,1991,Asylee,5
 Hungary,Europe,1992,Asylee,1
@@ -6740,15 +6740,15 @@ Hungary,Europe,1993,Refugee,0
 Hungary,Europe,1994,Refugee,1
 Hungary,Europe,1995,Refugee,0
 Hungary,Europe,1996,Refugee,0
-Hungary ,Europe,2007,Lawful,849
-Hungary ,Europe,2008,Lawful,1071
-Hungary ,Europe,2009,Lawful,1295
-Hungary ,Europe,2010,Lawful,1006
-Hungary ,Europe,2011,Lawful,1049
-Hungary ,Europe,2012,Lawful,1009
-Hungary ,Europe,2013,Lawful,1008
-Hungary ,Europe,2014,Lawful,970
-Hungary ,Europe,2015,Lawful,1037
+Hungary,Europe,2007,Lawful,849
+Hungary,Europe,2008,Lawful,1071
+Hungary,Europe,2009,Lawful,1295
+Hungary,Europe,2010,Lawful,1006
+Hungary,Europe,2011,Lawful,1049
+Hungary,Europe,2012,Lawful,1009
+Hungary,Europe,2013,Lawful,1008
+Hungary,Europe,2014,Lawful,970
+Hungary,Europe,2015,Lawful,1037
 Iceland,Europe,1992,Deported,4
 Iceland,Europe,1993,Deported,3
 Iceland,Europe,1994,Deported,4
@@ -9374,25 +9374,25 @@ Martinique,North America,2000,Deported,NA
 Martinique,North America,2001,Deported,7
 Martinique,North America,2002,Deported,4
 Martinique,North America,2003,Deported,NA
-Mauritania,North America,1997,Deported,NA
-Mauritania,North America,1998,Deported,3
-Mauritania,North America,1999,Deported,NA
-Mauritania,North America,2000,Deported,4
-Mauritania,North America,2001,Deported,NA
-Mauritania,North America,2002,Deported,13
-Mauritania,North America,2003,Deported,13
-Mauritania,North America,2004,Deported,44
-Mauritania,North America,2005,Deported,32
-Mauritania,North America,2006,Deported,46
-Mauritania,North America,2007,Deported,21
-Mauritania,North America,2008,Deported,24
-Mauritania,North America,2009,Deported,18
-Mauritania,North America,2010,Deported,19
-Mauritania,North America,2011,Deported,21
-Mauritania,North America,2012,Deported,10
-Mauritania,North America,2013,Deported,7
-Mauritania,North America,2014,Deported,5
-Mauritania,North America,2015,Deported,5
+Mauritania,Africa,1997,Deported,NA
+Mauritania,Africa,1998,Deported,3
+Mauritania,Africa,1999,Deported,NA
+Mauritania,Africa,2000,Deported,4
+Mauritania,Africa,2001,Deported,NA
+Mauritania,Africa,2002,Deported,13
+Mauritania,Africa,2003,Deported,13
+Mauritania,Africa,2004,Deported,44
+Mauritania,Africa,2005,Deported,32
+Mauritania,Africa,2006,Deported,46
+Mauritania,Africa,2007,Deported,21
+Mauritania,Africa,2008,Deported,24
+Mauritania,Africa,2009,Deported,18
+Mauritania,Africa,2010,Deported,19
+Mauritania,Africa,2011,Deported,21
+Mauritania,Africa,2012,Deported,10
+Mauritania,Africa,2013,Deported,7
+Mauritania,Africa,2014,Deported,5
+Mauritania,Africa,2015,Deported,5
 Mexico,North America,1992,Deported,26468
 Mexico,North America,1993,Deported,25730
 Mexico,North America,1994,Deported,28358
@@ -9589,30 +9589,30 @@ Marshall Islands,Oceania,2012,Deported,21
 Marshall Islands,Oceania,2013,Deported,24
 Marshall Islands,Oceania,2014,Deported,31
 Marshall Islands,Oceania,2015,Deported,21
-"Micronesia, Federated States",Oceania,1992,Deported,NA
-"Micronesia, Federated States",Oceania,1993,Deported,NA
-"Micronesia, Federated States",Oceania,1994,Deported,3
-"Micronesia, Federated States",Oceania,1995,Deported,5
-"Micronesia, Federated States",Oceania,1996,Deported,9
-"Micronesia, Federated States",Oceania,1997,Deported,11
-"Micronesia, Federated States",Oceania,1998,Deported,8
-"Micronesia, Federated States",Oceania,1999,Deported,18
-"Micronesia, Federated States",Oceania,2000,Deported,28
-"Micronesia, Federated States",Oceania,2001,Deported,36
-"Micronesia, Federated States",Oceania,2002,Deported,32
-"Micronesia, Federated States",Oceania,2003,Deported,28
-"Micronesia, Federated States",Oceania,2004,Deported,37
-"Micronesia, Federated States",Oceania,2005,Deported,24
-"Micronesia, Federated States",Oceania,2006,Deported,30
-"Micronesia, Federated States",Oceania,2007,Deported,43
-"Micronesia, Federated States",Oceania,2008,Deported,64
-"Micronesia, Federated States",Oceania,2009,Deported,66
-"Micronesia, Federated States",Oceania,2010,Deported,64
-"Micronesia, Federated States",Oceania,2011,Deported,69
-"Micronesia, Federated States",Oceania,2012,Deported,76
-"Micronesia, Federated States",Oceania,2013,Deported,79
-"Micronesia, Federated States",Oceania,2014,Deported,63
-"Micronesia, Federated States",Oceania,2015,Deported,64
+Micronesia, Federated States,Oceania,1992,Deported,NA
+Micronesia, Federated States,Oceania,1993,Deported,NA
+Micronesia, Federated States,Oceania,1994,Deported,3
+Micronesia, Federated States,Oceania,1995,Deported,5
+Micronesia, Federated States,Oceania,1996,Deported,9
+Micronesia, Federated States,Oceania,1997,Deported,11
+Micronesia, Federated States,Oceania,1998,Deported,8
+Micronesia, Federated States,Oceania,1999,Deported,18
+Micronesia, Federated States,Oceania,2000,Deported,28
+Micronesia, Federated States,Oceania,2001,Deported,36
+Micronesia, Federated States,Oceania,2002,Deported,32
+Micronesia, Federated States,Oceania,2003,Deported,28
+Micronesia, Federated States,Oceania,2004,Deported,37
+Micronesia, Federated States,Oceania,2005,Deported,24
+Micronesia, Federated States,Oceania,2006,Deported,30
+Micronesia, Federated States,Oceania,2007,Deported,43
+Micronesia, Federated States,Oceania,2008,Deported,64
+Micronesia, Federated States,Oceania,2009,Deported,66
+Micronesia, Federated States,Oceania,2010,Deported,64
+Micronesia, Federated States,Oceania,2011,Deported,69
+Micronesia, Federated States,Oceania,2012,Deported,76
+Micronesia, Federated States,Oceania,2013,Deported,79
+Micronesia, Federated States,Oceania,2014,Deported,63
+Micronesia, Federated States,Oceania,2015,Deported,64
 New Caledonia,Oceania,1997,Deported,NA
 New Caledonia,Oceania,1998,Deported,NA
 New Caledonia,Oceania,1999,Deported,NA

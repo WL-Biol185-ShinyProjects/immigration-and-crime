@@ -21,13 +21,14 @@ rate <- read.csv("rate.csv")
 ```
 
 ```{r}
-
-checkboxGroupInput("country", label = ("Country"), choices = unique((rate$country), selected = Algeria))
+inputPanel(
+  checkboxGroupInput("country", label = ("Country"), choices = unique((rate$country), selected = Algeria))
+)
 
 renderPlot({
   rate %>%
-  {input$country} %>%
-ggplot(aes(year, number)) + geom_line()
+    input$country
+    ggplot(aes(year, number, color = country)) + geom_line()
 })
 ```
 
