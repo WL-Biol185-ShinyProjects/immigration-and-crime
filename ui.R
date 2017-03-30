@@ -1,6 +1,6 @@
 library(shiny)
 master_immigration <- read.csv("Master_Immigration.csv")
-
+crime <- read.csv("CRIME.csv")
 # Define UI for application that draws a histogram
 fluidPage(
   
@@ -10,24 +10,16 @@ fluidPage(
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
     sidebarPanel(
-        selectInput("immigrant_type", label = "Type", choices = unique(master_immigration$immigrant_type)
-        #sliderInput("year", label = "Period", min = 1800, max = 2017, value = c(1800,2017))
-        #checkboxGroupInput("country", label = "Countries", choices = unique(master_immigration$country)
-        )),
+        selectInput("immigrant_type", label = "Type", choices = unique(master_immigration$immigrant_type)),
+        checkboxGroupInput("type", label = "Crime Type", choices = unique(crime$type))
+        ),
     # Show a plot of the generated distribution
     mainPanel(
-      plotOutput("immtypePlot")
-    )
+      plotOutput("immtypePlot"),
+      plotOutput("crimetimePlot")
+      
   )
-)
+  )
+  )
 
-sidebarLayout(
-  sidebarPanel(
-    checkboxGroupInput("type", label = "Crime Type", choices = unique(crime$type),
-  mainPanel(
-    plotOutput("crimetimePlot")
-  )
-)
-)
-  )
     
