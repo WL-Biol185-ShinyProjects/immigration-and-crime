@@ -15,6 +15,7 @@ fluidPage(
         selectInput("immigrant_type", label = "Type", choices = unique(master_immigration$immigrant_type)),
         checkboxGroupInput("country", label = "Country", choices = unique(master_immigration$country)),
         sliderInput("year", label = "Time Period", min = 1800, max = 2017, value = c(1800,2017)),
+        checkboxGroupInput("region", label = "Region", choices = unique(master_immigration$region)),
         checkboxGroupInput("type", label = "Crime Type", choices = unique(crime$type)),
         checkboxGroupInput("totalcountry", label = "Country for Overall Rate", choices = unique(rate$country))
         ),
@@ -23,7 +24,8 @@ fluidPage(
     mainPanel(
       plotOutput("immtypePlot"),
       plotOutput("crimetimePlot"),
-      plotOutput("totalratePlot")
+      plotOutput("totalratePlot"),
+      plotOutput("regionPlot")
   )
 
 

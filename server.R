@@ -11,20 +11,28 @@ rate <- read.csv("rate.csv")
       filter(immigrant_type == input$immigrant_type) %>%
       filter(country == input$country) %>%
       filter(year >= input$year[1], year <= input$year[2]) %>%
-      ggplot(aes(year, number, color = country)) + geom_point() + geom_smooth(method = "loess")
+      ggplot(aes(year, number, color = country)) + geom_point() + geom_smooth(method = "loess", span =.3)
   })
     
 
   output$crimetimePlot <- renderPlot({
     crime %>%
       filter(type == input$type) %>%
-      ggplot(aes(year, crime_rate, color = type)) + geom_line()
+      ggplot(aes(year, crime_rate, color = type)) + geom_point() + geom_smooth(method = "loess", span =.3)
   })
   
   output$totalratePlot <- renderPlot({
     rate %>%
       filter(country == input$totalcountry) %>%
-      ggplot(aes(year, number, color = country)) + geom_line()
+      filter(year >= input$year[1], year <= input$year[2]) %>%
+      ggplot(aes(year, number, color = country)) + geom_point() + geom_smooth(method = "loess", span =.3)
+  })
+  
+  output$regionPlot <- renderPlot({
+    master_immigration %>%
+     filter(region == input$region) %>%
+     filter(year >= input$year[1], year <= input$year[2])%>%
+     ggplot(aes(year, number, color = country)) + geom_point()
   })
   
   })
