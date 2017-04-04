@@ -1940,13 +1940,13 @@ South Africa,Africa,1993,Refugee,8
 South Africa,Africa,1994,Refugee,0
 South Africa,Africa,1995,Refugee,0
 South Africa,Africa,1996,Refugee,1
-South Sudan,Africa,2004,Deported,X
-South Sudan,Africa,2005,Deported,X
-South Sudan,Africa,2006,Deported,X
-South Sudan,Africa,2007,Deported,X
-South Sudan,Africa,2008,Deported,X
-South Sudan,Africa,2009,Deported,X
-South Sudan,Africa,2010,Deported,X
+South Sudan,Africa,2004,Deported,0
+South Sudan,Africa,2005,Deported,0
+South Sudan,Africa,2006,Deported,0
+South Sudan,Africa,2007,Deported,0
+South Sudan,Africa,2008,Deported,0
+South Sudan,Africa,2009,Deported,0
+South Sudan,Africa,2010,Deported,0
 South Sudan,Africa,2011,Deported,NA
 South Sudan,Africa,2012,Deported,NA
 South Sudan,Africa,2013,Deported,38
@@ -6935,10 +6935,10 @@ Kosovo,Europe,2012,Asylee,28
 Kosovo,Europe,2013,Asylee,18
 Kosovo,Europe,2014,Asylee,64
 Kosovo,Europe,2015,Asylee,55
-Kosovo,Europe,2004,Deported,X
-Kosovo,Europe,2005,Deported,X
-Kosovo,Europe,2006,Deported,X
-Kosovo,Europe,2007,Deported,X
+Kosovo,Europe,2004,Deported,0
+Kosovo,Europe,2005,Deported,0
+Kosovo,Europe,2006,Deported,0
+Kosovo,Europe,2007,Deported,0
 Kosovo,Europe,2008,Deported,NA
 Kosovo,Europe,2009,Deported,14
 Kosovo,Europe,2010,Deported,22
@@ -7231,9 +7231,9 @@ Montenegro,Europe,1993,Asylee,0
 Montenegro,Europe,1994,Asylee,0
 Montenegro,Europe,1995,Asylee,0
 Montenegro,Europe,1996,Asylee,0
-Montenegro,Europe,2004,Deported,X
-Montenegro,Europe,2005,Deported,X
-Montenegro,Europe,2006,Deported,X
+Montenegro,Europe,2004,Deported,0
+Montenegro,Europe,2005,Deported,0
+Montenegro,Europe,2006,Deported,0
 Montenegro,Europe,2007,Deported,NA
 Montenegro,Europe,2008,Deported,NA
 Montenegro,Europe,2009,Deported,NA
@@ -7789,9 +7789,9 @@ Russia,Europe,2012,Refugee,197
 Russia,Europe,2013,Refugee,125
 Russia,Europe,2014,Refugee,139
 Russia,Europe,2015,Refugee,281
-Serbia,Europe,2004,Deported,X
-Serbia,Europe,2005,Deported,X
-Serbia,Europe,2006,Deported,X
+Serbia,Europe,2004,Deported,0
+Serbia,Europe,2005,Deported,0
+Serbia,Europe,2006,Deported,0
 Serbia,Europe,2007,Deported,NA
 Serbia,Europe,2008,Deported,NA
 Serbia,Europe,2009,Deported,NA

@@ -48,19 +48,39 @@ renderPlot({
 
 
 ```{r}
+library(shiny)
+library(ggplot2)
+library(dplyr)
+master_immigration <- read.csv("Master_Immigration.csv")
 inputPanel(
-  checkboxGroupInput("type", label = "Crime Type", choices = unique(crime$type)
-))
+  selectInput("immigrant_type", label = "Type", choices = unique(master_immigration$immigrant_type)),
+        checkboxGroupInput("country", label = "Country", choices = unique(master_immigration$country)),
+        sliderInput("Years", label = "Time Period", min = 1800, max = 2017, value = c(1800,2017)))
+  
 renderPlot(
-  crime %>%
-    filter(type == input$type) %>%
-    ggplot(aes(year, crime_rate, color = type)) + geom_line()
+  
+ master_immigration%>%
+      filter(immigrant_type == input$immigrant_type) %>%
+      filter(country == input$country) %>%
+      filter(year == input$years) %>%
+      ggplot(aes(year, number, color = country)) + geom_line()
 )
 ```
 ```{r}
+library(ggplot2)
+library(dplyr)
+master_immigration <- read.csv("Master_Immigration.csv")
 master_immigration %>%
-  filter(country == "Mexico")
-  filter(immigrant_type == "Lawful")
-  ggplot(aes(year, number)) + geom_line()
+  filter(country == "Mexico")%>%
+  filter(immigrant_type == "Lawful")%>%
+  ggplot(aes(year, number)) + geom_point()
+```
+
+```{r}
+master_immigration%>%
+      filter(immigrant_type == input$immigrant_type) %>%
+      filter(country == input$country) %>%
+      filter(year == input$years) %>%
+      ggplot(aes(year, number, color = country)) + geom_line()
 ```
 
