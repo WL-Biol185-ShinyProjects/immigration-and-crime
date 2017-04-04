@@ -1,0 +1,86 @@
+---
+title: "shinytesting"
+author: "Harrison Westgarth"
+date: "3/28/2017"
+output: html_document
+runtime: shiny
+---
+inputPanel(
+  selectInput("carrier", label = h3("Carrier"), 
+    choices = sort(unique(flights$carrier))
+))
+inputPanel(
+  sliderInput("slider2", label = h3("Departure Delay"), min = 0, 
+        max = 2000, value = c(0, 2000)))
+
+renderPlot({
+flights %>%
+  filter(carrier == input$carrier) %>%
+  filter(dep_delay > input$slider2[1], dep_delay < input$slider2[2]) %>%
+ggplot(aes(Timeofyear, dep_delay, color = carrier)) + geom_point(alpha = .5)
+})
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+library(dplyr)
+library(shiny)
+library(ggplot2)
+master_immigration <- read.csv("Master_Immigration.csv")
+crime <- read.csv("CRIME.csv")
+```
+
+```{r}
+inputPanel(
+  selectInput("immigrant_type", label = "Type", choices = unique(master_immigration$immigrant_type)
+  #sliderInput("year", label = "Period", min = 1800, max = 2017, value = c(1800,2017))
+  #checkboxGroupInput("country", label = "Countries", choices = unique(master_immigration$country)
+ ))
+
+renderPlot({
+   master_immigration%>%
+    #filter(immigrant_type == input$immigrant_type) %>%
+    #filter(year == input$year) %>%
+    filter(country == input$country) %>%
+    ggplot(aes(year, number)) + geom_line()
+})
+```
+
+
+```{r}
+library(shiny)
+library(ggplot2)
+library(dplyr)
+master_immigration <- read.csv("Master_Immigration.csv")
+inputPanel(
+  selectInput("immigrant_type", label = "Type", choices = unique(master_immigration$immigrant_type)),
+        checkboxGroupInput("country", label = "Country", choices = unique(master_immigration$country)),
+        sliderInput("Years", label = "Time Period", min = 1800, max = 2017, value = c(1800,2017)))
+  
+renderPlot(
+  
+ master_immigration%>%
+      filter(immigrant_type == input$immigrant_type) %>%
+      filter(country == input$country) %>%
+      filter(year == input$years) %>%
+      ggplot(aes(year, number, color = country)) + geom_line()
+)
+```
+```{r}
+library(ggplot2)
+library(dplyr)
+master_immigration <- read.csv("Master_Immigration.csv")
+master_immigration %>%
+  filter(country == "Mexico")%>%
+  filter(immigrant_type == "Lawful")%>%
+  ggplot(aes(year, number)) + geom_point()
+```
+
+```{r}
+master_immigration%>%
+      filter(immigrant_type == input$immigrant_type) %>%
+      filter(country == input$country) %>%
+      filter(year == input$years) %>%
+      ggplot(aes(year, number, color = country)) + geom_line()
+```
+
