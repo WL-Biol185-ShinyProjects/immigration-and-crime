@@ -84,3 +84,7 @@ master_immigration%>%
       ggplot(aes(year, number, color = country)) + geom_line()
 ```
 
+```{r}
+sort
+```
+

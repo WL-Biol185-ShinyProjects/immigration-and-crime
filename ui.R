@@ -1,10 +1,11 @@
 library(shiny)
+library(shinythemes)
 master_immigration <- read.csv("Master_Immigration.csv")
 crime <- read.csv("CRIME.csv")
 rate <- read.csv("rate.csv")
 # Define UI for application that draws a histogram
 fluidPage(
-  
+  theme = shinytheme("superhero"),
   # Application title
   titlePanel("Crime and Immigration in the United States"),
   
