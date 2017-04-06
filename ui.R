@@ -71,6 +71,7 @@ fluidPage(
                            dataTableOutput("master_immigration")),
                   
                   tabPanel('Crime Data Table',
+
                            dataTableOutput("crime")),
                   
                   tabPanel('Total Immigration Rates Table',
