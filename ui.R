@@ -62,8 +62,7 @@ fluidPage(
                   tabPanel('Crime Data Table',
                            dataTableOutput("CRIME")),
                   tabPanel('Total Immigration Rates Table',
-                           dataTableOutput("rate")),
-                  tableOutput('table')
+                           dataTableOutput("rate"))
                   
                   )
             )
