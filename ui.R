@@ -3,6 +3,7 @@ library(shinythemes)
 master_immigration <- read.csv("Master_Immigration.csv")
 crime <- read.csv("CRIME.csv")
 rate <- read.csv("rate.csv")
+rate$X = NULL
 
 # Define UI for application that draws a histogram
 fluidPage(
@@ -25,11 +26,10 @@ fluidPage(
     # Show a plot of the generated distribution
     mainPanel(
       tabsetPanel(type="pills",
-                  tabPanel('Immigrant Type', plotOutput("immtypePlot")),
-                  tabPanel('Crime Rates', plotOutput("crimetimePlot")),
-                  tabPanel('Immigration Rates', plotOutput("totalratePlot")),
-                  tabPanel('Immigration by Region', plotOutput("regionPlot"))
-                  
+                  tabPanel('Immigrant Type', plotOutput("immtypePlot"), dataTableOutput("immtypeTable")),
+                  tabPanel('Crime Rates', plotOutput("crimetimePlot"), dataTableOutput("crimetimeTable")),
+                  tabPanel('Immigration Rates', plotOutput("totalratePlot"), dataTableOutput("totalrateTable")),
+                  tabPanel('Immigration by Region', plotOutput("regionPlot"), dataTableOutput("regionTable"))
                   
                   )
  

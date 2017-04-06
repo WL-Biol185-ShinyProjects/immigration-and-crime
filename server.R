@@ -5,7 +5,7 @@ shinyServer(function(input, output) {
 master_immigration <- read.csv("Master_Immigration.csv") 
 crime <- read.csv("CRIME.csv")
 rate <- read.csv("rate.csv")
-
+rate$X = NULL
   output$immtypePlot <- renderPlot({
     master_immigration%>%
       filter(immigrant_type == input$immigrant_type) %>%
@@ -33,6 +33,31 @@ rate <- read.csv("rate.csv")
      filter(region == input$region) %>%
      filter(year >= input$year[1], year <= input$year[2])%>%
      ggplot(aes(year, number, color = country)) + geom_point()
+  })
+  
+  output$totalrateTable <- renderDataTable({
+    rate %>%
+      filter(country == input$totalcountry) %>%
+      filter(year >= input$year[1], year <= input$year[2])
+  })
+  
+
+  output$regionTable <- renderDataTable({
+    master_immigration %>%
+      filter(region == input$region) %>%
+      filter(year >= input$year[1], year <= input$year[2])
+  })
+  
+  output$crimetimeTable <- renderDataTable({
+    crime %>%
+      filter(type == input$type)
+  })
+  
+  output$immtypeTable <- renderDataTable({
+    master_immigration%>%
+      filter(immigrant_type == input$immigrant_type) %>%
+      filter(country %in% input$country) %>%
+      filter(year >= input$year[1], year <= input$year[2])
   })
   
   })
