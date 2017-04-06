@@ -72,4 +72,18 @@ rate$X = NULL
       filter(year >= input$year[1], year <= input$year[2])
   })
   
+  datasetInput <- reactive({
+    switch(input$dataset,
+           "Master Immigration Data" = master_immigration,
+           "Crime Data" = crime,
+           "Total Immigration Rates" = rate)
   })
+  
+  output$downloadData <- downloadHandler(
+    filename = function() {paste(input$dataset, '.csv', sep='')},
+    content = function(file)  {
+      write.csv(datasetInput(), file)}
+  )
+  
+ })
+  
