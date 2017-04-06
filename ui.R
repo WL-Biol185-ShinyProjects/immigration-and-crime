@@ -24,7 +24,7 @@ fluidPage(
 
     # Show a plot of the generated distribution
     mainPanel(
-      tabsetPanel(type="tab",
+      tabsetPanel(type="pills",
                   tabPanel('Immigrant Type', plotOutput("immtypePlot")),
                   tabPanel('Crime Rates', plotOutput("crimetimePlot")),
                   tabPanel('Immigration Rates', plotOutput("totalratePlot")),
