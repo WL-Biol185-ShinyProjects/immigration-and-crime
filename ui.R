@@ -24,12 +24,16 @@ fluidPage(
 
     # Show a plot of the generated distribution
     mainPanel(
-      plotOutput("immtypePlot"),
-      plotOutput("crimetimePlot"),
-      plotOutput("totalratePlot"),
-      plotOutput("regionPlot")
-  )
+      tabsetPanel(type="tab",
+                  tabPanel('Immigrant Type', plotOutput("immtypePlot")),
+                  tabPanel('Crime Rates', plotOutput("crimetimePlot")),
+                  tabPanel('Immigration Rates', plotOutput("totalratePlot")),
+                  tabPanel('Immigration by Region', plotOutput("regionPlot"))
+                  
+                  
+                  )
+ 
 
 
-  )
-  )
+  )))
+  
