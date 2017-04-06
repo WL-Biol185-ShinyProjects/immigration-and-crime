@@ -40,8 +40,12 @@ fluidPage(
         selectizeInput("totalcountry", 
                        label = "Country for Overall Rate", 
                        choices = unique(rate$country), 
-                       selected = "Mexico")
-                ),
+                       selected = "Mexico"),
+        
+        selectInput("dataset", "Choose a dataset:",
+                    choices = c("Immigration Data", "Crime Data", "Total Immigration Rates")),
+        downloadButton('downloadData', 'Download')
+                   ),
 
     # Show a plot of the generated distribution
     mainPanel(
@@ -71,10 +75,10 @@ fluidPage(
                   
                   tabPanel('Total Immigration Rates Table',
                            dataTableOutput("rate"))
+
                   )
             )
 
 
-        )
-  )
+))
   
