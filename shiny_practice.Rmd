@@ -22,7 +22,7 @@ rate <- read.csv("rate.csv")
 
 ```{r}
 inputPanel(
-  checkboxGroupInput("country", label = ("Country"), choices = unique((rate$country), selected = Algeria))
+  selectizeInput("Country", label = h3('Select Country'), choices = unique((rate$country), selected = NULL, multiple = TRUE))
 )
 
 renderPlot({

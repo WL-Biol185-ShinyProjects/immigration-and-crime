@@ -36,4 +36,3 @@ rate <- read.csv("rate.csv")
   })
   
   })
-
