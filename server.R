@@ -7,6 +7,18 @@ crime <- read.csv("CRIME.csv")
 rate <- read.csv("rate.csv")
 rate$X = NULL
 
+  output$master_immigration = renderDataTable({
+    master_immigration
+  })
+  
+  output$crime = renderDataTable({
+    crime
+  })
+  
+  output$rate = renderDataTable({
+    rate
+  })
+  
   output$immtypePlot <- renderPlot({
     master_immigration%>%
       filter(immigrant_type == input$immigrant_type) %>%
