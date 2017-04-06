@@ -45,5 +45,22 @@ rate <- read.csv("rate.csv")
      filter(year >= input$year[1], year <= input$year[2])%>%
      ggplot(aes(year, number, color = country)) + geom_point()
   })
-  
+  datasetInput <- reactive({
+    switch(input$dataset,
+           "Immigration Data" = Master_Immigration,
+           "Crime Data" = CRIME,
+           "Total Immigration Rates" = rate)
   })
+  
+  output$table <- renderTable({
+    datasetInput()
+  })
+  
+  output$downloadData <- downloadHandler(
+    filename = function() {paste(input$dataset, '.csv', sep='')},
+    content = function(file)  {
+      write.csv(datasetInput(), file)
+    } 
+  )
+  })
+  
