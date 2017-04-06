@@ -47,8 +47,8 @@ rate <- read.csv("rate.csv")
   })
   datasetInput <- reactive({
     switch(input$dataset,
-           "Immigration Data" = Master_Immigration,
-           "Crime Data" = CRIME,
+           "Immigration Data" = master_immigration,
+           "Crime Data" = crime,
            "Total Immigration Rates" = rate)
   })
   
