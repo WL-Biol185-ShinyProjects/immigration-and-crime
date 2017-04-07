@@ -103,3 +103,18 @@ save(rate, file = "rate12.txt")
 write.csv(rate, file = "rate.csv")
 ```
 
+```{r}
+region_totals <- filter(Master_Immigration) %>%
+  group_by(region, year) %>%
+  summarize(number = sum(number, na.rm = TRUE))
+
+```
+
+```{r}
+write.csv(region_totals, file = "region_totals.csv")
+```
+
+```{r}
+ggplot(region_totals, aes(year, number, color = region)) + geom_point()
+```
+

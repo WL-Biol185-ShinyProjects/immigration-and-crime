@@ -3,6 +3,7 @@ library(shinythemes)
 master_immigration <- read.csv("Master_Immigration.csv")
 crime <- read.csv("CRIME.csv")
 rate <- read.csv("rate.csv")
+region_totals <- read.csv("region_totals.csv")
 
 # Define UI for application that draws a histogram
 fluidPage(
@@ -56,7 +57,8 @@ fluidPage(
                   tabPanel('Immigration Rates', 
                            plotOutput("totalratePlot")),
                   tabPanel('Immigration by Region', 
-                           plotOutput("regionPlot")),
+                           plotOutput("regionPlot"),
+                           plotOutput("totalregionPlot")),
                   tabPanel('Immigration Data Table',
                            dataTableOutput("Master_Immigration")),
                   tabPanel('Crime Data Table',
