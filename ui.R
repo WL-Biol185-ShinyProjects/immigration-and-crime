@@ -4,6 +4,8 @@ master_immigration <- read.csv("Master_Immigration.csv")
 crime <- read.csv("CRIME.csv")
 rate <- read.csv("rate.csv")
 region_totals <- read.csv("region_totals.csv")
+rate$X = NULL
+
 
 # Define UI for application that draws a histogram
 fluidPage(
@@ -41,31 +43,43 @@ fluidPage(
                        label = "Country for Overall Rate", 
                        choices = unique(rate$country), 
                        selected = "Mexico"),
+        
         selectInput("dataset", "Choose a dataset:",
                     choices = c("Immigration Data", "Crime Data", "Total Immigration Rates")),
         downloadButton('downloadData', 'Download')
-        ),
+                   ),
 
     # Show a plot of the generated distribution
     mainPanel(
       tabsetPanel(type="pills",
-                   
+                  
                   tabPanel('Immigrant Type', 
-                           plotOutput("immtypePlot")),
+                           plotOutput("immtypePlot"), 
+                           dataTableOutput("immtypeTable")),
+                  
                   tabPanel('Crime Rates', 
-                           plotOutput("crimetimePlot")),
+                           plotOutput("crimetimePlot"), 
+                           dataTableOutput("crimetimeTable")),
+                  
                   tabPanel('Immigration Rates', 
-                           plotOutput("totalratePlot")),
+                           plotOutput("totalratePlot"), 
+                           dataTableOutput("totalrateTable")),
+                  
                   tabPanel('Immigration by Region', 
                            plotOutput("regionPlot"),
-                           plotOutput("totalregionPlot")),
-                  tabPanel('Immigration Data Table',
-                           dataTableOutput("Master_Immigration")),
+                           plotOutput("totalregionPlot"),
+                           dataTableOutput("regionTable")),
+                
+
+                  tabPanel('Master Immigration Data Table',
+                           dataTableOutput("master_immigration")),
+                  
                   tabPanel('Crime Data Table',
-                           dataTableOutput("CRIME")),
+                           dataTableOutput("crime")),
+                  
                   tabPanel('Total Immigration Rates Table',
                            dataTableOutput("rate"))
-                  
+
                   )
             )
 
