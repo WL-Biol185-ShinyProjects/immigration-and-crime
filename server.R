@@ -43,7 +43,7 @@ rate <- read.csv("rate.csv")
     master_immigration %>%
      filter(region == input$region) %>%
      filter(year >= input$year[1], year <= input$year[2])%>%
-     ggplot(aes(year, number, color = country)) + geom_point()
+     ggplot(aes(year, number, color = region)) + geom_point()
   })
   datasetInput <- reactive({
     switch(input$dataset,
