@@ -46,7 +46,7 @@ fluidPage(
         
         
         selectInput("dataset", "Choose a dataset:",
-                    choices = c("Immigration Data", "Crime Data", "Total Immigration Rates")),
+                    choices = c("Master Immigration Data", "Crime Data", "Total Immigration Rates")),
         downloadButton('downloadData', 'Download')
                    ),
 
