@@ -39,12 +39,13 @@ rate$X = NULL
   output$crimetimePlot <- renderPlot({
     crime %>%
       filter(type %in% input$type) %>%
+      filter(year >= input$year[1], year <= input$year[2]) %>%
       ggplot(aes(year, crime_rate, color = type)) + geom_point() + geom_smooth(method = "loess", span =.3)
   })
   
   output$totalratePlot <- renderPlot({
     rate %>%
-      filter(country %in% input$totalcountry) %>%
+      filter(country %in% input$country) %>%
       filter(year >= input$year[1], year <= input$year[2]) %>%
       ggplot(aes(year, number, color = country)) + geom_point() + geom_smooth(method = "loess", span =.3)
   })
@@ -68,7 +69,8 @@ rate$X = NULL
   output$totalrateTable <- renderDataTable({
     rate %>%
       filter(country %in% input$totalcountry) %>%
-      filter(year >= input$year[1], year <= input$year[2])
+      filter(year >= input$year[1], year <= input$year[2])%>%
+      ggplot(aes(year, number, color = country)) + geom_point()
   })
   
   output$regionTable <- renderDataTable({
@@ -102,7 +104,6 @@ rate$X = NULL
     content = function(file)  {
       write.csv(datasetInput(), file)}
   )
-  
- 
+
 })
   
