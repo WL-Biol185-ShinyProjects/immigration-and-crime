@@ -82,9 +82,9 @@ dashboardPage(
                                 width = 12,
                                 fluidRow(
                                   box(width = 12,
-                                      selectizeInput("country",
+                                      selectizeInput("countrytotal",
                                                      label = "Country",
-                                                     choices = unique(master_immigration$country),
+                                                     choices = unique(rate$country),
                                                      selected = "Mexico", multiple = TRUE)),
                                   box(width = 12,
                                       plotOutput("totalratePlot")),

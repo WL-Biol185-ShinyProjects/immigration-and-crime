@@ -45,7 +45,7 @@ rate$X = NULL
   
   output$totalratePlot <- renderPlot({
     rate %>%
-      filter(country %in% input$country) %>%
+      filter(country %in% input$countrytotal) %>%
       filter(year >= input$year[1], year <= input$year[2]) %>%
       ggplot(aes(year, number, color = country)) + geom_point() + geom_smooth(method = "loess", span =.3)
   })
