@@ -10,6 +10,7 @@ library(shiny)
 library(dplyr)
 library(ggplot2)
 library(shinydashboard)
+shinytheme("superhero")
 dashboardPage(
   dashboardHeader(title = "Crime and Immigration"),
   dashboardSidebar(
@@ -23,7 +24,6 @@ dashboardPage(
     tabItems(
       tabItem(tabName = "home",
               fluidPage(
-                theme = shinytheme("superhero"),
                 titlePanel("Crime and Immigration Rates Over Time in the Unites States"),
                 h5("Welcome to the Crime and Immigration Rates Over Time in the United States   App! This app is designed to allow the user to experiment with viewing different rates of immigration over time and how they relate to changes in crime rates over time. Filters are avaiable to allow for examination of certain types of immigrants, only immigrants from certain countries, or only during certain time periods. Crime rates may also be filtered by the specific type of crime.",
                    br(),
@@ -128,11 +128,18 @@ dashboardPage(
                   "As mentioned are dately was freely retrieved from the annually publish statistics from the US Department of Homeland Security and the US Federal Bureau of Investigation. Below are the links to download our fully compiled data sets. We hope you enjoy them!",
                   br(),
                   br(),
-                  downloadButton('downloadData', 
-                                 'Download'),
+                  selectInput("dataset", "Choose a dataset:",
+                                                  choices = c("Immigration Data", "Crime Data", "Total Immigration Rates")),
+                          downloadButton('downloadData', 'Download'),
                   br(),
                   br(),
-                  "Additonally, we would like to extend our deepest gratitude to Dr. Whitworth to all his guidance and help in making this app a reality! Yours Truly, Harrison Westgarth and Kara Farroni")
+                  "Additonally, we would like to extend our deepest gratitude to Dr. Whitworth for all his guidance and help in making this app a reality!",
+br(),
+br(),
+"Yours Truly,",
+br(),
+br(),
+"Harrison Westgarth and Kara Farroni")
               ))
     )
   ))

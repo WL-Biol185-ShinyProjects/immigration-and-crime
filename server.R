@@ -92,6 +92,12 @@ rate$X = NULL
 
   })
   
+  output$totalrateTable <- renderDataTable({
+    rate%>%
+      filter(country %in% input$countrytotal) %>%
+      filter(year >= input$year[1], year <= input$year[2])
+  })
+  
   datasetInput <- reactive({
     switch(input$dataset,
            "Master Immigration Data" = master_immigration,
