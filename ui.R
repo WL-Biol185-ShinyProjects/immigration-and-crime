@@ -48,19 +48,19 @@ dashboardPage(
                        tabPanel("Immigrant Type",
                                 width = 12,
                                 fluidRow(
-                                  box(width = 12,
+                                  box(width = 6,
                                       selectizeInput("country",
                                                      label = "Country",
                                                      choices = unique(master_immigration$country),
                                                      selected = "Mexico", multiple = TRUE)),
-                                  box(width = 12,
+                                  box(width = 6,
                                       selectInput("immigrant_type",
                                                   label = "Type",
                                                   choices = unique(master_immigration$immigrant_type),
                                                   selected = "Lawful")),
-                                  box(width = 12,
+                                  box(width = 12, strong("Plot of Immigration Rate Over Time by Immigrant Type"),
                                       plotOutput("immtypePlot")),
-                                  box(width = 12,
+                                  box(width = 12, strong("Output Table of Data"),
                                       dataTableOutput("immtypeTable"))
                                 )),
                        
@@ -72,9 +72,9 @@ dashboardPage(
                                                          label = "Crime Type",
                                                          choices = unique(crime$type),
                                                          selected = "Drug Related")),
-                                  box(width = 12,
-                                      plotOutput("crimetimePlot")),
-                                  box(width = 12,
+                                  box(width = 12, strong("Plot of Crime Rates Over Time by Crime Type"),
+                                      plotOutput("crimetimePlot"), strong("*Crime Rates are incidence per 100,000 people*")),
+                                  box(width = 12, strong("Output Table of Data"),
                                       dataTableOutput("crimetimeTable"))
                                 )),
                        
@@ -86,9 +86,9 @@ dashboardPage(
                                                      label = "Country",
                                                      choices = unique(rate$country),
                                                      selected = "Mexico", multiple = TRUE)),
-                                  box(width = 12,
+                                  box(width = 12, strong("Plot of Total Immigration Rates of All Immigrant Types"),
                                       plotOutput("totalratePlot")),
-                                  box(width = 12,
+                                  box(width = 12, strong("Output Table of Data"),
                                       dataTableOutput("totalrateTable"))
                                 )),
                        
@@ -100,11 +100,11 @@ dashboardPage(
                                                          label = "Region", 
                                                          choices = unique(master_immigration$region), 
                                                          selected = "Middle East")),
-                                  box(width = 12,
+                                  box(width = 12, strong("Plot of All Countries Separately in a Region"),
                                       plotOutput("regionPlot")),
-                                  box(width = 12,
+                                  box(width = 12, strong("Plot of Total Immigrants Summed from All Countries in a Region"),
                                       plotOutput("totalregionPlot")),
-                                  box(width = 12,
+                                  box(width = 12, strong("Output Table of Data"),
                                       dataTableOutput("regionTable"))
                                 ))
                 ))),

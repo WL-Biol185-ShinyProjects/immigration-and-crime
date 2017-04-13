@@ -63,7 +63,7 @@ rate$X = NULL
     region_totals %>%
       filter(region %in% input$region) %>%
       filter(year >= input$year[1], year <= input$year[2]) %>%
-      ggplot(aes(year, number, color = region)) + geom_point()
+      ggplot(aes(year, number, color = region)) + geom_point() 
   })
 
   output$totalrateTable <- renderDataTable({
