@@ -125,7 +125,7 @@ dashboardPage(
                 titlePanel("Acknowledgements and Sources"),
                 h5(
                   br(),
-                  "As mentioned are dately was freely retrieved from the annually publish statistics from the US Department of Homeland Security and the US Federal Bureau of Investigation. Below are the links to download our fully compiled data sets. We hope you enjoy them!",
+                  "As mentioned our dately was freely retrieved from the annually publish statistics from the US Department of Homeland Security and the US Federal Bureau of Investigation. Below are the links to download our fully compiled data sets. We hope you enjoy them!",
                   br(),
                   br(),
                   selectInput("dataset", "Choose a dataset:",
