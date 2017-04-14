@@ -12,26 +12,36 @@ library(ggplot2)
 library(shinydashboard)
 shinytheme("superhero")
 dashboardPage(
-  dashboardHeader(title = "Crime and Immigration"),
+  dashboardHeader(title = "Crime and Immigration",
+                  titleWidth = 235),
   dashboardSidebar(
+    width = 235,
     sidebarMenu(
       menuItem("Home", tabName = "home"),
       menuItem("Graphs and Data", tabName = "data"),
       menuItem("Tables", tabName = "tables"),
-      menuItem("Sources and Acknowledgements", tabName = "sources"))),
+      menuItem("Sources and Acknowledgements", tabName = "sources")
+      )),
   
   dashboardBody(
     tabItems(
       tabItem(tabName = "home",
               fluidPage(
                 titlePanel("Crime and Immigration Rates Over Time in the Unites States"),
-                h5("Welcome to the Crime and Immigration Rates Over Time in the United States   App! This app is designed to allow the user to experiment with viewing different rates of immigration over time and how they relate to changes in crime rates over time. Filters are avaiable to allow for examination of certain types of immigrants, only immigrants from certain countries, or only during certain time periods. Crime rates may also be filtered by the specific type of crime.",
+                h5("Welcome to the Crime and Immigration Rates Over Time in the United States   App! This app is designed to allow the user to experiment with viewing different rates of immigration over time and how they relate to changes in crime rates over time. Filters are avaiable to allow for examination of certain types of immigrants, only immigrants from certain countries, or only during certain time periods. Crime rates may be filtered by the specific type of crime.",
                    br(),
                    br(),
                    "Given the recent US Presidential Election of 2016 and the appearance of policies and rhetoric that have broadly depicted immigrants from many countries in a negativel light, we feel it is important and our responsibility as citizens to better understand the nature of immigration in the US and educate ourselves on a personal level.",
                    br(),
                    br(),
-                   "We compiled our data from publicly available statistics from the US Department of Homeland Security and the US Federal Bureau of download and free use for future projects. We hope you enjoy the application!"))),
+                   "We compiled our data from publicly available statistics from the US Department of Homeland Security and the US Federal Bureau.  Our datasets are availavle for download and free use for future projects. We hope you enjoy the application!",
+                   br(),
+                   br(),
+                   img(src = "world.png",
+                       height = 390,
+                       width = 578,
+                       style = "display: block; margin-left: auto; margin-right: auto")
+                   ))),
       
       tabItem(tabName = "data",
               fluidRow(
@@ -125,12 +135,16 @@ dashboardPage(
                 titlePanel("Acknowledgements and Sources"),
                 h5(
                   br(),
-                  "As mentioned our dately was freely retrieved from the annually publish statistics from the US Department of Homeland Security and the US Federal Bureau of Investigation. Below are the links to download our fully compiled data sets. We hope you enjoy them!",
+                  "As mentioned, our dately was freely retrieved from the annually published statistics from the US Department of Homeland Security and the US Federal Bureau of Investigation. Below are the links to download our fully compiled data sets. We hope you enjoy them!",
+                  
                   br(),
                   br(),
                   selectInput("dataset", "Choose a dataset:",
                                                   choices = c("Immigration Data", "Crime Data", "Total Immigration Rates")),
                           downloadButton('downloadData', 'Download'),
+                  br(),
+                  br(),
+                  "World Map image from: https://aiaconnect.wordpress.com/2016/05/09/going-international-avoid-these-six-marketing-obstacles/",
                   br(),
                   br(),
                   "Additonally, we would like to extend our deepest gratitude to Dr. Whitworth for all his guidance and help in making this app a reality!",
