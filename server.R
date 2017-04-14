@@ -100,7 +100,7 @@ rate$X = NULL
   
   datasetInput <- reactive({
     switch(input$dataset,
-           "Master Immigration Data" = master_immigration,
+           "Immigration Data" = master_immigration,
            "Crime Data" = crime,
            "Total Immigration Rates" = rate)
   })
